@@ -1,0 +1,4020 @@
+\_sh v3.0  400  MDF-Standard
+
+\tx .
+\anm
+\std $
+\dt
+
+\tx aeuuō
+\anm
+\std a̍ēuuō
+\dt
+
+\tx aēiti
+\anm
+\std a̍ēiti
+\dt
+
+\tx aētaiiā̊
+\anm
+\std aētayā̊
+\dt
+
+\tx aēte
+\anm
+\std aēte
+\dt
+
+\tx aēuuaṇdasō
+\anm
+\std aēvaṇdasō̍
+\dt
+
+\tx aēuuō
+\anm
+\std a̍ēuuō
+\dt
+
+\tx aēsmanąm
+\anm édhaḥ ? 
+\std a̍ēsmanąm
+\dt
+
+\tx aēsmą
+\anm
+\std aēsmą
+\dt
+
+\tx aēṣ̌a
+\anm īṣā́-
+\std aēša̍
+\dt
+
+\tx aoxtō.nāmana
+\anm
+\std aoxtō_nāmana
+\dt
+
+\tx aojō
+\anm
+\std a̍ojō
+\dt
+
+\tx aotəm
+\anm
+\std aotəm
+\dt
+
+\tx aotō
+\anm
+\std aotō
+\dt
+
+\tx aoδušarə
+\anm
+\std daoša̍tare
+\dt
+
+\tx aom
+\anm
+\std ao̍m
+\dt
+
+\tx aōi
+\anm
+\std a̍uui
+\dt
+
+\tx aōjō
+\anm
+\std a̍ojō
+\dt
+
+\tx aipi.kaniiāt̰
+\anm
+\std aⁱpi_kanyāt̰
+\dt
+
+\tx aipi.pārəmnāi
+\anm
+\std aⁱpi_pārəmnāi
+\dt
+
+\tx aiβiiō
+\anm adbhyás
+\std aⁱβyō̍
+\dt
+
+\tx aiŋ́hā̊
+\anm
+\std aɧyā̊̍
+\dt
+
+\tx ainiiō
+\anm
+\std aⁱńyō̍
+\dt
+
+\tx auruuat̰.aspāi
+\anm
+\std a̍uruuat̰_aspāi
+\dt
+
+\tx akana
+\anm
+\std akana
+\dt
+
+\tx [akana]δa
+\anm
+\std _δa
+\dt
+
+\tx axtiš
+\anm
+\std axtiš
+\dt
+
+\tx axᵛāṣ̌e
+\anm
+\std a_ xᵛāṣ̌e
+\dt
+
+\tx aγa
+\anm
+\std aγa̍
+\dt
+
+\tx aγəm
+\anm
+\std aγə̍m
+\dt
+
+\tx aγruuō
+\anm
+\std a_ γruuā̊̍
+\dt
+
+\tx acištaēibiiō
+\anm
+\std a̍cištaēⁱbyō
+\dt
+
+\tx aθa
+\anm
+\std a̍θa
+\dt
+
+\tx aθaurune
+\anm
+\std a̍θaᵘrune
+\dt
+
+\tx aθra
+\anm
+\std a̍θra
+\dt
+
+\tx adāt̰
+\anm
+\std adāt̰
+\dt
+
+\tx adāraēm
+\anm
+\std a̍dāraēm
+\dt
+
+\tx aδarāt̰
+\anm
+\std aδarāt̰
+\dt
+
+\tx aδāitiiō.aŋharəθranąm
+\anm
+\std a_dāⁱtyō_aɧarəθranąm
+\dt
+
+\tx at̰
+\anm
+\std at̰
+\dt
+
+\tx apa
+\anm
+\std a̍pa
+\dt
+
+\tx apa∙nəmata
+\anm
+\std a̍pa_nəmata
+\dt
+
+\tx apaiiemi
+\anm Kürzung
+\std apa̍iiemi
+\dt
+
+\tx aparəm
+\anm
+\std a̍parəm
+\dt
+
+\tx apąm
+\anm
+\std apą̍m
+\dt
+
+\tx apą̇m
+\anm
+\std apą̍m
+\dt
+
+\tx apərənāiiu
+\anm
+\std a_ pərənāiiu
+\dt
+
+\tx aŋrasca
+\anm
+\std aŋhras _ca
+\dt
+
+\tx aŋrəm
+\anm
+\std aŋhrəm
+\dt
+
+\tx aŋhā̊
+\anm
+\std aɧyā̊̍
+\dt
+
+\tx aŋhən
+\anm
+\std a̍ɧən
+\dt
+
+\tx aŋhə̄uš
+\anm
+\std a̍ŋhaoš
+\dt
+
+\tx aŋhrō
+\anm
+\std aɧrō
+\dt
+
+\tx anaipi.pārəmnāi
+\anm
+\std an_ aⁱpi_pārəmnāi
+\dt
+
+\tx anāiritibiiasca
+\anm
+\std anāⁱritibyas _ca
+\dt
+
+\tx anuxtə̄e
+\anm
+\std anuxtə̄̍e
+\dt
+
+\tx anupaiiatąm
+\anm
+\std an_upa_yatąm;an_ upa_yatąm
+\dt
+
+\tx anumatə̄e
+\anm
+\std anumatə̄̍e
+\dt
+
+\tx anumaiia
+\anm
+\std anumaya
+\dt
+
+\tx aniia
+\anm
+\std ańya̍
+\dt
+
+\tx aniiāiš
+\anm
+\std ańyā̍iš
+\dt
+
+\tx anuuarštə̄e
+\anm
+\std anuuarštə̄̍e
+\dt
+
+\tx ańiia
+\anm
+\std ańiia̍
+\dt
+
+\tx ańiiaēibiiō
+\anm
+\std ańiia̍ēibiiō
+\dt
+
+\tx aməm
+\anm
+\std a̍məm
+\dt
+
+\tx aməṣ̌aēibiiō
+\anm
+\std a_ mə̍ṣ̌aēibiiō
+\dt
+
+\tx aməṣ̌anąm
+\anm
+\std a_ mə̍ṣ̌anąm
+\dt
+
+\tx aməṣ̌ə̄
+\anm
+\std amə̍ṣ̌ə̄
+\dt
+
+\tx am̨at̰
+\anm
+\std ahma̍t̰
+\dt
+
+\tx am̨i
+\anm
+\std a̍hmi
+\dt
+
+\tx aiiąnca
+\anm
+\std aiiąn _ca
+\dt
+
+\tx aiiesniia
+\anm
+\std a_ yasńiia̍
+\dt
+
+\tx aiiesńiia
+\anm
+\std ayasńya̍
+\dt
+
+\tx aiiō.aγrāiš
+\anm
+\std a̍yō_aγrāiš
+\dt
+
+\tx auua
+\anm vgl. avóḥ g.du.
+\std auua̍
+\dt
+
+\tx auua
+\anm
+\std auua
+\dt
+
+\tx auuaiδīm
+\anm
+\std a̍uui dim
+\dt
+
+\tx auuaγnānō
+\anm
+\std a̍va_γnānō
+\dt
+
+\tx auua.janiiāt̰
+\anm
+\std a̍va_janyāt̰
+\dt
+
+\tx auuaθa
+\anm
+\std auuaθa
+\dt
+
+\tx auuabarata
+\anm
+\std a̍uua_barata
+\dt
+
+\tx auua.barāmi
+\anm
+\std a̍uua_barāmi
+\dt
+
+\tx auuabarəṇti
+\anm  
+\std a̍uua_barəṇti
+\dt
+
+\tx auuanaiieni
+\anm
+\std auua_ naiiāni
+\dt
+
+\tx auuazat̰
+\anm
+\std a̍uuazat̰
+\dt
+
+\tx auuahmiia
+\anm ??
+\std a_ vahmiia̍
+\dt
+
+\tx auuāstrəm
+\anm
+\std a_vāstrəm
+\dt
+
+\tx auuā̊
+\anm
+\std auuā̊̍
+\dt
+
+\tx auui
+\anm
+\std a̍uui
+\dt
+
+\tx araēkanąm
+\anm
+\std araēkanąm
+\dt
+
+\tx araoδatəm
+\anm
+\std a̍raoδatəm
+\dt
+
+\tx arəjaiti
+\anm
+\std a̍rəjaiti
+\dt
+
+\tx arəzahe
+\anm
+\std arəzahe
+\dt
+
+\tx armaēštąm
+\anm ??
+\std armaē_štąm
+\dt
+
+\tx arštiš
+\anm
+\std aršti̍š;Arštiš
+\dt
+
+\tx arṣ̌nō
+\anm
+\std a̍ršnō
+\dt
+
+\tx as
+\anm
+\std ās
+\dt
+
+\tx asəngō.gāum
+\anm
+\std asəṇgō_gāum
+\dt
+
+\tx askəṇdąm
+\anm
+\std a_skəṇdąm
+\dt
+
+\tx astanąm
+\anm
+\std a̍stanąm
+\dt
+
+\tx astaiiō
+\anm
+\std a̍stayō
+\dt
+
+\tx astauuatō
+\anm
+\std astva̍tō
+\dt
+
+\tx asti
+\anm
+\std a̍sti
+\dt
+
+\tx astī
+\anm
+\std a̍sti
+\dt
+
+\tx astuuaitinąm
+\anm
+\std astva̍ⁱtinąm
+\dt
+
+\tx astuuaitīm
+\anm
+\std astva̍ⁱtīm
+\dt
+
+\tx ast[+]aitinąm
+\anm astan-vánt-
+\std astva̍ⁱtinąm
+\dt
+
+\tx aspa
+\anm
+\std a̍spa
+\dt
+
+\tx aspaną̇m
+\anm
+\std a̍spanąm
+\dt
+
+\tx aspahe
+\anm
+\std a̍spahe
+\dt
+
+\tx aspą
+\anm
+\std a̍spą
+\dt
+
+\tx aspəm
+\anm
+\std a̍spəm
+\dt
+
+\tx aspə̄
+\anm
+\std a̍spə̄
+\dt
+
+\tx aspō
+\anm
+\std a̍spō;ā̍pō
+\dt
+
+\tx asmana
+\anm
+\std asmana
+\dt
+
+\tx asmanəm
+\anm
+\std a̍smanəm
+\dt
+
+\tx azaiti
+\anm
+\std a̍zaiti
+\dt
+
+\tx azəm
+\anm
+\std azə̍m
+\dt
+
+\tx azrazdāi
+\anm
+\std a_ zrazdā̍i
+\dt
+
+\tx aš.aōjaŋhəm
+\anm
+\std aš_aojaŋhəm
+\dt
+
+\tx aš.aōjastəmąm
+\anm
+\std aš_aojastəmąm
+\dt
+
+\tx ašauuanəm
+\anm
+\std a̍ṣ̌āvanəm
+\dt
+
+\tx ašauuanə̄m
+\anm
+\std a̍ṣ̌āvanəm
+\dt
+
+\tx ašauuastəmō
+\anm
+\std a̍ṣ̌avastəmō
+\dt
+
+\tx ašahe
+\anm
+\std a̍ṣ̌ahe
+\dt
+
+\tx ašəm
+\anm
+\std a̍ṣ̌əm
+\dt
+
+\tx ašiš
+\anm ???
+\std a̍ṣ̌iš
+\dt
+
+\tx aštəmō
+\anm
+\std aštəmō̍
+\dt
+
+\tx aštra
+\anm
+\std a̍štra
+\dt
+
+\tx aštraiia
+\anm
+\std a̍štraya
+\dt
+
+\tx ažinąm
+\anm
+\std a̍žinąm
+\dt
+
+\tx ažim
+\anm
+\std a̍žim
+\dt
+
+\tx aṣ̌aonąm
+\anm
+\std a̍ṣ̌aonąm
+\dt
+
+\tx aṣ̌aone
+\anm
+\std a̍ṣ̌aone
+\dt
+
+\tx aṣ̌at̰
+\anm
+\std a̍ṣ̌āt̰
+\dt
+
+\tx aṣ̌aiia
+\anm
+\std a̍ṣ̌aya
+\dt
+
+\tx aṣ̌auua
+\anm vgl. ṛtā́van-; Lautgesetz → *ṛ́tā̆van- 
+\std a̍ṣ̌āva
+\dt
+
+\tx aṣ̌auuabiiō
+\anm
+\std a̍ṣ̌āvabyō
+\dt
+
+\tx aṣ̌āum
+\anm *artʰāvan > -vən > -vm
+\std a̍ṣ̌āum
+\dt
+
+\tx aṣ̌āt̰
+\anm
+\std a̍ṣ̌āt̰
+\dt
+
+\tx aṣ̌əm
+\anm
+\std a̍ṣ̌əm
+\dt
+
+\tx ahe
+\anm
+\std ahe̍
+\dt
+
+\tx ahi
+\anm
+\std a̍hi
+\dt
+
+\tx ahunəm
+\anm
+\std a̍hunəm
+\dt
+
+\tx ahunō
+\anm vgl. nur aind. ásu-
+\std a̍hunō
+\dt
+
+\tx ahura
+\anm
+\std ahura
+\dt
+
+\tx ahuraēibiia
+\anm
+\std a̍huraēibiia
+\dt
+
+\tx ahuraēibiiō
+\anm
+\std a̍huraēibiiō
+\dt
+
+\tx ahuraδātəm
+\anm
+\std ahura_δātəm
+\dt
+
+\tx ahuraδātō
+\anm
+\std ahura_δātō
+\dt
+
+\tx ahuramazda
+\anm
+\std a̍hura ma̍zda
+\dt
+
+\tx ahurahe
+\anm
+\std a̍hurahe
+\dt
+
+\tx ahurāi
+\anm
+\std a̍hurāi
+\dt
+
+\tx ahurəm
+\anm
+\std a̍hurəm
+\dt
+
+\tx ahurō
+\anm
+\std a̍hurō
+\dt
+
+\tx ahmāi
+\anm
+\std ahmā̍i
+\dt
+
+\tx ahmāicit̰
+\anm
+\std ahmā̍i _cit̰
+\dt
+
+\tx āat̰
+\anm
+\std ā̍at̰
+\dt
+
+\tx āxtuirim
+\anm
+\std āxtuirī̍m
+\dt
+
+\tx °āxšaiieiṇti
+\anm ?
+\std āxša̍iieiṇti
+\dt
+
+\tx āγə̄.uruuaiiaiti
+\anm
+\std āγərəβiie̍ite
+\dt
+
+\tx ātrə.carana
+\anm
+\std ātr_carana
+\dt
+
+\tx ātrəm
+\anm
+\std ātrəm
+\dt
+
+\tx ātrə.vazanəm
+\anm
+\std ātr_vazanəm
+\dt
+
+\tx āθβiiānōiš
+\anm āptyá-
+\std āθβiiānōiš
+\dt
+
+\tx āθre
+\anm
+\std āθre
+\dt
+
+\tx āθrō
+\anm
+\std āθrō
+\dt
+
+\tx āpərətiš
+\anm
+\std āpərətiš
+\dt
+
+\tx āpō
+\anm
+\std ā̍pō
+\dt
+
+\tx āfš
+\anm
+\std āfš
+\dt
+
+\tx ˣābiia
+\anm
+\std ābiia̍
+\dt
+
+\tx ās
+\anm
+\std ās
+\dt
+
+\tx āsu.aspō.təmō
+\anm
+\std āsu̍_a̍spō_təmō
+\dt
+
+\tx āzbaiia
+\anm Präverb??
+\std āzba̍iia
+\dt
+
+\tx ā̊ŋha
+\anm
+\std ā̊̍ŋha
+\dt
+
+\tx ā̊ŋhąm
+\anm
+\std ā̊ɧą̍m
+\dt
+
+\tx ā̊ŋ́hąm
+\anm analog. Pal.
+\std ā̊ɧą̍m
+\dt
+
+\tx ərəγaitinąm
+\anm
+\std ərəγaⁱtinąm
+\dt
+
+\tx ərəγata
+\anm
+\std ərəγata
+\dt
+
+\tx ərəzatəm
+\anm rajatá-
+\std ərəzatə̍m
+\dt
+
+\tx iδa
+\anm
+\std iδa̍
+\dt
+
+\tx imat̰
+\anm
+\std ima̍t̰
+\dt
+
+\tx imā̊
+\anm
+\std imā̊̍
+\dt
+
+\tx irimaitinąm
+\anm
+\std ⁱrīmaⁱtinąm
+\dt
+
+\tx irista
+\anm
+\std ⁱrista
+\dt
+
+\tx išūidiiāmahi
+\anm
+\std išūidiiā̍mahi
+\dt
+
+\tx uγrəm
+\anm
+\std uγrə̍m
+\dt
+
+\tx udarō
+\anm
+\std
+\dt
+
+\tx udarō.θrąsanąm
+\anm
+\std udarō_θrąsanąm
+\dt
+
+\tx udra
+\anm
+\std udra̍
+\dt
+
+\tx udrahe
+\anm
+\std udra̍he
+\dt
+
+\tx udrəm
+\anm
+\std udrə̍m
+\dt
+
+\tx upa.θβaršti
+\anm
+\std upa_θβaršti
+\dt
+
+\tx upa.vāδaiiaēta
+\anm
+\std upa_vāδa̍yaēta
+\dt
+
+\tx uparāt̰
+\anm
+\std u̍parāt̰
+\dt
+
+\tx upāpa
+\anm
+\std upāpa
+\dt
+
+\tx upāpanąm
+\anm
+\std upāpanąm
+\dt
+
+\tx upāpəm
+\anm
+\std upāpəm
+\dt
+
+\tx upāzananąm
+\anm
+\std upāzananąm
+\dt
+
+\tx upāzōit̰
+\anm
+\std u̍pa_azōit̰
+\dt
+
+\tx upəma
+\anm
+\std upəma̍
+\dt
+
+\tx urune
+\anm ?
+\std ᵘrune̍
+\dt
+
+\tx uruniia
+\anm
+\std ᵘrunya̍
+\dt
+
+\tx uruuaranąm
+\anm
+\std urva̍ranąm
+\dt
+
+\tx uruuaraiiā̊
+\anm
+\std urva̍rayā̊
+\dt
+
+\tx uruuarā̊
+\anm
+\std urva̍rā̊
+\dt
+
+\tx uruuarā̊sca
+\anm
+\std urva̍rā̊s _ca
+\dt
+
+\tx uruuastarəmca
+\anm
+\std ᵘruuištrəm _ca
+\dt
+
+\tx uruuastārəm
+\anm
+\std ᵘruuištrəm
+\dt
+
+\tx uruuāsnaiiā̊
+\anm
+\std urvāsnayā̊
+\dt
+
+\tx uspataiieni
+\anm
+\std us_ pata̍iiāni
+\dt
+
+\tx uzjāmōit̰
+\anm
+\std uz_jāmōit̰
+\dt
+
+\tx uzdaēza
+\anm
+\std uzdaēza
+\dt
+
+\tx uzuuāδaiieinti
+\anm
+\std uz_uuāδa̍iieiṇti
+\dt
+
+\tx ušastarə
+\anm
+\std uša̍stare
+\dt
+
+\tx uštaraną̇m
+\anm
+\std u̍štranąm
+\dt
+
+\tx uštā
+\anm
+\std ušta
+\dt
+
+\tx uštrahe
+\anm
+\std u̍štrahe
+\dt
+
+\tx uštrāca
+\anm
+\std uštrā̍ _ca
+\dt
+
+\tx uštrąsca
+\anm
+\std uštrą̍s _ca
+\dt
+
+\tx uštrəm
+\anm
+\std u̍štrəm
+\dt
+
+\tx uštrəmca
+\anm
+\std uštrə̍m _ca
+\dt
+
+\tx uštrə̄sca
+\anm
+\std uštrə̄̍s _ca
+\dt
+
+\tx ūpaŋhacat̰
+\anm
+\std u̍paŋhacat̰
+\dt
+
+\tx kaine
+\anm
+\std kaⁱnya̍
+\dt
+
+\tx kaθaca
+\anm
+\std ka̍θa _ca
+\dt
+
+\tx kaniiąm
+\anm
+\std kanyą̍m
+\dt
+
+\tx kańiiō
+\anm
+\std kańyā̊̍
+\dt
+
+\tx kamara
+\anm
+\std kamara
+\dt
+
+\tx kauuaēm
+\anm
+\std kauua̍ēm
+\dt
+
+\tx karətō
+\anm ərə > arə
+\std kartō̍
+\dt
+
+\tx karṣ̌iiąm
+\anm
+\std karšyąm
+\dt
+
+\tx kasiiapanąm
+\anm
+\std kasya̍panąm
+\dt
+
+\tx kahrpunanąm
+\anm
+\std kahrpunanąm
+\dt
+
+\tx kā
+\anm
+\std kā
+\dt
+
+\tx kāraiieiti
+\anm
+\std kāra̍iieiti
+\dt
+
+\tx kąmcit̰
+\anm
+\std kąm _cit̰
+\dt
+
+\tx kąstrəm
+\anm khanítram
+\std kąstrəm
+\dt
+
+\tx kərənaoiti
+\anm
+\std kərəna̍oⁱti
+\dt
+
+\tx kərənauuāne
+\anm
+\std kərəna̍uuāni
+\dt
+
+\tx kərənuiiāt̰
+\anm
+\std kərənuyā̍t̰
+\dt
+
+\tx kərəṇtat̰
+\anm
+\std kərəṇta̍t
+\dt
+
+\tx kərəšāspō
+\anm
+\std Kərəsāspō
+\dt
+
+\tx kəhrpa
+\anm
+\std kərəpa̍
+\dt
+
+\tx kō
+\anm
+\std kō
+\dt
+
+\tx kutakunąm
+\anm u-a???
+\std kutakanąm
+\dt
+
+\tx kūiris
+\anm
+\std kuⁱris
+\dt
+
+\tx xā̊
+\anm
+\std xā̊
+\dt
+
+\tx xraoždiiehiia
+\anm
+\std xra̍oždiiehiia
+\dt
+
+\tx xraožduuanąm
+\anm
+\std xraoždvanąm
+\dt
+
+\tx xrafstraγnəm
+\anm -hán-
+\std xrafstra_γnə̍m
+\dt
+
+\tx xšaētāt̰
+\anm
+\std xšaētāt̰
+\dt
+
+\tx xšaθraēšu
+\anm
+\std xšaθra̍ēšu
+\dt
+
+\tx xšaθraēšuua
+\anm
+\std xšaθra̍ēšuua
+\dt
+
+\tx xšaθraiiō
+\anm
+\std xšaθra̍iiō
+\dt
+
+\tx xšaθrəm
+\anm
+\std xšaθrə̍m
+\dt
+
+\tx xšaθre
+\anm
+\std xšaθre̍
+\dt
+
+\tx xšafnasca
+\anm
+\std xšafnas _ca
+\dt
+
+\tx xštuuī
+\anm
+\std xštvī
+\dt
+
+\tx xšuuaš.ašīm
+\anm
+\std xšuuaš_ašīm
+\dt
+
+\tx xṣ̌uuaš
+\anm
+\std xšvaš
+\dt
+
+\tx ˣxᵛaini.starətəm
+\anm
+\std xᵛaⁱńi_startəm
+\dt
+
+\tx xᵛaŋha
+\anm
+\std xᵛa̍ɧa
+\dt
+
+\tx xᵛarəθahe
+\anm
+\std xᵛarəθahe
+\dt
+
+\tx xᵛarənaŋuhastəmō
+\anm
+\std xᵛa̍rənaŋᵛhastəmō
+\dt
+
+\tx xᵛarənaŋhaca
+\anm
+\std xᵛa̍rənaŋha _ca
+\dt
+
+\tx xᵛarənaŋ́hā̊
+\anm
+\std xᵛa̍rənaŋᵛhā̊
+\dt
+
+\tx xᵛarənaŋhṇtəm
+\anm
+\std xᵛa̍rənaŋᵛhaṇtəm
+\dt
+
+\tx xᵛarənō
+\anm sú-arṇa-ra-
+\std xᵛa̍rənō
+\dt
+
+\tx xᵛarəṇti
+\anm
+\std xᵛa̍rəṇti
+\dt
+
+\tx xᵛāṣ̌aiia
+\anm
+\std xᵛā̍ṣ̌aiia
+\dt
+
+\tx gaēθanąm
+\anm
+\std ga̍ēθanąm
+\dt
+
+\tx gaēθāuuiiō
+\anm
+\std gaēθābiiō
+\dt
+
+\tx gaēθā̊
+\anm ???
+\std ga̍ēθā̊
+\dt
+
+\tx gaēθąm
+\anm
+\std ga̍ēθąm
+\dt
+
+\tx gaēθiiaēibiiō
+\anm ?
+\std gaēθiia̍ēibiiō
+\dt
+
+\tx gaoiδi
+\anm
+\std gaoⁱδi
+\dt
+
+\tx gaomauuaitinąm
+\anm
+\std ga̍omavaⁱtinąm
+\dt
+
+\tx gaoṣ̌āuuarə
+\anm ???pdf 592
+\std gaoš_ā_vare
+\dt
+
+\tx gairiną̇m
+\anm
+\std gairi̍nąm
+\dt
+
+\tx gatō
+\anm
+\std gatō̍
+\dt
+
+\tx gaδβąm
+\anm
+\std gaδβąm
+\dt
+
+\tx gaŋhəṇti
+\anm
+\std ga̍ŋhəṇti
+\dt
+
+\tx gauuāzō
+\anm
+\std gav_āzō
+\dt
+
+\tx gauuāzišta
+\anm
+\std gav_āzišta
+\dt
+
+\tx gauuə̨m
+\anm
+\std ga̍uuąm
+\dt
+
+\tx garəməm
+\anm
+\std garəmə̍m
+\dt
+
+\tx garəmō
+\anm
+\std garəmō̍
+\dt
+
+\tx garəmō.skarana
+\anm
+\std garmō_skarana
+\dt
+
+\tx garōnmānā
+\anm
+\std garō nmānā
+\dt
+
+\tx gātu
+\anm
+\std gātu̍
+\dt
+
+\tx ˣgāuuiianəm
+\anm
+\std gāvyanəm
+\dt
+
+\tx gərəzaēti
+\anm ???
+\std gərəza̍ēta
+\dt
+
+\tx gərəząm
+\anm ??
+\std gərəzą̍m
+\dt
+
+\tx gə̄uš
+\anm aav
+\std gaoš
+\dt
+
+\tx gūθō.varətanąm
+\anm
+\std gūθō_vartanąm
+\dt
+
+\tx caxrəm
+\anm
+\std caxrə̍m
+\dt
+
+\tx ciθa
+\anm
+\std ciθa
+\dt
+
+\tx ciθīm
+\anm
+\std ciθīm
+\dt
+
+\tx ciste
+\anm ?
+\std ciste̍
+\dt
+
+\tx cuuat̰
+\anm kī́vant-
+\std cu̍vat̰
+\dt
+
+\tx jaiṇti
+\anm
+\std ja̍ⁱṇti
+\dt
+
+\tx jaγā̊.uruuā̊ŋhəm
+\anm
+\std jaγāuruuā̊ŋhəm
+\dt
+
+\tx janat̰
+\anm
+\std ja̍nat̰
+\dt
+
+\tx ⁺janaiiō
+\anm
+\std ja̍naiiō
+\dt
+
+\tx janāt̰
+\anm
+\std janāt̰
+\dt
+
+\tx juuaiṇti
+\anm jī́vanti
+\std juuaiṇti
+\dt
+
+\tx tauruuaiiata
+\anm tū́rvati
+\std tauruuaiiata
+\dt
+
+\tx tauruuaiiō
+\anm
+\std tauruuaiiō
+\dt
+
+\tx taci.apąm
+\anm
+\std taci_apąm
+\dt
+
+\tx taciṇti
+\anm (?)
+\std ta̍ciṇti
+\dt
+
+\tx taδa
+\anm
+\std taδa
+\dt
+
+\tx tarasca
+\anm
+\std tarasca̍
+\dt
+
+\tx tašta
+\anm
+\std tašta̍
+\dt
+
+\tx taṣ̌əm
+\anm
+\std tašəm
+\dt
+
+\tx təm
+\anm
+\std təm
+\dt
+
+\tx °tərəsaiti
+\anm
+\std tə̍rəsaiti
+\dt
+
+\tx te
+\anm
+\std tē
+\dt
+
+\tx tē
+\anm
+\std tē
+\dt
+
+\tx tistarīm
+\anm
+\std tištrīm
+\dt
+
+\tx tistariiō
+\anm
+\std tištriiō
+\dt
+
+\tx tiži.dārəm
+\anm
+\std tiži_dārəm
+\dt
+
+\tx ⁺tiži.dārəm
+\anm
+\std tiži_dārəm
+\dt
+
+\tx tiži.žnūtəm
+\anm
+\std tiži_žnūtəm
+\dt
+
+\tx tūiriia
+\anm
+\std tuⁱri̍ya
+\dt
+
+\tx tūm
+\anm
+\std tūm
+\dt
+
+\tx tūranąm
+\anm
+\std tūranąm
+\dt
+
+\tx θanjaiiā̊nte
+\anm
+\std θaṇjaiiā̊ṇte
+\dt
+
+\tx θanuuarə
+\anm
+\std θanvar
+\dt
+
+\tx θβąm
+\anm
+\std θβąm
+\dt
+
+\tx θβąmca
+\anm
+\std θβąm _ca
+\dt
+
+\tx θraētaonō
+\anm
+\std θraētaonō
+\dt
+
+\tx θrikamərəδəm
+\anm
+\std θri_kamərəδəm
+\dt
+
+\tx θritiiąm
+\anm tṛtī́ya-
+\std θritiiąm
+\dt
+
+\tx θritiiō
+\anm tṛtī́ya-
+\std θriti̍yō
+\dt
+
+\tx θrisąs
+\anm
+\std θrisą̍s
+\dt
+
+\tx θrizafanəm
+\anm
+\std θri_zafanəm
+\dt
+
+\tx daenaiiāi
+\anm
+\std daēnaiiāi
+\dt
+
+\tx daēnaiiā̊sca
+\anm ???
+\std daēnaiiā̊s _ca
+\dt
+
+\tx daēuua
+\anm
+\std da̍ēuua
+\dt
+
+\tx daēuuanąm
+\anm
+\std da̍ēuuanąm
+\dt
+
+\tx daēuuaiiasną
+\anm
+\std da̍ēuua_yasną̍
+\dt
+
+\tx daēuuīm
+\anm
+\std daēuuī̍m
+\dt
+
+\tx daēsaiieiṇti
+\anm
+\std daēsa̍iieiṇti
+\dt
+
+\tx daēsaiiō
+\anm
+\std daēsa̍iiō
+\dt
+
+\tx daxma
+\anm
+\std daxma
+\dt
+
+\tx daxštəm
+\anm
+\std daxštəm
+\dt
+
+\tx dax́iiunąm
+\anm
+\std da̍x́iiunąm
+\dt
+
+\tx daδāiti
+\anm
+\std da̍δāiti
+\dt
+
+\tx daδāmi
+\anm
+\std da̍δāmi
+\dt
+
+\tx daδąmi
+\anm
+\std da̍δąmi
+\dt
+
+\tx darəγācit̰
+\anm
+\std darəγā̍ cit̰
+\dt
+
+\tx darəγəm
+\anm dhīrghá-
+\std darəγə̍m
+\dt
+
+\tx darəsaiti
+\anm Akzent?
+\std da̍rəsaiti
+\dt
+
+\tx dasəmō
+\anm
+\std dasəmō̍
+\dt
+
+\tx daša
+\anm
+\std daēna
+\dt
+
+\tx dašaną̇m
+\anm
+\std da̍sanąm
+\dt
+
+\tx dašiną̇m
+\anm
+\std da̍šinanąm;da̍sanąm
+\dt
+
+\tx dahākəm
+\anm
+\std dahākəm
+\dt
+
+\tx dahmō.pairi.aŋharštanąm
+\anm
+\std dahmō_ paⁱri_aɧarštanąm
+\dt
+
+\tx dahmō.yaoždātanąm
+\anm
+\std dahmō_ yaož_dātanąm
+\dt
+
+\tx dāitīm
+\anm
+\std dāⁱtīm
+\dt
+
+\tx dāitiiō.kərəta
+\anm
+\std dāⁱtyō_kərəta
+\dt
+
+\tx dātarə
+\anm
+\std dā̍tar
+\dt
+
+\tx dāδmainiianąm
+\anm
+\std dāδmaⁱnyanąm
+\dt
+
+\tx dānō.karṣ̌anąm
+\anm
+\std dānō_karšanąm
+\dt
+
+\tx dāmąn
+\anm
+\std dā̍mąn
+\dt
+
+\tx dāraiiehi
+\anm
+\std dāra̍iiehi
+\dt
+
+\tx ˣdōiθrābiia
+\anm
+\std dōiθrābiia
+\dt
+
+\tx dīm
+\anm
+\std dim
+\dt
+
+\tx duγδa
+\anm
+\std duγδa̍
+\dt
+
+\tx duiiē
+\anm
+\std duyē̍
+\dt
+
+\tx dužaininąm
+\anm
+\std duž_aⁱninąm
+\dt
+
+\tx dužaŋha
+\anm
+\std duž_aŋᵛha
+\dt
+
+\tx dužgaiṇtitarō
+\anm
+\std dužgaiṇtitarō
+\dt
+
+\tx dužgaiṇtiš
+\anm
+\std dužgaiṇtiš
+\dt
+
+\tx dūraōšəm
+\anm
+\std dūra̍ošəm
+\dt
+
+\tx duua
+\anm dvà
+\std dua̍
+\dt
+
+\tx duuadasa
+\anm dvā́dasa
+\std dva̍dasa
+\dt
+
+\tx duuadasō
+\anm
+\std dvadasō̍
+\dt
+
+\tx drujəmca
+\anm
+\std dru̍jəm _ca
+\dt
+
+\tx drujō
+\anm
+\std dru̍jō
+\dt
+
+\tx drujim
+\anm
+\std drujim
+\dt
+
+\tx druuaitīš
+\anm
+\std druuaitīš
+\dt
+
+\tx druuaṇtəm
+\anm
+\std druuaṇtəm
+\dt
+
+\tx t̰baēšā̊
+\anm
+\std t̰ba̍ēšā̊
+\dt
+
+\tx paoiriiō
+\anm pūrvyá-, *ru̯i̯ > *u̯ri̯
+\std paoⁱryō̍
+\dt
+
+\tx paiti
+\anm
+\std paⁱti̍
+\dt
+
+\tx paitita
+\anm
+\std paitita
+\dt
+
+\tx paititəm
+\anm
+\std paititəm
+\dt
+
+\tx paiti.darəzāna
+\anm
+\std paⁱti_darzāna
+\dt
+
+\tx paiti.dānō
+\anm
+\std paⁱti_dānō
+\dt
+
+\tx paiti.pərəne
+\anm
+\std paiti_pərəne
+\dt
+
+\tx paitiš.hərəzəm
+\anm
+\std paⁱtiš_hərəzəm
+\dt
+
+\tx paitiiārəm
+\anm vgl. pratīpám
+\std paitiiārə̍m
+\dt
+
+\tx pairi
+\anm
+\std pa̍ⁱri
+\dt
+
+\tx pairi.aŋharštanąm
+\anm HF 106
+\std paⁱri_aɧarštanąm
+\dt
+
+\tx pairikanąmca
+\anm
+\std pairikanąm _ca
+\dt
+
+\tx pairikā̊sca
+\anm
+\std pairikā̊s _ca
+\dt
+
+\tx pairi.bauuaiti
+\anm
+\std pa̍ⁱri_bavaⁱti
+\dt
+
+\tx pairi.yaoždaiθīta
+\anm
+\std paⁱri_yaož_daⁱθīta
+\dt
+
+\tx pairiš.hanāna
+\anm
+\std paⁱriš_hanāna
+\dt
+
+\tx pairiṣ̌əṇte
+\anm
+\std pa̍ⁱri_išəṇte
+\dt
+
+\tx pairīštanąm
+\anm
+\std paⁱrišta̍nąm
+\dt
+
+\tx pacaiti
+\anm
+\std pa̍caiti
+\dt
+
+\tx paθa
+\anm
+\std paθa̍
+\dt
+
+\tx paθō
+\anm
+\std paθō̍
+\dt
+
+\tx paṇca.dasīm
+\anm
+\std paṇca_dasī̍m
+\dt
+
+\tx paṇtąm
+\anm
+\std pa̍ṇtąm
+\dt
+
+\tx parāiti
+\anm
+\std pa̍ra_aēⁱti
+\dt
+
+\tx pasca
+\anm
+\std pasca̍
+\dt
+
+\tx pasuuō
+\anm
+\std pasvō̍
+\dt
+
+\tx pazdunąm
+\anm
+\std pazdu̍nąm
+\dt
+
+\tx pərənāiiu
+\anm
+\std pərənāiiu
+\dt
+
+\tx pərəsaiti
+\anm
+\std pərəsa̍iti
+\dt
+
+\tx pərəsat̰
+\anm
+\std pərəsa̍t̰
+\dt
+
+\tx pərəsahi
+\anm
+\std pərəsa̍hi
+\dt
+
+\tx pərəska
+\anm
+\std pərəska
+\dt
+
+\tx pəṣ̌auuō
+\anm
+\std pə̍ṣ̌avō
+\dt
+
+\tx puxδa
+\anm pakthá-
+\std puxδa̍
+\dt
+
+\tx ⁺puxδəm
+\anm
+\std puxδə̍m
+\dt
+
+\tx puθrąm
+\anm
+\std puθrą̍m
+\dt
+
+\tx puθrəm
+\anm
+\std puθrə̍m
+\dt
+
+\tx puθrō
+\anm
+\std puθrō̍
+\dt
+
+\tx fraēštəm
+\anm pṛ-išta-m
+\std fraē̍štəm
+\dt
+
+\tx fraoirisiiōit̰
+\anm
+\std fra_vⁱrisyōit̰
+\dt
+
+\tx ⁺fraoxšiieiṇti
+\anm ?
+\std fraoxšiie̍iṇti
+\dt
+
+\tx fraγar.βəm.ta
+\anm
+\std fra̍γarəβəṇti
+\dt
+
+\tx fraca
+\anm
+\std fraca̍
+\dt
+
+\tx fradaxṣ̌ana
+\anm
+\std fra_daxšana
+\dt
+
+\tx fradaxṣ̌aniiāiš
+\anm
+\std fra_daxšanyāiš
+\dt
+
+\tx frabauuāt̰
+\anm
+\std fra̍_bavāt̰
+\dt
+
+\tx framiriiat̰
+\anm
+\std fra_miriia̍t̰
+\dt
+
+\tx framiriieiṇti
+\anm
+\std fra_miriie̍iṇti
+\dt
+
+\tx framrauua
+\anm
+\std fra_mrauua
+\dt
+
+\tx frauuaršta
+\anm
+\std fra̍_varšta
+\dt
+
+\tx frauuaṣ̌ə̄e
+\anm wegen Komp.?
+\std fra̍uuaṣ̌ə̄e
+\dt
+
+\tx frastairiiāt̰
+\anm
+\std fra_staⁱryāt̰
+\dt
+
+\tx frastərətanąm
+\anm
+\std fra̍_stərətanąm
+\dt
+
+\tx frasrāuuaiiat̰
+\anm
+\std fra_srāuua̍iiat̰
+\dt
+
+\tx frasrāuuaiiən
+\anm
+\std fra_srāuua̍iiən
+\dt
+
+\tx frasrāuuaiiō
+\anm
+\std fra_srāuua̍iiō
+\dt
+
+\tx frasrūiti
+\anm ved. śrúti-
+\std frasrū̍iti
+\dt
+
+\tx frazābaoδaŋhəm
+\anm
+\std frazā_baoδaɧəm
+\dt
+
+\tx frādat̰.gaēθəm
+\anm
+\std frādat̰.gaēθəm
+\dt
+
+\tx frāδaiiemi
+\anm
+\std frāδaiiemi
+\dt
+
+\tx fṣ̌uiiaṇtō
+\anm
+\std fšuyaṇtō
+\dt
+
+\tx fṣ̌uiiąs
+\anm
+\std fšuyąs
+\dt
+
+\tx baēuuarə
+\anm
+\std baēvar
+\dt
+
+\tx baēšazəm
+\anm
+\std baēšazə̍m
+\dt
+
+\tx baom
+\anm
+\std ba̍om
+\dt
+
+\tx baxtəm
+\anm ppp?
+\std baxtə̍m
+\dt
+
+\tx baṇdāmi
+\anm ?
+\std ba̍ṇdāmi
+\dt
+
+\tx bauuaiti
+\anm
+\std ba̍vaⁱti
+\dt
+
+\tx bauuat̰
+\anm
+\std ba̍uuat̰
+\dt
+
+\tx bauuāne
+\anm
+\std bauuāni
+\dt
+
+\tx baratō
+\anm
+\std ba̍ratō
+\dt
+
+\tx barəsmaine
+\anm
+\std barsmaⁱne
+\dt
+
+\tx barəsmaca
+\anm
+\std barsma _ca
+\dt
+
+\tx barəzaiti
+\anm
+\std bərəzaiti̍
+\dt
+
+\tx barəziša
+\anm
+\std barzi̍ša
+\dt
+
+\tx bā
+\anm
+\std bā
+\dt
+
+\tx bāzuua
+\anm ???
+\std bāza̍uua
+\dt
+
+\tx bərəzaṇtəm
+\anm
+\std bərəza̍ṇtəm
+\dt
+
+\tx bitim
+\anm
+\std bitīm
+\dt
+
+\tx bitiiō
+\anm dvitī́ya_
+\std biti̍yō
+\dt
+
+\tx biš
+\anm
+\std biš
+\dt
+
+\tx biiārixti
+\anm
+\std bi_ ā_rixti
+\dt
+
+\tx naēmāt̰
+\anm
+\std na̍ēmāt̰
+\dt
+
+\tx nairi.manā̊
+\anm nṛmánas-
+\std naⁱri_ma̍nā̊
+\dt
+
+\tx nairiiasca
+\anm
+\std naⁱryas _ca
+\dt
+
+\tx nairiiō.nāmanō
+\anm
+\std naⁱryō_nāmanō
+\dt
+
+\tx nauua
+\anm
+\std na̍va
+\dt
+
+\tx nauuaiti
+\anm
+\std navaⁱti̍
+\dt
+
+\tx nauua.nəmatəm
+\anm
+\std nava_nəmatəm
+\dt
+
+\tx nauua.hāθrəm
+\anm ?
+\std nava_hāθrəm
+\dt
+
+\tx narąm
+\anm
+\std narą̍m
+\dt
+
+\tx narō
+\anm
+\std na̍rō
+\dt
+
+\tx narš
+\anm
+\std narš
+\dt
+
+\tx ⁺nāiriθβanāi
+\anm
+\std nāⁱri_θβanāi
+\dt
+
+\tx nāumō
+\anm
+\std navəmō̍
+\dt
+
+\tx nāmąn
+\anm
+\std nā̍mąn
+\dt
+
+\tx nāmə̄ni
+\anm
+\std nā̍mə̄ni
+\dt
+
+\tx nāmə̄nīš
+\anm
+\std nā̍mə̄nīš
+\dt
+
+\tx nāuuaiianą̇m
+\anm
+\std nāuuaiianąm
+\dt
+
+\tx nāuuaiiā̊
+\anm
+\std nāvi̍ā̊
+\dt
+
+\tx nəmō
+\anm namas_
+\std nə̍mō
+\dt
+
+\tx nərəbiiō
+\anm
+\std nə̍rəbyō
+\dt
+
+\tx nōit̰
+\anm
+\std nōit̰
+\dt
+
+\tx niγua
+\anm
+\std ni̍γne
+\dt
+
+\tx niγne
+\anm
+\std ni̍γne
+\dt
+
+\tx nitəma
+\anm
+\std nitəma
+\dt
+
+\tx niδaiieiṇte
+\anm
+\std ni_δaiieiṇte
+\dt
+
+\tx nimarauuaiti
+\anm
+\std ni_mrauuaiti
+\dt
+
+\tx nisirinuiiāt̰
+\anm
+\std ni̍_sⁱrinuyāt̰
+\dt
+
+\tx nizbaiiemi
+\std ni_zba̍iiemi
+\dt
+
+\tx nižbarāmi
+\anm
+\std ni̍ž_barāmi
+\dt
+
+\tx nī
+\anm
+\std ni
+\dt
+
+\tx nūrą̇m
+\anm
+\std nūra̍m
+\dt
+
+\tx nmānaēibiia
+\anm
+\std nmānaēibiia
+\dt
+
+\tx nmānaēibiiō
+\anm
+\std nmānaēibiiō
+\dt
+
+\tx nmānāt̰
+\anm
+\std nmānāt̰
+\dt
+
+\tx nmānəm
+\anm
+\std nmānəm
+\dt
+
+\tx nmāne
+\anm
+\std nmāne
+\dt
+
+\tx ńijāmaiieiṇti
+\anm
+\std ni_jāma̍iieiṇti
+\dt
+
+\tx maoirinąm
+\anm maru̯̯i- > mau̯ri
+\std maoⁱrinąm
+\dt
+
+\tx mainiiō
+\anm Vokativakzent
+\std maⁱńyō
+\dt
+
+\tx mainiium
+\anm
+\std maińiium
+\dt
+
+\tx mainiiuš
+\anm
+\std maińiiuš
+\dt
+
+\tx maińiiauuanąm
+\anm ???
+\std maińiiauua̍nąm
+\dt
+
+\tx maińiiī
+\anm
+\std ma̍ińiiō
+\dt
+
+\tx maińiiuš
+\anm
+\std maińiiu̍š
+\dt
+
+\tx maxṣ̌inąm
+\anm
+\std ma̍xšinąm
+\dt
+
+\tx maγanąm
+\anm
+\std maγanąm
+\dt
+
+\tx maδəm
+\anm
+\std ma̍δəm
+\dt
+
+\tx maδəma
+\anm
+\std maδəma
+\dt
+
+\tx ˣmaδə̄uš
+\anm
+\std ma̍δə̄uš
+\dt
+
+\tx mat̰
+\anm
+\std mat̰
+\dt
+
+\tx mana
+\anm
+\std ma̍na
+\dt
+
+\tx mazda
+\anm ?
+\std mazda
+\dt
+
+\tx mazdaδātanąm
+\anm
+\std mazda_δātanąm
+\dt
+
+\tx mazdaδātəm
+\anm
+\std mazda_δātəm
+\dt
+
+\tx mazdaiiasna
+\anm
+\std mazdayasna
+\dt
+
+\tx mazdāi
+\anm
+\std mazdā̍i
+\dt
+
+\tx mazdā̊
+\anm
+\std mazdā̊̍
+\dt
+
+\tx mazdąm
+\anm
+\std mazdą̍m
+\dt
+
+\tx mašiia
+\anm
+\std ma̍ṣ̌iia
+\dt
+
+\tx mašiiāka
+\anm
+\std maṣ̌iiāka
+\dt
+
+\tx mašiiānąm
+\anm
+\std ma̍ṣ̌iiānąm
+\dt
+
+\tx maṣ̌iiānąm
+\anm
+\std ma̍ṣ̌iiānąm
+\dt
+
+\tx maṣ̌iią
+\anm rt>ṣ̌
+\std ma̍ṣ̌iią
+\dt
+
+\tx mahrkāi
+\anm
+\std ma̍hrkāi
+\dt
+
+\tx mahrkəmca
+\anm
+\std ma̍hrkəm _ca
+\dt
+
+\tx mahrkō
+\anm
+\std ma̍rəkō
+\dt
+
+\tx māzdaiiasnōiš
+\anm
+\std māzda_yasnōiš
+\dt
+
+\tx mā̊
+\anm
+\std mā̊
+\dt
+
+\tx mąθra
+\anm
+\std mą̍θra
+\dt
+
+\tx mąθrą
+\anm
+\std mą̍θrą
+\dt
+
+\tx mąθrəm
+\anm
+\std mą̍θrəm
+\dt
+
+\tx mąθrə̄
+\anm
+\std mą̍θrə̄
+\dt
+
+\tx mą̇m
+\anm
+\std mąm
+\dt
+
+\tx mərəγahe
+\anm
+\std mərəγa̍he
+\dt
+
+\tx me
+\anm
+\std mē
+\dt
+
+\tx mē
+\anm
+\std mē
+\dt
+
+\tx miθβana
+\anm
+\std miθβana̍
+\dt
+
+\tx miθrāi
+\anm
+\std Miθrā̍i
+\dt
+
+\tx miθrəm
+\anm
+\std Miθrə̍m
+\dt
+
+\tx miθrō.izaŋhō
+\std miθrō_aojaŋhō;miθrō_zyā̊ŋhō
+\dt
+
+\tx mraot̰
+\anm
+\std mraot̰
+\dt
+
+\tx mraom
+\anm
+\std mraom
+\dt
+
+\tx mraōt̰
+\anm
+\std mra̍ōt̰
+\dt
+
+\tx mruiiē
+\anm
+\std mruiiē̍
+\dt
+
+\tx ẏ
+\anm
+\std ya̍zamaide
+\dt
+
+\tx yaēibiiō
+\anm
+\std yaēⁱbyō
+\dt
+
+\tx yaēṣ̌ąm
+\anm
+\std ya̍ēšąm
+\dt
+
+\tx ˣyaožāna
+\anm
+\std yaožāna
+\dt
+
+\tx yaoždaiθīta
+\anm
+\std yaož_daⁱθīta
+\dt
+
+\tx yaoždātanąm
+\anm
+\std yaož_dātanąm
+\dt
+
+\tx yaoždāni
+\anm
+\std yaož_dāni
+\dt
+
+\tx yaθa
+\anm
+\std ya̍θa
+\dt
+
+\tx ẏat̰
+\anm
+\std yat̰
+\dt
+
+\tx yat̰
+\anm
+\std yat̰
+\dt
+
+\tx yat̰.cit̰
+\anm
+\std yat̰.cit̰
+\dt
+
+\tx yat̰.cīt̰
+\anm
+\std yat̰.cit̰
+\dt
+
+\tx yam̨iia
+\anm
+\std yahmi _ā
+\dt
+
+\tx yauuaēca
+\anm
+\std yauuaē _ca
+\dt
+
+\tx yauuaētātaēca
+\anm
+\std yauuaētātaē _ca
+\dt
+
+\tx yauuat̰
+\anm yā́vant-
+\std ya̍vat̰
+\dt
+
+\tx yaskəmca
+\anm
+\std yaskəm _ca
+\dt
+
+\tx yasna
+\anm
+\std ya̍sna
+\dt
+
+\tx yasnāica
+\anm
+\std yasnā̍i _ca
+\dt
+
+\tx yasnō
+\anm
+\std yasnō̍
+\dt
+
+\tx yazaiṇti
+\anm
+\std ya̍zaiṇti
+\dt
+
+\tx yazataēibiiō
+\anm
+\std yazata̍ēibiiō
+\dt
+
+\tx ẏazatanąm
+\anm
+\std yazata̍nąm
+\dt
+
+\tx yazatasca
+\anm
+\std yazata̍s _ca
+\dt
+
+\tx yazatā̊ŋ́hō
+\anm
+\std yazatā̊̍ŋhō
+\dt
+
+\tx yazaṇti
+\anm
+\std ya̍zaiṇti
+\dt
+
+\tx yazamaide
+\anm
+\std ya̍zamaide
+\dt
+
+\tx ẏā
+\anm
+\std yā
+\dt
+
+\tx yā
+\anm
+\std yā
+\dt
+
+\tx yātauuō
+\anm
+\std yāta̍uuō
+\dt
+
+\tx yāθβąm
+\anm
+\std yāθβą̍m
+\dt
+
+\tx yāuuarənəm
+\anm
+\std yāvarnəm
+\dt
+
+\tx yāsāmahi
+\anm
+\std yāsāmahi
+\dt
+
+\tx yąm
+\anm
+\std yąm
+\dt
+
+\tx yeiṇti
+\anm
+\std ye̍iṇti
+\dt
+
+\tx yeŋ́he
+\anm
+\std ye̍ŋ́he
+\dt
+
+\tx yesńiiāca
+\anm
+\std yasńiiā̍ _ca
+\dt
+
+\tx ẏezi
+\anm
+\std yezi
+\dt
+
+\tx yezi
+\anm
+\std yezi
+\dt
+
+\tx yezica
+\anm
+\std yezi _ca
+\dt
+
+\tx yezi.šē
+\anm
+\std yezi ̆šē
+\dt
+
+\tx ẏō
+\anm
+\std yō
+\dt
+
+\tx yō
+\anm
+\std yō
+\dt
+
+\tx yōi
+\anm
+\std yōi
+\dt
+
+\tx ẏim
+\anm
+\std yim
+\dt
+
+\tx yim
+\anm yəm > yim
+\std yim
+\dt
+
+\tx ẏimat̰
+\anm
+\std Yimā̍t̰
+\dt
+
+\tx yimahe
+\anm Yamá-
+\std Yima̍he
+\dt
+
+\tx yimō
+\anm Yamá-
+\std Yimō̍
+\dt
+
+\tx yīt̰
+\anm
+\std yat̰
+\dt
+
+\tx ˣyuγō.səmiia
+\anm
+\std yuγō_səmya̍
+\dt
+
+\tx yūžəm
+\anm
+\std yūžə̍m
+\dt
+
+\tx vaēnəmnəm
+\anm
+\std va̍ēnəmnəm
+\dt
+
+\tx vaoce
+\anm
+\std va̍oce
+\dt
+
+\tx vaiδīm
+\anm ?
+\std vaⁱδīm
+\dt
+
+\tx vainəm
+\anm
+\std va̍ēnəm
+\dt
+
+\tx vairīm
+\anm
+\std va̍irīm
+\dt
+
+\tx vairiiō
+\anm
+\std va̍iriiō
+\dt
+
+\tx vaxšaiiatō
+\anm ???
+\std vaxša̍iiatō
+\dt
+
+\tx vadəm
+\anm
+\std vadə̍m
+\dt
+
+\tx vaŋuhi
+\anm vásvī-
+\std va̍ɧᵛi
+\dt
+
+\tx vaŋuhibiiō
+\anm
+\std va̍ɧᵛibyō
+\dt
+
+\tx vaŋhuδābiiō
+\anm ???
+\std vaŋhu_δābiiō
+\dt
+
+\tx vaŋhuiia
+\anm
+\std va̍ɧuya
+\dt
+
+\tx vaiiaete
+\anm
+\std vaēiti
+\dt
+
+\tx varəduuanąm
+\anm
+\std vardvanąm
+\dt
+
+\tx varəδaiiemi
+\anm
+\std varəδa̍iiemi
+\dt
+
+\tx vazaγanąm
+\anm
+\std vazaγanąm
+\dt
+
+\tx vaziianąm
+\anm
+\std vazya̍nąm
+\dt
+
+\tx vazrō
+\anm vájra-
+\std va̍zrō
+\dt
+
+\tx vaši
+\anm
+\std va̍ši
+\dt
+
+\tx vahištāt̰
+\anm
+\std va̍hištāt̰
+\dt
+
+\tx vahištəm
+\anm
+\std va̍hištəm
+\dt
+
+\tx vahmāica
+\anm
+\std vahmāi _ca
+\dt
+
+\tx vahmiiāca
+\anm
+\std vahmiiā̍ _ca
+\dt
+
+\tx vā
+\anm
+\std vā
+\dt
+
+\tx vāci
+\anm
+\std vāci
+\dt
+
+\tx vātaēibiiō
+\anm
+\std vā̍taēibiiō
+\dt
+
+\tx vātō
+\anm
+\std vā̍tō
+\dt
+
+\tx vārəγnahe
+\anm
+\std vārəγnahe
+\dt
+
+\tx ˣvāstraiiaēta
+\anm
+\std vāstrayaēta
+\dt
+
+\tx vāstriiehe
+\anm
+\std vāstryehe
+\dt
+
+\tx vāstriiō
+\anm
+\std vāstryō
+\dt
+
+\tx vāšəm
+\anm
+\std vā̍ṣ̌əm
+\dt
+
+\tx vərəθra
+\anm
+\std vərəθra̍
+\dt
+
+\tx vərəθraγnəm
+\anm vṛtra-ha̍-
+\std Vərəθraγnə̍m
+\dt
+
+\tx vərəθraγnō
+\anm ???
+\std Vərəθraγnō̍
+\dt
+
+\tx vərəθrauuastəmō
+\anm
+\std vərəθrauuastəmō
+\dt
+
+\tx vərəθrəm
+\anm
+\std vərəθrə̍m
+\dt
+
+\tx vərəθruuanąm
+\anm
+\std vərəθrauuanąm
+\dt
+
+\tx vərəθruuastəmō
+\anm
+\std vərəθrauuastəmō
+\dt
+
+\tx vərəzaiiaṇtəm
+\anm pdf 721 vərə / varə
+\std vərəzayaṇtəm
+\dt
+
+\tx vərəze
+\anm
+\std vərəze
+\dt
+
+\tx vərəziṇti
+\anm vṛjyáte
+\std vərəzi̍ṇti
+\dt
+
+\tx vəhrkāi
+\anm hr?
+\std və̍rəkāi
+\dt
+
+\tx vəhrkāiš
+\anm
+\std və̍rəkāiš
+\dt
+
+\tx vouru.gaōiiaōtə̄e
+\anm
+\std vouru̍_gaōiiaōtə̄e
+\dt
+
+\tx vohu.kərətōiš
+\anm
+\std vohu_kərətōiš
+\dt
+
+\tx vohu.gaonahe
+\anm
+\std vohu_gaonahe
+\dt
+
+\tx vohū
+\anm
+\std vo̍hu
+\dt
+
+\tx vōuru.kasāt̰
+\anm
+\std vouru̍_kaṣ̌āt̰
+\dt
+
+\tx vi
+\anm
+\std vi
+\dt
+
+\tx vi.bərəθβəṇtəm
+\anm
+\std vi bə̍rəθuuəṇtəm
+\dt
+
+\tx viuuaŋhušāt̰
+\anm
+\std viuuaŋhušāt̰
+\dt
+
+\tx visō
+\anm
+\std vīsō
+\dt
+
+\tx vispe
+\anm
+\std vī̍spe
+\dt
+
+\tx vīkaṇti
+\anm
+\std vi_kaṇti
+\dt
+
+\tx vīkərət̰.uštānəm
+\anm IF 3 194
+\std vi_kərət̰_uštānəm
+\dt
+
+\tx vīkusrəm
+\std vi_kusrəm
+\dt
+
+\tx vītāra
+\anm
+\std vītāra
+\dt
+
+\tx vīmaiδəm
+\anm
+\std vī̍maiδīm
+\dt
+
+\tx vīraēibiiō
+\anm
+\std vīra̍nąm
+\dt
+
+\tx vīraiiā̊
+\anm
+\std vīra̍iiā̊
+\dt
+
+\tx vīrahe
+\anm
+\std vīra̍he
+\dt 
+
+
+\tx vīspaēibiiasca
+\anm
+\std vī̍spaēⁱbyas _ca
+\dt
+
+\tx vīspaēibiiō
+\anm
+\std vī̍spaēibiiō
+\dt
+
+\tx vīspahe
+\anm
+\std vī̍spahe
+\dt
+
+\tx vīspāiš
+\anm
+\std vī̍spāiš
+\dt
+
+\tx vīspā̊
+\anm
+\std vī̍spā̊
+\dt
+
+\tx vīspəm
+\anm
+\std vī̍spəm
+\dt
+
+\tx vīspe
+\anm
+\std vī̍spe
+\dt
+
+\tx vīštāspō
+\anm ?? Ὑστάσπης
+\std Vīštā̍spō
+\dt
+
+\tx viiaŋuraēibiiasca
+\anm
+\std vyaŋuraēⁱbyas _ca
+\dt
+
+\tx viiāxmaniiata
+\anm
+\std viiāxmańiiata
+\dt
+
+\tx raeuuaṇtəm
+\anm
+\std raēuua̍ṇtəm
+\dt
+
+\tx raeuuā̊
+\anm
+\std raēuuā̊̍
+\dt
+
+\tx raēθβiš.bajana
+\anm
+\std raēθβiš_bajina
+\dt
+
+\tx raēθβiš.bajina
+\anm
+\std raēθβiš_bajina
+\dt
+
+\tx raēm
+\anm
+\std raē̍m
+\dt
+
+\tx raēuuastəmō
+\anm
+\std raēuua̍stəmō
+\dt
+
+\tx raoxšna
+\anm
+\std raoxšna
+\dt
+
+\tx raoδəṇti
+\anm
+\std ra̍oδəṇti
+\dt
+
+\tx ⁺raoδiiąm
+\anm
+\std raoδyąm
+\dt
+
+\tx raθaēštāi
+\anm
+\std raθaē_štā̍i
+\dt
+
+\tx raθəm
+\anm
+\std ra̍θəm
+\dt
+
+\tx ⁺raθōište
+\anm ai̯ > ōi̯ in geschlossener Silbe
+\std raθaē_šte
+\dt
+
+\tx ˣraθōište
+\anm
+\std raθaē_šte
+\dt
+
+\tx raŋhuiiā̊
+\anm
+\std Raŋha̍iiā̊
+\dt
+
+\tx raiia
+\anm rayyā́
+\std raiia̍
+\dt
+
+\tx ⁺rānapānō
+\anm
+\std rāna_pānō
+\dt
+
+\tx rānapō
+\anm
+\std rāna_pō
+\dt
+
+\tx sanakai
+\anm
+\std sanake
+\dt
+
+\tx sarəδəm
+\anm
+\std sarə̍δəm
+\dt
+
+\tx sāδarəm
+\anm
+\std sādrəm
+\dt
+
+\tx sārauuārō
+\anm
+\std sāra_vārō
+\dt
+
+\tx sāsta
+\anm sāstá- ??? sāstár-
+\std sāsta
+\dt
+
+\tx suraiiā̊
+\anm sū́ra
+\std sū̍raiiā̊
+\dt
+
+\tx sūnīš
+\anm
+\std sunī̍š
+\dt
+
+\tx stāuuištəm
+\anm
+\std stā̍uuištəm
+\dt
+
+\tx stārō
+\anm
+\std stā̍rō
+\dt
+
+\tx strica
+\anm
+\std stri _ca
+\dt
+
+\tx strī.nāmanō
+\anm
+\std strī_nāmanō
+\dt
+
+\tx spakanąm
+\anm
+\std spakanąm
+\dt
+
+\tx spasiiehi
+\anm páśyati
+\std spa̍siiehi
+\dt
+
+\tx spā.fraθəm
+\anm
+\std spā_fraθəm
+\dt
+
+\tx spā.barəzəm
+\anm
+\std spā_bərəzəm
+\dt 
+
+
+\tx spəntasca
+\anm
+\std spəṇta̍s _ca
+\dt
+
+\tx spəntəm
+\anm
+\std spəṇtə̍m
+\dt
+
+\tx spəṇta
+\anm
+\std spəṇta̍
+\dt
+
+\tx spəṇtaēibiiō
+\anm
+\std spəṇta̍ēibiiō
+\dt
+
+\tx spəṇtanąm
+\anm
+\std spəṇta̍nąm
+\dt
+
+\tx spəṇtą
+\anm
+\std spəṇtą̍
+\dt
+
+\tx spəṇtəm
+\anm
+\std spəṇtə̍m
+\dt
+
+\tx spəṇtə̄
+\anm
+\std spəṇtə̄̍
+\dt
+
+\tx spəṇtō
+\anm святой,svāntá-
+\std spəṇtō̍
+\dt
+
+\tx spə̄ništa
+\anm ?
+\std spəništa
+\dt
+
+\tx spitama
+\anm Σπιταμένης
+\std Spitama
+\dt
+
+\tx spitāmahe
+\anm
+\std Spitamahe
+\dt
+
+\tx ˣspitibiiasca
+\anm
+\std spitibyas _ca
+\dt
+
+\tx snaθəm
+\anm
+\std snaθəm
+\dt
+
+\tx snāuuarə.bāzura
+\anm
+\std snāvar_bāzura
+\dt
+
+\tx snāuuiδkəm
+\anm
+\std Snāuuiδkəm
+\dt
+
+\tx sraoṣ̌ō.caranaiia
+\anm
+\std sraošō_caranaya
+\dt
+
+\tx srīrāiš
+\anm
+\std srīrā̍iš
+\dt
+
+\tx srīrą
+\anm
+\std srīrą̍
+\dt
+
+\tx srīrō
+\anm
+\std srīrō̍
+\dt
+
+\tx sruuō.azəm
+\anm
+\std sruuō_zanəm
+\dt
+
+\tx ˣzaēnuš
+\anm
+\std zaēnuš
+\dt
+
+\tx zaoθranąm
+\anm
+\std zaoθra̍nąm
+\dt
+
+\tx zaošāi
+\anm
+\std za̍ošāi
+\dt
+
+\tx zaošō
+\anm
+\std za̍ošō
+\dt
+
+\tx zamarəguza
+\anm
+\std zama̍r gu̍za
+\dt
+
+\tx zaiia
+\anm
+\std zaya
+\dt
+
+\tx zaiianąm
+\anm
+\std zayanąm
+\dt
+
+\tx zaraθuštra
+\anm
+\std Zaraθuštra
+\dt
+
+\tx zaraθuštrahe
+\anm
+\std Zaraθuštrahe
+\dt
+
+\tx zaraθuštrāt̰
+\anm
+\std Zaraθuštrāt̰
+\dt
+
+\tx zaraθuštrəm
+\anm
+\std Zaraθu̍štrəm
+\dt
+
+\tx zaraθuštrō
+\anm
+\std Zaraθuštrō
+\dt
+
+\tx zaranim
+\anm híranya-
+\std za̍ranim
+\dt
+
+\tx zaraiiaŋ́hat̰
+\anm
+\std zra̍iiaŋhat̰
+\dt
+
+\tx zastaēibiia
+\anm
+\std za̍staēibiia
+\dt
+
+\tx zāire
+\anm
+\std za̍ire
+\dt
+
+\tx zāirīm
+\anm vgl. Bartholomae
+\std za̍irīm
+\dt
+
+\tx zā̊
+\anm
+\std zā̊
+\dt
+
+\tx ząm
+\anm
+\std ząm
+\dt
+
+\tx zəmō
+\anm
+\std zəmō̍
+\dt
+
+\tx zgərəsnō.vaγδanəm
+\anm
+\std zgərəsnō_vaγδanəm
+\dt
+
+\tx zbaiieiti
+\anm
+\std zba̍iieiti
+\dt
+
+\tx ziiōtəmō
+\anm ???
+\std zaiiō̍təmō
+\dt
+
+\tx zrāδō
+\anm
+\std zrāδō
+\dt
+
+\tx šusat̰
+\anm
+\std š́usat̰
+\dt
+
+\tx š́iiaoθna
+\anm
+\std š́iiaoθna̍
+\dt
+
+\tx š́iiaoθnəm
+\anm
+\std š́iiaoθnə̍m
+\dt
+
+\tx š́iiaoθne
+\anm
+\std š́iiaoθne̍
+\dt
+
+\tx š́iiaōθna
+\anm
+\std š́iiaoθna̍
+\dt
+
+\tx haēcō
+\anm
+\std haēcō
+\dt
+
+\tx haēnąm
+\anm
+\std ha̍ēnąm
+\dt
+
+\tx haomauuaitinąm
+\anm
+\std ha̍omavaⁱtinąm
+\dt
+
+\tx haomiia
+\anm
+\std haomya̍
+\dt
+
+\tx haōməm
+\anm
+\std ha̍ōməm
+\dt
+
+\tx haiθiiā
+\anm
+\std haⁱθyā̍
+\dt
+
+\tx hakərət̰
+\anm
+\std hakə̍rət̰
+\dt
+
+\tx haca
+\anm
+\std ha̍ca
+\dt
+
+\tx haδānaēpataiiā̊
+\anm
+\std haδānaēpatayā̊
+\dt
+
+\tx haδānaēpataiią
+\anm
+\std haδānaēpātaiiā̊
+\dt
+
+\tx haδānaēpāta
+\anm
+\std haδānaēpātā
+\dt
+
+\tx hapta
+\anm
+\std hapta̍
+\dt
+
+\tx haptaθō
+\anm
+\std hapta̍θō
+\dt
+
+\tx haṇkusrəm
+\anm
+\std haṇ_kusrəm
+\dt
+
+\tx hauuana
+\anm
+\std ha̍vana
+\dt
+
+\tx harəθrəm
+\anm
+\std harəθrəm
+\dt
+
+\tx hazaŋrāiš
+\anm
+\std haza̍ɧrāiš
+\dt
+
+\tx hazaŋrā.yaōxštīm
+\anm
+\std haza̍ɧra_yaoxštīm
+\dt
+
+\tx hazaŋrō.aspąm
+\anm
+\std haza̍ɧrō_a̍spąm
+\dt
+
+\tx hā
+\anm
+\std hā
+\dt
+
+\tx hāθrō.masaŋ́həm
+\anm
+\std hāθrō_masaŋhəm
+\dt
+
+\tx hāuuana
+\anm
+\std hā̍vana
+\dt
+
+\tx hąm.irista
+\anm
+\std hąm_ⁱrista
+\dt
+
+\tx hąm.bauuaiṇti
+\anm
+\std hąm_bavaⁱṇti
+\dt
+
+\tx həṇti
+\anm
+\std hə̍ṇti
+\dt
+
+\tx hē
+\anm
+\std hē
+\dt
+
+\tx hō
+\anm
+\std hō
+\dt
+
+\tx hikaranəm
+\anm
+\std hikaranəm
+\dt
+
+\tx hiṇduuō
+\anm
+\std hi̍ṇduuō
+\dt
+
+\tx hizuuābiia
+\anm
+\std hizuuā̍biia
+\dt
+
+\tx hizuuąm
+\anm
+\std hizuuą̍m
+\dt
+
+\tx hištaiti
+\anm
+\std hi̍štaiti
+\dt
+
+\tx hukərətō
+\anm
+\std hu̍kərətō
+\dt
+
+\tx huxšaθrōtəmō
+\anm
+\std huxšaθrō̍təmō
+\dt
+
+\tx hubaoiδitəmanąm
+\anm
+\std hu_baoiδitəmanąm
+\dt
+
+\tx huraiiā̊
+\anm
+\std hu̍rayā̊
+\dt
+
+\tx huṣ̌atąm
+\anm ??
+\std hušatą̍m
+\dt
+
+\tx huuarə
+\anm svàr
+\std hu̍uarə
+\dt
+
+\tx huuarəxšaētāi
+\anm
+\std huuarə_xšaētāi
+\dt
+
+\tx huuarəštəm
+\anm
+\std hu̍uarəštəm
+\dt
+
+\tx /
+\anm
+\std $
+\dt
+
+\tx ,
+\anm
+\std $
+\dt
+
+\tx …
+\anm
+\std $
+\dt
+
+\tx ;
+\anm
+\std $
+\dt
+
+\tx :
+\anm
+\std $
+\dt
+
+\tx ̍haṇgə̄uruuāiata
+\anm
+\std haṇgərəβāiia̍ta;haṇgərəβa̍iiata
+\dt

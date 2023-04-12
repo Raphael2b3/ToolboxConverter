@@ -1,0 +1,4231 @@
+\_sh v3.0  400  Lm-Mrph
+
+\std a_
+\mrph $
+\lm a_
+\dt
+
+\std a̍ēiti
+\mrph 3.sg.ind.prs.act.
+\lm i_
+\dt
+
+\std aētayā̊
+\mrph g.sg.f.
+\cls ā
+\lm aēta_
+\dt
+
+\std aēte
+\mrph n.pl.m.
+\cls a
+\lm aēta_
+\dt
+
+\std aēvaṇdasō̍
+\mrph n.sg.f.-n.sg.m.
+\cls a
+\lm aēvaṇdasa_
+\dt
+
+\std a̍ēuuō
+\mrph n.sg.m.
+\lm aēuua_
+\dt
+
+\std a̍ēsmanąm
+\mrph g.pl.
+\cls n
+\lm aēsma_
+\dt
+
+\std aēsmą
+\mrph a.pl.
+\cls a
+\lm aēsma_
+\dt
+
+\std aēša̍
+\mrph n.du.
+\cls a
+\lm aēša_
+\dt
+
+\std aēša̍
+\mrph n.sg.f.
+\cls ā
+\lm aēta_
+\dt
+
+\std aoxtō_nāmana
+\mrph i.sg.m.
+\lm aoj_ nāman_ ∅
+\dt
+
+\std a̍ojō
+\mrph a.sg.
+\lm aojas_
+\dt
+
+\std aotəm
+\mrph n.sg.n.
+\lm aota_
+\dt
+
+\std aotō
+\mrph n.sg.m.
+\lm aota_
+\dt
+
+\std ao̍m
+\mrph a.sg.n.-m.
+\lm auua_
+\dt
+
+\std a̍uruuat̰_aspāi
+\mrph d.sg.m.
+\lm aruuant_ aspa_ ∅
+\dt
+
+\std akana
+\mrph a.pl.;n.pl.;i.pl.-a.pl.
+\cls a
+\lm akana_
+\dt
+
+\std axtiš
+\mrph n.sg.
+\lm axti_
+\dt
+
+\std aγa̍
+\mrph n.pl.m.-n.
+\lm aga_
+\dt
+
+\std aγə̍m
+\mrph a.sg.m.
+\lm aga_
+\dt
+
+\std a̍cištaēⁱbyō
+\mrph abl.pl.m.sup.
+\cls a
+\lm aka_
+\dt
+
+\std a̍θa
+\mrph $
+\lm aθa
+\dt
+
+\std a̍θaᵘrune
+\mrph d.sg.
+\cls a
+\lm aθarvan_
+\dt
+
+\std a̍θra
+\mrph $
+\cls $
+\lm aθra
+\dt
+
+\std a_dāⁱtyō_
+\mrph cmp.
+\lm a_dātya_
+\dt
+
+\std a_dāⁱtyō_aɧarəθranąm
+\mrph g.pl.n.
+\cls a
+\lm ā_dāⁱtyō_aɧareθra_
+\dt
+
+\std adāt̰
+\mrph $
+\lm adāt̰
+\dt
+
+\std a̍dāraēm
+\mrph 1.sg.ind.prt.act.
+\lm dar_
+\dt
+
+\std aδarāt̰
+\mrph abl.sg.m.
+\cls a
+\lm aδara_
+\dt
+
+\std at̰
+\mrph $
+\lm at̰
+\dt
+
+\std a̍pa
+\mrph $
+\lm apa
+\dt
+
+\std a̍pa_nəmata
+\mrph 3.sg.inj.impf.med.
+\lm apa_nam_
+\dt
+
+\std apa̍iiemi
+\mrph 1.sg.prs.act.
+\lm āp_
+\dt
+
+\std a̍parəm
+\mrph a.sg.n.
+\lm apara_
+\dt
+
+\std apą̍m
+\mrph g.pl.
+\cls Wurzel
+\lm ap_
+\dt
+
+\std aⁱpi_kanyāt̰
+\mrph 3.sg.opt.prs.act.
+\cls I
+\lm api_kan_
+\dt
+
+\std aⁱpi_pārəmnāi
+\mrph prc.prs.med.d.sg.m.
+\cls IV
+\lm api_par_
+\dt
+
+\std aⁱβyō̍
+\mrph d.pl.
+\cls Wurzel
+\lm ap_
+\dt
+
+\std a̍ɧaoš
+\mrph g.sg.
+\lm ahu_
+\dt
+
+\std a̍ɧaⁱti
+\mrph 3.sg.cnj.prs.act.
+\cls I
+\lm ah_
+\dt
+
+\std a̍ɧat̰
+\mrph 3.sg.cnj.prs.act.
+\cls I
+\lm ah_
+\dt
+
+\std a̍ɧən
+\mrph 3.pl.cnj.prs.act.
+\cls I
+\lm ah_
+\dt
+
+\std a̍ɧō
+\mrph 2.sg.cnj.prs.act.
+\cls I
+\lm ah_
+\dt
+
+\std aɧyā̊̍
+\mrph g.sg.f.
+\cls $
+\lm imat̰
+\dt
+
+\std aɧras
+\mrph n.sg.m.
+\lm aɧra_
+\dt
+
+\std aɧrəm
+\mrph a.sg.m.
+\lm aɧra_
+\dt
+
+\std aɧrō
+\mrph n.sg.m.
+\lm aɧra_
+\dt
+
+\std an_
+\mrph $
+\cls $
+\lm a_
+\dt
+
+\std anāⁱritibyas
+\mrph abl.pl.
+\cls i
+\lm anāriti_
+\dt
+
+\std anuxtə̄̍e
+\mrph d.sg.
+\lm anu_uxti_
+\dt
+
+\std an_upa_yatąm
+\mrph a.sg.f.
+\cls ā
+\lm an_upa_yata_
+\dt
+
+\std anumatə̄̍e
+\mrph d.sg.
+\lm anu_mati_
+\dt
+
+\std anumaya
+\mrph a.pl.n.
+\cls a
+\lm anu_maya_
+\dt
+
+\std anuuarštə̄̍e
+\mrph d.sg.
+\lm anu_varšti_
+\dt
+
+\std ańya̍
+\mrph n.pl.m.-n.
+\lm ańya_
+\dt
+
+\std ańiia̍ēibiiō
+\mrph ab.pl.m.
+\lm ańiia_
+\dt
+
+\std ańyā̍iš
+\mrph i-a.pl.n.
+\lm ańya_
+\dt
+
+\std aⁱńyā̊̍
+\mrph g.sg.
+\lm ańya_
+\dt
+
+\std aⁱńyō̍
+\mrph n.sg.m.
+\lm ańya_
+\dt
+
+\std a̍məm
+\mrph a.sg.m.
+\lm ama_
+\dt
+
+\std amə̍ṣ̌ə̄
+\mrph a.pl.m.
+\lm aməṣ̌a_
+\dt
+
+\std ayasńya̍
+\mrph n.pl.m.;a.pl.m.
+\lm ayasńya_
+\dt
+
+\std aiiąn
+\mrph a.pl.
+\lm aiiar_
+\dt
+
+\std a̍yō_aγrāiš
+\mrph i.pl.-d.pl.n.
+\cls a
+\lm ayō_aγra_
+\dt
+
+\std auua_
+\mrph $
+\lm auua
+\dt
+
+\std auua̍
+\mrph n.pl.m.-n.;i.sg.m.
+\lm auua_
+\dt
+
+\std a̍va_γnānō
+\mrph prc.perf.med.n.sg.m.
+\cls a
+\lm ava_jan_
+\dt
+
+\std a̍va_janyāt̰
+\mrph 3.sg.opt.prs.act.
+\cls I
+\lm ava_jan_
+\dt
+
+\std auuaθa
+\mrph $
+\lm auuaθa
+\dt
+
+\std a̍uua_barata
+\mrph 2.pl.inj.prs.act.;2.pl.imp.prs.act.
+\lm auua_bar_
+\dt
+
+\std a̍uua_barāmi
+\mrph 1.sg.ind.prs.act.
+\lm auua_bar_
+\dt
+
+\std a̍uua_barəṇti
+\mrph 3.pl.prs.act.
+\lm auua_bar_
+\dt
+
+\std a̍uuazat̰
+\mrph 3.sg.inj.prs.act.
+\lm auua_az_
+\dt
+
+\std a_vāstrəm
+\mrph n.sg.n.
+\cls a
+\lm a_vāstra_
+\dt
+
+\std auuā̊̍
+\mrph a.pl.f.
+\lm auua_
+\dt
+
+\std a̍uui
+\mrph $
+\lm auui
+\dt
+
+\std araēkanąm
+\mrph g.pl.m.
+\cls a
+\lm araēka_
+\dt
+
+\std a̍raoδatəm
+\mrph 3.du.ind.impf.act.
+\lm rud_
+\dt
+
+\std a̍rəjaiti
+\mrph 3.sg.prs.act.
+\lm arj_
+\dt
+
+\std arəzahe
+\mrph g.sg.
+\lm arza_
+\dt
+
+\std armaē_štąm
+\mrph a.sg.m.
+\lm armaē_štā_
+\dt
+
+\std aršti̍š
+\mrph n.sg.
+\cls i
+\lm aršti_
+\dt
+
+\std Arštiš
+\mrph n.sg.
+\cls i
+\lm Arštiš
+\dt
+
+\std a̍ršnō
+\mrph g.sg.
+\cls n
+\lm aršan_
+\dt
+
+\std asəṇgō_gāum
+\mrph a.sg.m.
+\lm asəṇga_ gava_ ∅
+\dt
+
+\std a_skəṇdąm
+\mrph a.sg.f.
+\cls ā
+\lm a_skəṇda_
+\dt
+
+\std a̍stanąm
+\mrph g.pl.
+\cls a
+\lm asta_
+\dt 
+
+
+\std a̍stayō
+\mrph n.pl.
+\cls i
+\lm asti_
+\dt
+
+\std a̍sti
+\mrph 3.sg.prs.act.
+\cls I
+\lm ah_
+\dt
+
+\std astva̍tō
+\mrph g.sg.
+\lm astvaṇt_
+\dt
+
+\std astva̍ⁱtinąm
+\mrph g.pl.f.
+\cls ī
+\lm astvaṇt_
+\dt
+
+\std astva̍ⁱtīm
+\mrph a.sg.f.
+\lm astvaṇt_
+\dt
+
+\std a̍spa
+\mrph a.du.
+\lm aspa_
+\dt
+
+\std a̍spanąm
+\mrph g.pl.
+\lm aspa_
+\dt
+
+\std a̍spahe
+\mrph g.sg.
+\cls a
+\lm aspa_
+\dt
+
+\std a̍spą
+\mrph a.pl.
+\lm aspa_
+\dt
+
+\std a̍spəm
+\mrph a.sg.
+\lm aspa_
+\dt
+
+\std a̍spə̄
+\mrph a.pl.
+\lm aspa_
+\dt
+
+\std a̍spō
+\mrph n.sg.
+\lm aspa_
+\dt
+
+\std asmana
+\mrph n.du.m.
+\cls a
+\lm asmana_
+\dt
+
+\std a̍smanəm
+\mrph a.sg.
+\lm asman_
+\dt
+
+\std a̍zaiti
+\mrph 3.sg.prs.act.
+\lm az_
+\dt
+
+\std azə̍m
+\mrph n.sg.
+\lm azəm
+\dt
+
+\std aš_aojaŋhəm
+\mrph a.sg.m.
+\lm aš_ aojas_ ∅
+\dt
+
+\std aš_aojastəmąm
+\mrph a.sg.f.sup.
+\lm aš_ aojas_ ∅
+\dt
+
+\std aštəmō̍
+\mrph n.sg.m.
+\cls a
+\lm aštəma_
+\dt
+
+\std a̍štra
+\mrph n.sg.
+\cls ā
+\lm aštrā_
+\dt
+
+\std a̍štraya
+\mrph i.sg.
+\cls ā
+\lm aštrā_
+\dt
+
+\std a̍žinąm
+\mrph g.pl.
+\cls i
+\lm aži_
+\dt
+
+\std a̍žim
+\mrph a.sg.
+\lm aži_
+\dt
+
+\std a̍ṣ̌aonąm
+\mrph g.pl.m.
+\cls van
+\lm aṣ̌āvan_
+\dt
+
+\std a̍ṣ̌aone
+\mrph d.sg.m.
+\cls van
+\lm aṣ̌āvan_
+\dt
+
+\std a̍ṣ̌aya
+\mrph l.sg.n.;i.sg.f.;$
+\cls $
+\lm aṣ̌aya
+\dt
+
+\std a̍ṣ̌avastəmō
+\mrph n.sg.m.sup.
+\lm aṣ̌avant_
+\dt
+
+\std a̍ṣ̌ahe
+\mrph g.sg.
+\lm aṣ̌a_
+\dt
+
+\std a̍ṣ̌āum
+\mrph v.sg.m.
+\cls van
+\lm aṣ̌āvan_
+\dt
+
+\std a̍ṣ̌āt̰
+\mrph abl.sg.
+\lm aṣ̌a_
+\dt
+
+\std a̍ṣ̌āva
+\mrph n.sg.
+\lm aṣ̌āvan_
+\dt
+
+\std a̍ṣ̌āvabyō
+\mrph d.pl.m.
+\cls van
+\lm aṣ̌āvan_
+\dt
+
+\std a̍ṣ̌āvanəm
+\mrph a.s.m.
+\lm aṣ̌āvan_
+\dt
+
+\std a̍ṣ̌əm
+\mrph n.sg.;a.sg.
+\cls a
+\lm aṣ̌a_
+\dt
+
+\std a̍ṣ̌iš
+\mrph n.sg.
+\lm aṣ̌i_
+\dt 
+
+
+\std ahe̍
+\mrph g.sg.m.
+\lm imat̰
+\dt
+
+\std a̍hi
+\mrph 2.sg.prs.act.
+\lm ah_
+\dt
+
+\std a̍hunəm
+\mrph a.sg.
+\lm ahuna_
+\dt
+
+\std a̍hunō
+\mrph n.sg.m.
+\lm ahuna_
+\dt
+
+\std ahura
+\mrph v.sg.
+\cls a
+\lm ahura_
+\dt
+
+\std a̍huraēibiia
+\mrph d.du.
+\cls a
+\lm ahura_
+\dt
+
+\std a̍huraēibiiō
+\mrph d.pl.
+\cls a
+\lm ahura_
+\dt
+
+\std ahura_δātəm
+\mrph prc.prt.pass.a.sg.m.
+\cls I
+\lm ahura_ dā_
+\dt
+
+\std ahura_δātō
+\mrph prc.prt.pass.n.sg.m.
+\cls I
+\lm ahura_ dā_
+\dt
+
+\std a̍hurahe
+\mrph g.sg.
+\cls a
+\lm ahura_
+\dt
+
+\std a̍hurāi
+\mrph d.sg.
+\lm ahura_
+\dt
+
+\std a̍hurəm
+\mrph a.sg.
+\cls a
+\lm ahura_
+\dt
+
+\std a̍hurō
+\mrph n.sg.
+\cls a
+\lm ahura_
+\dt
+
+\std ahma̍t̰
+\mrph ab.sg.
+\lm imat̰
+\dt
+
+\std ahmā̍i
+\mrph d.sg.m.
+\cls $
+\lm imat̰
+\dt
+
+\std a̍hmi
+\mrph 1.sg.ind.prs.act.
+\lm ah_
+\dt
+
+\std _ā
+\mrph l.sg.
+\lm _ā
+\dt
+
+\std ā̍at̰
+\mrph $
+\cls $
+\lm āat̰
+\dt
+
+\std āxtuirī̍m
+\mrph $
+\lm āxtuirīm
+\dt
+
+\std āxša̍iieiṇti
+\mrph 3.pl.prs.act.
+\lm āxš_
+\dt
+
+\std āγərəβiie̍ite
+\mrph 3.sg.ind.prs.pass.
+\lm ā_grab_
+\dt
+
+\std ātrəm
+\mrph a.sg.
+\lm ātr_
+\dt
+
+\std ātr_carana
+\mrph n.pl.
+\cls a
+\lm ātr_carana_
+\dt
+
+\std ātr_vazanəm
+\mrph a.sg.
+\cls a
+\lm ātr_vazana_
+\dt
+
+\std āθβiiānōiš
+\mrph g.sg.m.
+\lm āθβiiāni_
+\dt
+
+\std āθre
+\mrph d.sg.
+\cls r
+\lm ātar_
+\dt
+
+\std āθrō
+\mrph g.sg.
+\cls r
+\lm ātar_
+\dt
+
+\std āpərətiš
+\mrph n.sg.
+\cls i
+\lm āpərəti_
+\dt
+
+\std ā̍pō
+\mrph v.pl.;n.pl.;a.pl.
+\cls Wurzel
+\lm ap_
+\dt
+
+\std āfš
+\mrph n.sg.
+\cls Wurzel
+\lm ap_
+\dt
+
+\std ābiia̍
+\mrph d.du.f.
+\lm imat̰
+\dt
+
+\std ā_rixti
+\mrph inf.
+\cls $
+\lm ā_rik_
+\dt
+
+\std ās
+\mrph 3.sg.ind.impf.act.
+\lm ah_
+\dt
+
+\std āsu̍_a̍spō_təmō
+\mrph n.sg.m.sup.
+\lm āsu_ aspa_ ∅
+\dt
+
+\std āzba̍iia
+\mrph 2.sg.imp.act.
+\lm ā_zū_
+\dt
+
+\std ā̊ɧą̍m
+\mrph g.pl.f.
+\cls $
+\lm imat̰
+\dt
+
+\std ā̊̍ŋha
+\mrph 3.sg.perf.act.
+\lm ah_
+\dt
+
+\std ərəγata
+\mrph i.sg.m.
+\lm ərəγaṇt_
+\dt
+
+\std ərəγaⁱtinąm
+\mrph g.pl.f.
+\cls ī
+\lm ərəγant_
+\dt
+
+\std ərəzatə̍m
+\mrph n.sg.(n.)
+\cls a
+\lm ərəzata_
+\dt
+
+\std iδa̍
+\mrph $
+\cls $
+\lm iδa
+\dt
+
+\std ima̍t̰
+\mrph a.sg.n.
+\lm imat̰
+\dt
+
+\std imā̊̍
+\mrph n.pl.f.;a.pl.f.
+\lm imat̰
+\dt
+
+\std išūidiiā̍mahi
+\mrph 1.pl.prs.act.
+\lm išud_
+\dt
+
+\std uγrə̍m
+\mrph a.sg.m.
+\lm uγra_
+\dt
+
+\std udarō_θrąsanąm
+\mrph g.pl.m.
+\cls a
+\lm udarō_θrąsa_
+\dt
+
+\std udra̍
+\mrph n.du.
+\cls a
+\lm udra_
+\dt
+
+\std udra̍he
+\mrph g.sg.
+\cls a
+\lm udra_
+\dt
+
+\std udrə̍m
+\mrph a.sg.
+\cls a
+\lm udra_
+\dt
+
+\std u̍pa_azōit̰
+\mrph 3.sg.opt.prs.act.
+\cls II,upa-
+\lm upa_az_
+\dt
+
+\std upa_θβaršti
+\mrph i.sg.
+\cls i
+\lm upa_θβaršti_
+\dt
+
+\std u̍paŋhacat̰
+\mrph 3.sg.inj.impf.act.
+\lm upa_hac_
+\dt
+
+\std upa_yatąm
+\mrph prc.prt.pass.a.sg.f.
+\cls ā
+\lm upa_yam_
+\dt
+
+\std upa_vāδa̍yaēta
+\mrph 3.sg.opt.prs.med. (caus.)
+\cls XXX
+\lm upa_vad_
+\dt
+
+\std u̍parāt̰
+\mrph abl.sg.m.
+\cls a
+\lm upara_
+\dt
+
+\std upāpa
+\mrph n.du.m.
+\cls a
+\lm upāpa_
+\dt
+
+\std upāpanąm
+\mrph g.pl.m.
+\cls a
+\lm upāpa_
+\dt
+
+\std upāpəm
+\mrph a.sg.m.
+\cls a
+\lm upāpa_
+\dt
+
+\std upāzananąm
+\mrph g.pl.
+\cls a
+\lm upāzana_
+\dt
+
+\std upəma̍
+\mrph adv.
+\cls $
+\lm upəma_
+\dt
+
+\std urva̍ranąm
+\mrph g.pl.
+\cls ā
+\lm urvarā_
+\dt
+
+\std urva̍rayā̊
+\mrph g.sg.
+\cls ā
+\lm urvarā_
+\dt
+
+\std urva̍rā̊
+\mrph n.pl.
+\lm urvarā_
+\dt
+
+\std urva̍rā̊s
+\mrph n.pl.;v.pl.
+\lm urvarā_
+\dt
+
+\std urvāsnayā̊
+\mrph g.sg.
+\cls ā
+\lm urvāsnā_
+\dt
+
+\std us_
+\mrph $
+\lm us_
+\dt
+
+\std uz_jāmōit̰
+\mrph 3.sg.opt.prs.act. (Kaus.)
+\cls IVb
+\lm uz_gam_
+\dt
+
+\std uzdaēza
+\mrph a.pl.m.-n.
+\lm uzdaēza_
+\dt
+
+\std uz_uuāδa̍iieiṇti
+\mrph 3.pl.prs.act.
+\lm uz_vad_
+\dt
+
+\std uša̍stare
+\mrph d.sg.m.
+\lm ušastara_
+\dt
+
+\std ušta
+\mrph $
+\cls $
+\lm ušta
+\dt
+
+\std u̍štranąm
+\mrph g.pl.
+\lm uštra_
+\dt
+
+\std u̍štrahe
+\mrph g.sg.
+\cls a
+\lm uštra_
+\dt
+
+\std uštrā̍
+\mrph a.du.
+\lm uštra_
+\dt
+
+\std uštrą̍s
+\mrph a.pl.
+\lm uštra_
+\dt
+
+\std uštrə̍m
+\mrph a.sg.
+\lm uštra_
+\dt
+
+\std u̍štrəm
+\mrph a.sg.
+\lm uštrəm
+\dt
+
+\std uštrə̄̍s
+\mrph a.pl.
+\lm uštra_
+\dt
+
+\std ka̍θa
+\mrph $
+\lm kaθa
+\dt
+
+\std kaⁱnya̍
+\mrph n.sg.
+\cls yā
+\lm kanyā_
+\dt
+
+\std kanyą̍m
+\mrph a.sg.
+\cls yā
+\lm kanyā_
+\dt
+
+\std kańyā̊̍
+\mrph a.pl.
+\lm kańyā_
+\dt
+
+\std kamara
+\mrph n.sg.
+\cls ā
+\lm kamarā_
+\dt
+
+\std kauua̍ēm
+\mrph a.sg.m.
+\lm kauuaiia_
+\dt
+
+\std kartō̍
+\mrph n.sg.
+\cls a
+\lm kart_
+\dt
+
+\std karšyąm
+\mrph a.sg.f.
+\cls yā
+\lm karšya_
+\dt
+
+\std kasya̍panąm
+\mrph g.pl.
+\cls a
+\lm kasyapa_
+\dt
+
+\std kahrpunanąm
+\mrph g.pl.
+\cls a
+\lm kahrpuna_
+\dt
+
+\std kā
+\mrph n.sg.f.
+\cls ā
+\lm ka_
+\dt
+
+\std kāra̍iieiti
+\mrph 3.sg.prs.act.
+\lm kar_
+\dt
+
+\std kąm
+\mrph g.pl.f.
+\cls ā
+\lm ka_
+\dt
+
+\std kąstrəm
+\mrph n.sg.
+\cls a
+\lm kąstra_
+\dt 
+
+
+\std kərətō̍
+\mrph prc.prt.pass.n.sg.m.
+\cls a
+\lm kar_
+\dt
+
+\std kərəpa̍
+\mrph i.sg.
+\lm kərəp_
+\dt
+
+\std kərəna̍oⁱti
+\mrph 3.sg.ind.prs.act.
+\cls Xa
+\lm kar_
+\dt
+
+\std kərəna̍uuāni
+\mrph 1.sg.cnj.prs.act.
+\lm kar_
+\dt
+
+\std kərənuyā̍t̰
+\mrph 3.sg.opt.prs.act.
+\cls Xa
+\lm kar_
+\dt
+
+\std kərəṇta̍t
+\mrph 3.sg.inj.impf.act.
+\lm kart_
+\dt
+
+\std Kərəsāspō
+\mrph n.sg.
+\lm Kərəsāspa_
+\dt
+
+\std kō
+\mrph n.sg.m.
+\lm ka_
+\dt
+
+\std kutakanąm
+\mrph g.pl.m.
+\cls a
+\lm kutaka_
+\dt
+
+\std kuⁱris
+\mrph n.sg.
+\cls t
+\lm kurit_
+\dt
+
+\std xā̊
+\mrph n.sg.;n.pl.;a.pl.
+\cls Wurzel
+\lm xā_
+\dt
+
+\std xra̍oždiiehiia
+\mrph a.pl.f.cmp.
+\lm xrūždra_
+\dt
+
+\std xraoždvanąm
+\mrph g.pl.m.
+\cls va
+\lm xraoždva_
+\dt
+
+\std xrafstra_γnə̍m
+\mrph n.sg.-a.sg.
+\cls Wurzel
+\lm xrafstra_gan_
+\dt
+
+\std xšaētāt̰
+\mrph ab.sg.m.
+\lm xšaēta_
+\dt
+
+\std xšaθra̍ēšu
+\mrph l.pl.
+\lm xšaθra_
+\dt
+
+\std xšaθra̍ēšuua
+\mrph l.pl.
+\lm xšaθra_
+\dt
+
+\std xšaθra̍iiō
+\mrph l.du.
+\cls
+\lm xšaθra_
+\dt
+
+\std xšaθrə̍m
+\mrph a.sg.
+\lm xšaθra_
+\dt
+
+\std xšaθre̍
+\mrph l.sg.
+\cls
+\lm xšaθra_
+\dt
+
+\std xšafnas
+\mrph a.pl.
+\lm xšapan_
+\dt
+
+\std xštvī
+\mrph n.sg.f.
+\cls ī
+\lm xštva_
+\dt
+
+\std xšvaš
+\mrph $
+\cls $
+\lm xšvaš
+\dt
+
+\std xšuuaš_ašīm
+\mrph
+\lm xšvaš aš_ ∅
+\dt
+
+\std xᵛa̍ɧa
+\mrph n.sg.
+\cls r
+\lm xᵛaɧar_
+\dt
+
+\std xᵛaⁱńi_startəm
+\mrph a.sg.n.
+\cls a
+\lm xᵛani_starta_
+\dt
+
+\std xᵛarəθahe
+\mrph g.sg.
+\cls a
+\lm xᵛarəθa_
+\dt
+
+\std xᵛa̍rənaŋha
+\mrph i.sg.
+\lm xᵛarənas_
+\dt
+
+\std xᵛa̍rənaŋᵛhaṇtəm
+\mrph a.sg.
+\lm xᵛarənahuuaṇt_
+\dt
+
+\std xᵛa̍rənaŋᵛhastəmō
+\mrph n.sg.m.sup.
+\lm xᵛarənahuuant_
+\dt
+
+\std xᵛa̍rənaŋᵛhā̊
+\mrph n.sg.m.
+\lm xᵛarənahuuaṇt_
+\dt
+
+\std xᵛa̍rənō
+\mrph n.sg.;a.sg.
+\lm xᵛarənas_
+\dt
+
+\std xᵛa̍rəṇti
+\mrph 3.pl.prs.act.
+\lm xᵛar_
+\dt
+
+\std xᵛā̍ṣ̌aiia
+\mrph l.sg.
+\lm xᵛāṣ̌a_
+\dt
+
+\std xᵛāṣ̌e
+\mrph l.sg.
+\lm xᵛāṣ̌a_
+\dt
+
+\std ga̍ēθanąm
+\mrph g.pl.
+\cls ā
+\lm gaēθā_
+\dt
+
+\std gaēθābiiō
+\mrph d.pl.
+\lm gaēθā_
+\dt
+
+\std ga̍ēθā̊
+\mrph n.pl.
+\lm gaēθā_
+\dt
+
+\std ga̍ēθąm
+\mrph a.sg.
+\lm gaēθā_
+\dt
+
+\std gaēθiia̍ēibiiō
+\mrph d.pl.m.
+\lm gaēθiia_
+\dt
+
+\std gaoⁱδi
+\mrph n.du.
+\cls i
+\lm gaoδi_
+\dt
+
+\std ga̍omavaⁱtinąm
+\mrph g.pl.f.
+\cls vant
+\lm gaomavant_
+\dt
+
+\std gaoš
+\mrph g.sg.
+\cls Wurzel
+\lm gav_
+\dt
+
+\std gaoš_ā_vare
+\mrph d.sg.f.?
+\cls ā
+\lm gaošāvara_
+\dt
+
+\std gairi̍nąm
+\mrph g.pl.
+\lm gairi_
+\dt
+
+\std gatō̍
+\mrph prc.prt.pass.n.sg.m.
+\lm gam_
+\dt
+
+\std gaδβąm
+\mrph g.pl.
+\cls C
+\lm gaδβa_
+\dt
+
+\std ga̍ŋhəṇti
+\mrph 3.pl.prs.act.
+\lm gah_
+\dt
+
+\std gav_āzō
+\mrph n.sg.
+\cls a
+\lm gav_āza_
+\dt
+
+\std gav_āzišta
+\mrph n.du.n.sup.
+\cls Caland
+\lm gav_āza_
+\dt
+
+\std ga̍uuąm
+\mrph g.pl.
+\lm gauu_
+\dt
+
+\std garəmə̍m
+\mrph n.sg.n.
+\lm garəma_
+\dt
+
+\std garəmō̍
+\mrph n.sg.m.
+\lm garəma_
+\dt
+
+\std garō
+\mrph g.sg.
+\lm gar_
+\dt
+
+\std garmō_skarana
+\mrph a.du.
+\cls a
+\lm garmō_skarana_
+\dt
+
+\std gātu̍
+\mrph a.sg.
+\cls u
+\lm gātu_
+\dt
+
+\std gāvyanəm
+\mrph a.sg.n.
+\cls a
+\lm gāvyana_
+\dt
+
+\std gərəza̍ēta
+\mrph 3.sg.opt.med.
+\lm garz_
+\dt
+
+\std gərəzą̍m
+\mrph a.sg.
+\lm gərəzā_
+\dt
+
+\std gu̍za
+\mrph a.pl.m.-n.
+\lm guza_
+\dt
+
+\std gūθō_vartanąm
+\mrph g.pl.m.
+\cls a
+\lm gūθō_varta_
+\dt
+
+\std γruuā̊̍
+\mrph a.pl.f.
+\lm gru_
+\dt
+
+\std _ca
+\mrph $
+\cls $
+\lm _ca
+\dt
+
+\std caxrə̍m
+\mrph a.sg.
+\lm caxra_
+\dt
+
+\std ciθa
+\mrph n.sg.
+\cls ā
+\lm ciθā_
+\dt
+
+\std ciθīm
+\mrph a.sg.
+\cls i
+\lm ciθi_
+\dt
+
+\std _cit̰
+\mrph $
+\cls $
+\lm cit̰
+\dt
+
+\std ciste̍
+\mrph 3.sg.prs.med.
+\lm kaēθ_
+\dt
+
+\std cu̍vat̰
+\mrph adv.
+\cls vant
+\lm cuvant_
+\dt
+
+\std jaγāuruuā̊ŋhəm
+\mrph prc.perf.act.a.sg.m.
+\lm gar_
+\dt
+
+\std ja̍nat̰
+\mrph 3.sg.inj.impf.act.
+\lm jan_
+\dt
+
+\std ja̍naiiō
+\mrph a.pl.
+\lm jani_
+\dt
+
+\std janāt̰
+\mrph 3.sg.cnj.prs.act.
+\lm jan_
+\dt
+
+\std ja̍ⁱṇti
+\mrph 3.sg.ind.prs.act.
+\cls I
+\lm jan_
+\dt
+
+\std juuaiṇti
+\mrph 3.pl.prs.act.
+\lm ji_
+\dt
+
+\std tauruuaiiata
+\mrph 2.pl.ind.prs.act.
+\lm tar_
+\dt
+
+\std tauruuaiiō
+\mrph 2.sg.inj.impf.act.;prc.prs.act.n.sg.m.
+\lm tar_
+\dt
+
+\std taci_apąm
+\mrph g.pl.
+\cls Wurzel
+\lm taci_āp_
+\dt
+
+\std ta̍ciṇti
+\mrph 3.pl.prs.act.
+\lm tac_
+\dt
+
+\std taδa
+\mrph $
+\lm taδa
+\dt
+
+\std tarasca̍
+\mrph $
+\cls $
+\lm tarasca
+\dt
+
+\std tašəm
+\mrph a.sg.
+\cls a
+\lm taša_
+\dt
+
+\std tašta̍
+\mrph n.pl.
+\cls a
+\lm tašta_
+\dt
+
+\std təm
+\mrph a.sg.
+\lm ta_
+\dt
+
+\std tə̍rəsaiti
+\mrph 3.sg.prs.act.
+\lm tarš_
+\dt
+
+\std tē
+\mrph n.pl.m.
+\lm ta_
+\dt
+
+\std tištrīm
+\mrph a.sg.
+\lm tištriia_
+\dt
+
+\std tištriiō
+\mrph n.sg.
+\lm tištriia_
+\dt
+
+\std tiži_dārəm
+\mrph a.sg.m.
+\cls a
+\lm tiži_dāra_
+\dt
+
+\std tiži_bārəm
+\mrph a.sg.m.
+\cls a
+\lm tiži_bāra_
+\dt
+
+\std tiži_žnūtəm
+\mrph a.sg.m.
+\cls a
+\lm tiži_žnūta_
+\dt
+
+\std tuⁱri̍ya
+\mrph n.sg.n.-n.pl.n.;n.pl.n.
+\cls ya
+\lm turiya_
+\dt
+
+\std tūm
+\mrph n.sg.
+\lm tūm
+\dt
+
+\std tūranąm
+\mrph g.pl.m.
+\lm tūra_
+\dt
+
+\std θanvar
+\mrph n.sg.;n.pl.-n.sg.
+\cls r/n
+\lm θanvar_
+\dt
+
+\std θaṇjaiiā̊ṇte
+\mrph 3.pl.cnj.prs.med.
+\lm θaṇg_
+\dt
+
+\std θβąm
+\mrph a.sg.
+\lm tūm
+\dt
+
+\std θraētaonō
+\mrph n.sg.
+\lm θraētaona_
+\dt
+
+\std θri_kamərəδəm
+\mrph a.sg.m.
+\lm θray_ kamərəδa_ ∅
+\dt
+
+\std θriti̍yō
+\mrph n.sg.m.
+\cls ya
+\lm θritiya_
+\dt
+
+\std θritiiąm
+\mrph a.sg.f.
+\lm θritiia_
+\dt
+
+\std θrisą̍s
+\mrph i.pl.-a.pl.
+\cls nt
+\lm θrisant_
+\dt
+
+\std θri_zafanəm
+\mrph a.sg.m.
+\lm θray_ zafar_ ∅
+\dt
+
+\std daēna
+\mrph v.sg.
+\lm daēnā_
+\dt
+
+\std daēnaiiāi
+\mrph d.sg.
+\lm daēnā_
+\dt
+
+\std daēnaiiā̊s
+\mrph g.sg.
+\lm daēnā_
+\dt
+
+\std da̍ēuua
+\mrph n.pl.-n.;a.pl.-n.
+\lm daēuua_
+\dt
+
+\std da̍ēuuanąm
+\mrph g.pl.
+\lm daēuua_
+\dt
+
+\std da̍ēuua_yasną̍
+\mrph a.pl.m.
+\lm daēuua_ yasna_
+\dt
+
+\std daēuuī̍m
+\mrph a.sg.m.
+\lm daēuuiia_
+\dt
+
+\std daēsa̍iieiṇti
+\mrph 3.pl.prs.act.
+\lm dis_
+\dt
+
+\std daēsa̍iiō
+\mrph 2.sg.inj.prs.act.
+\lm dis_
+\dt
+
+\std daoša̍tare
+\mrph d.sg.m.
+\lm daošatara_
+\dt
+
+\std daxma
+\mrph a.pl.
+\lm daxma_
+\dt
+
+\std daxštəm
+\mrph n.sg.;a.sg.
+\cls $
+\lm daxšta_
+\dt
+
+\std da̍x́iiunąm
+\mrph g.pl.
+\lm dax́iiu_
+\dt
+
+\std da̍δāiti
+\mrph 3.sg.prs.act.
+\cls V
+\lm dā_
+\dt
+
+\std da̍δāmi
+\mrph 1.sg.prs.act.
+\cls V
+\lm dā_
+\dt
+
+\std da̍δąmi
+\mrph 1.sg.prs.act.
+\cls V
+\lm dā_
+\dt
+
+\std darəγā̍
+\mrph n.pl.m.-n.
+\lm darəγa_
+\dt
+
+\std darəγə̍m
+\mrph adv.
+\lm darəγa_
+\dt
+
+\std da̍rəsaiti
+\mrph 3.sg.prs.act.
+\lm dars_
+\dt
+
+\std da̍sanąm
+\mrph g.pl.m.
+\lm dasa_
+\dt
+
+\std dasəmō̍
+\mrph n.sg.m.
+\cls a
+\lm dasəma_
+\dt
+
+\std da̍šinanąm
+\mrph g.pl.m.
+\lm dašina_
+\dt
+
+\std dahākəm
+\mrph a.sg.
+\lm dahāka_
+\dt
+
+\std dahmō_
+\mrph Kompositionsstammform
+\cls $
+\lm dahma_
+\dt
+
+\std dahmō_pari_ā_ɧarštanąm
+\mrph prc.prt.pass.g.pl.f.
+\cls $
+\lm dahma_ pari_ā_harz_
+\dt
+
+\std dahmō_yaož_dātanąm
+\mrph prc.prt.pass.g.pl.f.
+\cls $
+\lm dahma_ yaož_dā_
+\dt
+
+\std dā̍tar
+\mrph v.sg.
+\cls tar
+\lm dātar_
+\dt
+
+\std dāⁱtīm
+\mrph a.sg.m.
+\cls ya
+\lm dātya_
+\dt
+
+\std dāⁱtyō_kərəta
+\mrph n.du.m.
+\cls a
+\lm dātyō_kərəta_
+\dt
+
+\std dāδmaⁱnyanąm
+\mrph g.pl.
+\cls ya
+\lm dāδmanya_
+\dt
+
+\std dānō_karšanąm
+\mrph g.pl.m.
+\cls a
+\lm dānō_karša_
+\dt
+
+\std dā̍mąn
+\mrph a.pl.
+\lm dāman_
+\dt 
+
+
+\std dāra̍iiehi
+\mrph 2.sg.prs.act.
+\lm dar_
+\dt
+
+\std dōiθrābiia
+\mrph d.du.-f.
+\lm dōiθra_
+\dt
+
+\std dim
+\mrph a.sg.m.
+\lm di_
+\dt
+
+\std dua̍
+\mrph n.du.m.
+\cls a
+\lm dva_
+\dt
+
+\std duγδa̍
+\mrph n.sg.
+\cls r
+\lm duγδar_
+\dt
+
+\std duyē̍
+\mrph a.du.f.
+\cls yā
+\lm dva_
+\dt
+
+\std duž_aŋᵛha
+\mrph i.sg.
+\lm duž_aŋhu_
+\dt
+
+\std duž_aⁱninąm
+\mrph g.pl.m.
+\cls i
+\lm duž_ani_
+\dt
+
+\std dužgaiṇtitarō
+\mrph n.sg.m.cmp.
+\lm dužgaṇti_
+\dt
+
+\std dužgaiṇtiš
+\mrph n.sg.m.
+\lm dužgaṇti_
+\dt
+
+\std dūra̍ošəm
+\mrph a.sg.m.
+\lm dūra_ aoša_ ∅
+\dt
+
+\std dva̍dasa
+\mrph $
+\cls $
+\lm dvadasa
+\dt
+
+\std dvadasō̍
+\mrph n.pl.m.-n.sg.m.
+\cls a
+\lm dvadasa_
+\dt
+
+\std dru̍jəm
+\mrph a.sg.
+\lm drug_
+\dt
+
+\std dru̍jō
+\mrph g.sg.
+\cls C
+\lm drug_
+\dt
+
+\std drujim
+\mrph a.sg.
+\lm drug_
+\dt
+
+\std druuaitīš
+\mrph n.pl.f.
+\lm drəguuaṇt_
+\dt
+
+\std druuaṇtəm
+\mrph a.sg.m.
+\lm drəguuaṇt_
+\dt
+
+\std _δa
+\mrph $
+\cls $
+\lm _δa
+\dt
+
+\std t̰ba̍ēšā̊
+\mrph a.pl.
+\lm t̰baēšas_
+\dt
+
+\std paoⁱryō̍
+\mrph n.sg.m.
+\cls ya
+\lm paorya_
+\dt
+
+\std paitita
+\mrph prc.prt.pass.n.sg.f.
+\lm pati_i_
+\dt
+
+\std paititəm
+\mrph prc.prt.pass.n.sg.n.;prc.prt.pass.a.sg.n.
+\lm pati_i_
+\dt
+
+\std paiti_pərəne
+\mrph 1.sg.ind.pres.med.
+\lm paiti_par_
+\dt
+
+\std paitiiārə̍m
+\mrph a.sg.
+\lm paitiiāra_
+\dt
+
+\std pairikanąm
+\mrph g.pl.
+\lm pairikā_
+\dt
+
+\std pairikā̊s
+\mrph a.pl.
+\lm pairikā_
+\dt
+
+\std pa̍caiti
+\mrph 3.sg.prs.act.
+\lm pac_
+\dt
+
+\std pata̍iiāni
+\mrph 1.sg.cnj.prs.act.
+\cls caus.
+\lm pat_
+\dt
+
+\std paⁱti̍
+\mrph $
+\cls $
+\lm pati
+\dt 
+
+
+\std paⁱti_darzāna
+\mrph prc.prs.med.n.du.n.
+\cls athem
+\lm pati_darz_
+\dt
+
+\std paⁱti_dānō
+\mrph n.sg.
+\cls a
+\lm pati_dāna_
+\dt
+
+\std paⁱtiš_hərəzəm
+\mrph inf.
+\cls $
+\lm patiš_harz_
+\dt
+
+\std paθa̍
+\mrph i.sg.
+\lm paṇtā_
+\dt
+
+\std paθō̍
+\mrph g.sg.;abl.sg.;a.pl.
+\lm paṇtā_
+\dt
+
+\std paṇca_dasī̍m
+\mrph a.sg.f.
+\cls ī
+\lm paṇca_dasa_
+\dt
+
+\std pa̍ṇtąm
+\mrph a.sg.
+\lm paṇtā_
+\dt
+
+\std pa̍ra_aēⁱti
+\mrph 3.sg.ind.prs.act.
+\cls I
+\lm para_i_
+\dt
+
+\std pa̍ⁱri
+\mrph $
+\cls $
+\lm pari
+\dt
+
+\std paⁱri_aɧarštanąm
+\mrph prc.prt.pass.g.pl.f.
+\cls $
+\lm pari_harz_
+\dt
+
+\std pa̍ⁱri_išəṇte
+\mrph 3.pl.ind.prs.med.
+\cls III
+\lm pari_aēš²_
+\dt
+
+\std pa̍ⁱri_bavaⁱti
+\mrph 3.sg.ind.prs.act.(?)
+\cls II
+\lm pari_bū_
+\dt
+
+\std paⁱri_yaož_daⁱθīta
+\mrph 3.sg.opt.prs.med.
+\cls V
+\lm pari_yaož_dā_
+\dt
+
+\std paⁱrišta̍nąm
+\mrph prc.prt.pass.g.pl.m.
+\cls $
+\lm pari_aēš¹_
+\dt
+
+\std paⁱriš_hanāna
+\mrph n.pl.n.
+\cls a
+\lm pariš_hanāna_
+\dt
+
+\std pasca̍
+\mrph $
+\cls $
+\lm pasca
+\dt
+
+\std pasvō̍
+\mrph a.pl.;g.sg.
+\cls u
+\lm pasu_
+\dt
+
+\std pazdu̍nąm
+\mrph g.pl.
+\cls u
+\lm pazdu_
+\dt
+
+\std pərənāiiu
+\mrph n.sg.m.-n.
+\lm pərənāiiu_
+\dt
+
+\std pərəsa̍iti
+\mrph 3.sg.ind.prs.act.
+\lm fras_
+\dt
+
+\std pərəsa̍t̰
+\mrph 3.sg.inj.prs.act.
+\cls XIV
+\lm fras_
+\dt
+
+\std pərəsa̍hi
+\mrph 2.sg.prs.act.
+\lm fras_
+\dt
+
+\std pərəska
+\mrph n.sg.
+\cls ā
+\lm pərəskā_
+\dt
+
+\std pə̍ṣ̌avō
+\mrph a.pl.
+\cls u
+\lm pəṣ̌u_
+\dt
+
+\std puxδa̍
+\mrph n.pl.f.-n.pl.n.
+\cls a
+\lm puxδa_
+\dt
+
+\std puxδə̍m
+\mrph n.sg.n.
+\cls a
+\lm puxδa_
+\dt
+
+\std puθrą̍m
+\mrph g.pl.
+\cls C
+\lm puθra_
+\dt
+
+\std puθrə̍m
+\mrph a.sg.
+\lm puθra_
+\dt
+
+\std puθrō̍
+\mrph n.sg.
+\lm puθra_
+\dt
+
+\std fraē̍štəm
+\mrph a.sg.n.sup.
+\lm paru_
+\dt
+
+\std fraoxšiie̍iṇti
+\mrph 3.pl.prs.act.
+\lm fra_vaxš_
+\dt
+
+\std fra̍γarəβəṇti
+\mrph 3.pl.ind.prs.act.
+\lm fra_grab_
+\dt
+
+\std fraca̍
+\mrph i.sg.
+\lm frā̊ṇk_
+\dt
+
+\std fra_daxšana
+\mrph n.sg.
+\cls ā
+\lm fra_daxšanā_
+\dt
+
+\std fra_daxšanyāiš
+\mrph i.pl.-d.pl.m.
+\cls ya
+\lm fra_daxšanya_
+\dt
+
+\std fra̍_bavāt̰
+\mrph 3.sg.cnj.prs.act.
+\cls II
+\lm fra_bū_
+\dt
+
+\std fra_miriia̍t̰
+\mrph 3.sg.inj.prs.act.
+\lm fra_mar_
+\dt
+
+\std fra_miriie̍iṇti
+\mrph 3.pl.prs.act.
+\lm fra_mar_
+\dt
+
+\std fra_mrauua
+\mrph 2.sg.imp.prs.act.
+\lm fra_mru_
+\dt
+
+\std fra̍_varšta
+\mrph prc.prt.pass.n.pl.n.
+\lm fra_varz_
+\dt
+
+\std fra̍uuaṣ̌ə̄e
+\mrph d.sg.
+\lm frauuaṣ̌i_
+\dt
+
+\std fra_vⁱrisyōit̰
+\mrph 3.sg.opt.prs.act.
+\cls XXVII
+\lm fra_rvaēs_
+\dt
+
+\std fra_staⁱryāt̰
+\mrph 3.sg.opt.aor.act.
+\cls I
+\lm fra_star_
+\dt
+
+\std fra̍_stərətanąm
+\mrph prc.prt.pass.g.pl.m.
+\cls $
+\lm fra_star_
+\dt
+
+\std fra_srāuua̍iiat̰
+\mrph 3.sg.inj.prs.act.
+\lm fra_srū_
+\dt
+
+\std fra_srāuua̍iiən
+\mrph 3.sg.inj.prs.act.
+\lm fra_srū_
+\dt
+
+\std fra_srāuua̍iiō
+\mrph 2.sg.inj.prs.act.
+\lm fra_srū_
+\dt
+
+\std frasrū̍iti
+\mrph a.pl.
+\lm frasrūtay_
+\dt
+
+\std frazā_baoδaɧəm
+\mrph a.sg.m.
+\cls h
+\lm frazā_baoδah_
+\dt
+
+\std frādat̰.gaēθəm
+\mrph a.sg.m.
+\lm frād_ gaēθā_ ∅
+\dt
+
+\std frāδaiiemi
+\mrph 1.sg.ind.prs.act.
+\lm frād_
+\dt
+
+\std fšuyaṇtō
+\mrph prc.prs.act.g.sg.m.
+\cls XXVII
+\lm fšu_
+\dt
+
+\std fšuyąs
+\mrph d.sg.-prc.prs.act.n.sg.m.
+\cls XXVII
+\lm fšu_
+\dt
+
+\std baēvar
+\mrph n.sg.;a.sg.
+\cls r/n
+\lm baēvar_
+\dt
+
+\std baēšazə̍m
+\mrph a.sg.m.
+\lm baēšaza_
+\dt
+
+\std ba̍om
+\mrph 1.sg.inj.prs.act.
+\lm bū_
+\dt
+
+\std baxtə̍m
+\mrph a.sg.
+\lm baxta_
+\dt
+
+\std ba̍ṇdāmi
+\mrph 1.sg.prs.act.
+\lm baṇd_
+\dt
+
+\std ba̍vaⁱti
+\mrph 3.sg.ind.prs.act.
+\lm bū_
+\dt
+
+\std ba̍uuat̰
+\mrph 3.sg.inj.prs.act.
+\lm bū_
+\dt
+
+\std bauuāni
+\mrph 1.sg.cnj.prs.act.
+\lm bū_
+\dt
+
+\std ba̍ratō
+\mrph 3.du.ind.prs.act.
+\lm bar_
+\dt
+
+\std barsma
+\mrph n.sg.
+\cls man
+\lm barsman_
+\dt
+
+\std barsmaⁱne
+\mrph g.sg.?-d.sg.;d.sg.
+\cls man
+\lm barsman_
+\dt
+
+\std barzi̍ša
+\mrph i.pl.-a.pl.
+\cls C
+\lm barziš_
+\dt
+
+\std bā
+\mrph $
+\lm bā
+\dt
+
+\std bāza̍uua
+\mrph n.pl.
+\lm bāzu_
+\dt
+
+\std bə̍rəθuuəṇtəm
+\mrph a.sg.m.
+\lm bərəθuuant_
+\dt
+
+\std bərəzaiti̍
+\mrph n.sg.rf.
+\lm bərəzant_
+\dt
+
+\std bərəza̍ṇtəm
+\mrph a.sg.m.
+\lm bərəzaṇt_
+\dt
+
+\std bi_
+\mrph Kompositionsstammform
+\cls $
+\lm dva_
+\dt
+
+\std biti̍yō
+\mrph n.sg.m.
+\cls ya
+\lm bitiya_
+\dt
+
+\std bitīm
+\mrph $
+\lm bitīm
+\dt
+
+\std biš
+\mrph $
+\cls $
+\lm biš
+\dt
+
+\std na̍ēmāt̰
+\mrph abl.sg.
+\cls a
+\lm naēma_
+\dt
+
+\std naiiāni
+\mrph 1.sg.cnj.prs.act.
+\lm nay_
+\dt
+
+\std na̍va
+\mrph $
+\cls $
+\lm nava
+\dt
+
+\std navaⁱti̍
+\mrph a.du.
+\cls ī
+\lm navati_
+\dt
+
+\std nava_nəmatəm
+\mrph a.sg.n.
+\cls a
+\lm nava_nəmata_
+\dt
+
+\std nava_hāθrəm
+\mrph a.sg.n.
+\cls a
+\lm nava_hāθra_
+\dt
+
+\std navəmō̍
+\mrph n.sg.m.
+\cls a
+\lm navəma_
+\dt
+
+\std narą̍m
+\mrph g.pl.
+\cls C
+\lm nar_
+\dt
+
+\std na̍rō
+\mrph n.pl.
+\lm nar_
+\dt
+
+\std naⁱri_ma̍nā̊
+\mrph n.sg.m.
+\lm nar_ manah_ ∅
+\dt
+
+\std naⁱryas
+\mrph n.sg.m.
+\cls i̯a
+\lm narya_
+\dt
+
+\std naⁱryō_nāmanō
+\mrph n.pl.m.;a.pl.m.;n./a.pl.m.
+\cls n
+\lm naryō_nāman_
+\dt
+
+\std narš
+\mrph g.sg.
+\lm nar_
+\dt
+
+\std nā̍mąn
+\mrph a.pl.
+\lm nāman_
+\dt
+
+\std nā̍mə̄ni
+\mrph a.pl.?
+\cls n
+\lm nāman_
+\dt
+
+\std nā̍mə̄nīš
+\mrph a.pl.-f.
+\lm nāman_
+\dt
+
+\std nāvayanąm
+\mrph g.pl.m.
+\lm nāvaya_
+\dt
+
+\std nāvi̍ā̊
+\mrph a.pl.f.
+\cls yā
+\lm nāvya_
+\dt
+
+\std nāⁱri_θβanāi
+\mrph d.sg.
+\cls a
+\lm nāri_θβana_
+\dt
+
+\std nə̍mō
+\mrph a.sg.
+\lm namas_
+\dt
+
+\std nə̍rəbyō
+\mrph d.pl.
+\cls Wurzel
+\lm nar_
+\dt
+
+\std nōit̰
+\mrph $
+\cls $
+\lm nōit̰
+\dt
+
+\std ni
+\mrph $
+\lm ni
+\dt
+
+\std ni̍γne
+\mrph 3.sg.ind.prs.med.
+\lm ni_gan_
+\dt
+
+\std ni_jāma̍iieiṇti
+\mrph 3.pl.prs.act.
+\lm ni_gam_
+\dt
+
+\std nitəma
+\mrph adv.
+\cls $
+\lm nitəma_
+\dt
+
+\std ni_δaiieiṇte
+\mrph 3.pl.ind.prs.med.
+\lm ni_dā_
+\dt
+
+\std ni_mrauuaiti
+\mrph 3.sg.ind.prs.act.
+\lm ni_mru_
+\dt
+
+\std ni̍_sⁱrinuyāt̰
+\mrph 3.sg.opt.prs.act.
+\cls X
+\lm ni_sri_
+\dt
+
+\std ni_zba̍iiemi
+\mrph 1.sg.ind.prs.act.
+\lm ni_zū_
+\dt
+
+\std ni̍ž_barāmi
+\mrph 1.sg.ind.prs.act.
+\lm niž_bar_
+\dt
+
+\std nūra̍m
+\mrph $
+\lm nūram
+\dt
+
+\std nmānaēibiia
+\mrph abl.du.
+\lm nmāna_
+\dt
+
+\std nmānaēibiiō
+\mrph abl.pl.
+\lm nmāna_
+\dt
+
+\std nmānā
+\mrph i.sg.
+\lm nmāna_
+\dt
+
+\std nmānāt̰
+\mrph abl.sg.
+\lm nmāna_
+\dt
+
+\std nmānəm
+\mrph a.sg.;n.sg.;n./a.sg.
+\cls a
+\lm nmāna_
+\dt
+
+\std nmāne
+\mrph l.sg.
+\cls a
+\lm nmāna_
+\dt
+
+\std maoⁱrinąm
+\mrph g.pl.
+\cls i
+\lm maori_
+\dt
+
+\std maińiiauua̍nąm
+\mrph g.pl.m.
+\lm maińiiauua_
+\dt
+
+\std maińiium
+\mrph a.sg.
+\lm maińiiu_
+\dt
+
+\std maińiiuš
+\mrph n.sg.
+\lm maińiiu_
+\dt
+
+\std ma̍xšinąm
+\mrph g.pl.
+\cls ī
+\lm maxši_
+\dt
+
+\std maγanąm
+\mrph g.pl.
+\cls ā
+\lm maγā_
+\dt
+
+\std ma̍δəm
+\mrph a.sg.
+\lm mada_
+\dt
+
+\std maδəma
+\mrph adv.sup.
+\cls $
+\lm maδəma_
+\dt
+
+\std ma̍δə̄uš
+\mrph g.sg.
+\cls u
+\lm maδu_
+\dt
+
+\std mat̰
+\mrph $
+\cls $
+\lm mat̰
+\dt
+
+\std ma̍na
+\mrph g.sg.
+\lm azəm
+\dt
+
+\std maⁱńyō
+\mrph v.sg.
+\cls u
+\lm manyu_
+\dt
+
+\std ma̍rəkō
+\mrph n.sg.
+\lm marəka_
+\dt
+
+\std mazda
+\mrph v.sg.
+\cls Wurzel
+\lm mazdā_
+\dt
+
+\std mazda_δātanąm
+\mrph prc.prt.pass.g.pl.m.
+\cls $
+\lm mazdā_ dā_
+\dt
+
+\std mazda_δātəm
+\mrph prc.prt.pass.a.sg.m.
+\cls I
+\lm mazdā_ dā_
+\dt
+
+\std mazdayasna
+\mrph v.sg.f.;n.pl.m.-n.
+\cls a
+\lm mazda_yasna_
+\dt
+
+\std mazdā̍i
+\mrph d.sg.
+\lm mazdā_
+\dt
+
+\std mazdā̊̍
+\mrph n.sg.;g.sg.
+\cls Wurzel
+\lm mazdā_
+\dt
+
+\std mazdą̍m
+\mrph a.sg.
+\cls Wurzel
+\lm mazdā_
+\dt
+
+\std ma̍ṣ̌iia
+\mrph n.sg.m.-n.
+\lm maṣ̌iia_
+\dt
+
+\std maṣ̌iiāka
+\mrph n.pl.m.-n.
+\lm maṣ̌iiāka_
+\dt
+
+\std ma̍ṣ̌iiānąm
+\mrph g.pl.
+\lm maṣ̌iia_
+\dt
+
+\std ma̍ṣ̌iią
+\mrph a.pl.
+\lm maṣ̌iia_
+\dt
+
+\std ma̍hrkāi
+\mrph d.sg.
+\lm marka_
+\dt
+
+\std ma̍hrkəm
+\mrph a.sg.
+\lm marka_
+\dt
+
+\std māzda_yasnōiš
+\mrph g.sg.f.
+\lm mazdā_ yasni_
+\dt
+
+\std mā̊
+\mrph n.sg.
+\lm māh_
+\dt
+
+\std mą̍θra
+\mrph a.du.
+\lm mąθra_
+\dt
+
+\std mą̍θrą
+\mrph a.pl.
+\lm mąθra_
+\dt
+
+\std mą̍θrəm
+\mrph a.sg.
+\lm mąθra_
+\dt
+
+\std mą̍θrə̄
+\mrph a.pl.
+\lm mąθra_
+\dt
+
+\std mąm
+\mrph a.sg.
+\lm azəm
+\dt
+
+\std mərəγa̍he
+\mrph g.sg.
+\lm mərəγa_
+\dt
+
+\std mə̍ṣ̌aēibiiō
+\mrph d.pl.m.
+\lm məṣ̌a_
+\dt
+
+\std mə̍ṣ̌anąm
+\mrph g.pl.m.
+\lm məṣ̌a_
+\dt
+
+\std mē
+\mrph d.sg.
+\lm azəm
+\dt
+
+\std miθβana̍
+\mrph n.du.m.
+\cls a
+\lm miθβana_
+\dt
+
+\std Miθrā̍i
+\mrph d.sg.
+\lm Miθra_
+\dt
+
+\std Miθrə̍m
+\mrph a.sg.
+\lm Miθra_
+\dt
+
+\std miθrō_aojaŋhō
+\mrph a.pl.m.
+\lm miθrō_aojah_
+\dt
+
+\std miθrō_zyā̊ŋhō
+\mrph a.pl.m.
+\lm miθrō_zyā_
+\dt
+
+\std mraot̰
+\mrph 3.sg.inj.prs.act.
+\cls I
+\lm mru_
+\dt
+
+\std mraom
+\mrph 1.sg.inj.prs.act.
+\lm mru_
+\dt
+
+\std mruiiē̍
+\mrph 1.sg.ind.prs.med.
+\lm mru_
+\dt
+
+\std yaēⁱbyō
+\mrph i.pl.m.
+\cls a
+\lm ya_
+\dt
+
+\std ya̍ēšąm
+\mrph g.pl.m.
+\cls a
+\lm ya_
+\dt
+
+\std yaožāna
+\mrph n.du.
+\cls a
+\lm yaožāna_
+\dt
+
+\std ya̍ož_daⁱθīta
+\mrph 3.sg.opt.prs.med.
+\cls V
+\lm yaož_dā_
+\dt
+
+\std yaož_dātanąm
+\mrph prc.prt.pass.g.pl.f.;prc.prt.pass.g.pl.m.
+\cls $
+\lm yaož_dā_
+\dt
+
+\std yaož_dāni
+\mrph a.du.
+\cls i
+\lm yaož_dāni_
+\dt
+
+\std ya̍θa
+\mrph $
+\cls $
+\lm yaθa
+\dt
+
+\std yat̰
+\mrph n.sg.n.
+\lm ya_
+\dt
+
+\std yat̰
+\mrph $
+\lm yat̰
+\dt
+
+\std yat̰.cit̰
+\mrph $
+\lm yat̰.cit̰
+\dt
+
+\std yauuaē
+\mrph d.sg.
+\lm yav_
+\dt
+
+\std yauuaētātaē
+\mrph d.sg.
+\lm yauuaētāt_
+\dt
+
+\std ya̍vat̰
+\mrph adv.
+\cls vant
+\lm yavant_
+\dt
+
+\std yaskəm
+\mrph a.sg.
+\lm yaska_
+\dt
+
+\std ya̍sna
+\mrph i.sg.
+\lm yasna_
+\dt
+
+\std yasnā̍i
+\mrph d.sg.
+\lm yasna_
+\dt
+
+\std yasnō̍
+\mrph n.sg.
+\lm yasna_
+\dt
+
+\std yasńiia̍
+\mrph a.pl.m.-n.
+\lm yasńiia_
+\dt
+
+\std yasńiiā̍
+\mrph n.pl.m.
+\lm yasńiia_
+\dt
+
+\std ya̍zaiṇti
+\mrph 3.pl.ind.prs.act.
+\lm yaz_
+\dt
+
+\std yazata̍ēibiiō
+\mrph d.pl.m.
+\lm yazata_
+\dt
+
+\std yazata̍nąm
+\mrph g.pl.m.
+\lm yazata_
+\dt
+
+\std yazata̍s
+\mrph n.sg.m.
+\lm yazata_
+\dt
+
+\std yazatā̊̍ŋhō
+\mrph n.pl.
+\lm yazata_
+\dt
+
+\std ya̍zamaide
+\mrph 1.pl.prs.med.
+\lm yaz_
+\dt
+
+\std yahmi
+\mrph l.sg.n.
+\lm ya_
+\dt
+
+\std yā
+\mrph n.sg.f.;n.du.n.;n.pl.f.
+\cls yā
+\lm ya_
+\dt
+
+\std yāta̍uuō
+\mrph a.pl.
+\lm yātu_
+\dt
+
+\std yāθβą̍m
+\mrph g.pl.
+\lm yātu_
+\dt
+
+\std yāvarnəm
+\mrph n.sg.
+\cls a
+\lm yāvarna_
+\dt
+
+\std yāsāmahi
+\mrph 1.pl.prs.act.
+\lm yās_
+\dt
+
+\std yąm
+\mrph a.sg.f.
+\lm ya_
+\dt
+
+\std ye̍iṇti
+\mrph 3.pl.ind.prs.act.
+\lm i_
+\dt
+
+\std ye̍ŋ́he
+\mrph g.sg.m.
+\lm ya_
+\dt
+
+\std yezi
+\mrph $
+\lm yezi
+\dt
+
+\std yō
+\mrph n.sg.m.
+\cls ya
+\lm ya_
+\dt
+
+\std yōi
+\mrph n.pl.m.
+\cls ya
+\lm ya_
+\dt
+
+\std yim
+\mrph a.sg.m.
+\cls ya
+\lm ya_
+\dt
+
+\std Yima̍he
+\mrph g.sg.
+\lm Yima_
+\dt
+
+\std Yimā̍t̰
+\mrph ab.sg.
+\lm Yima_
+\dt
+
+\std Yimō̍
+\mrph n.sg.
+\lm Yima_
+\dt
+
+\std yuγō_səmya̍
+\mrph n.du.
+\cls i̯a
+\lm yugō_səmya_
+\dt
+
+\std yūžə̍m
+\mrph n.pl.
+\lm yūžəm
+\dt
+
+\std vaēiti
+\mrph 3.sg.ind.prs.act.
+\lm vi_
+\dt
+
+\std va̍ēnəm
+\mrph 1.sg.inj.impf.act.
+\lm vaēna_
+\dt
+
+\std va̍ēnəmnəm
+\mrph abs.
+\lm vaēna_
+\dt
+
+\std va̍oce
+\mrph 3.sg.ind.perf.med.
+\cls I
+\lm vak_
+\dt
+
+\std va̍irīm
+\mrph a.sg.m.
+\lm vairiia_
+\dt
+
+\std va̍iriiō
+\mrph n.sg.m.
+\lm vairiia_
+\dt
+
+\std vaxša̍iiatō
+\mrph 3.du.prs.act.
+\lm vaxš_
+\dt
+
+\std vadə̍m
+\mrph a.sg.
+\cls a
+\lm vada_
+\dt
+
+\std vaⁱδīm
+\mrph a.sg.
+\cls ī
+\lm vaδi_
+\dt
+
+\std va̍ɧuya
+\mrph i.sg.f.
+\cls ī
+\lm vohu_
+\dt
+
+\std va̍ɧᵛi
+\mrph n.sg.f.
+\lm vohu_
+\dt
+
+\std va̍ɧᵛibyō
+\mrph d.pl.f.
+\cls ī
+\lm vohu_
+\dt
+
+\std vaŋhu_δābiiō
+\mrph d.pl.m.
+\cls I
+\lm vohu_ dā_
+\dt
+
+\std varəδa̍iiemi
+\mrph 1.sg.ind.prs.act.
+\lm vard_
+\dt
+
+\std vardvanąm
+\mrph g.pl.
+\cls va
+\lm vardva_
+\dt
+
+\std vazaγanąm
+\mrph g.pl.
+\cls a
+\lm vazaγa_
+\dt
+
+\std vazya̍nąm
+\mrph g.pl.
+\cls ya
+\lm vazya_
+\dt
+
+\std va̍zrō
+\mrph n.sg.
+\cls a
+\lm vazra_
+\dt
+
+\std va̍ši
+\mrph 2.sg.ind.prs.act.
+\lm vas_
+\dt
+
+\std va̍hištāt̰
+\mrph abl.sg.m.
+\lm vahišta_
+\dt
+
+\std va̍hištəm
+\mrph a.sg.m.;n.sg.n.;a.sg.n.
+\cls a
+\lm vohu_
+\dt
+
+\std vahmāi
+\mrph d.sg.
+\lm vahma_
+\dt
+
+\std vahmiia̍
+\mrph n.pl.m.-n.;a.pl.m.-n.
+\lm vahmiia_
+\dt
+
+\std vahmiiā̍
+\mrph n.pl.m.
+\lm vahmiia_
+\dt
+
+\std vā
+\mrph $
+\cls $
+\lm vā
+\dt
+
+\std vāci
+\mrph 3.sg.inj.aor.pass.
+\cls I
+\lm vak_
+\dt
+
+\std vā̍taēibiiō
+\mrph ab.pl.
+\lm vāta_
+\dt
+
+\std vā̍tō
+\mrph n.sg.
+\lm vāta_
+\dt
+
+\std vārəγnahe
+\mrph g.sg.
+\lm vārəγna_
+\dt
+
+\std vāstrayaēta
+\mrph 3.sg.opt.prs.med.
+\cls XXXI
+\lm vāstraya_
+\dt
+
+\std vāstryehe
+\mrph g.sg.m.
+\cls ya
+\lm vāstrya_
+\dt
+
+\std vāstryō
+\mrph d.sg.-n.sg.m.
+\cls ya
+\lm vāstrya_
+\dt
+
+\std vā̍ṣ̌əm
+\mrph a.sg.
+\lm vāṣ̌a_
+\dt
+
+\std və̍rəkāi
+\mrph d.sg.
+\lm vərəka_
+\dt
+
+\std və̍rəkāiš
+\mrph i.pl.
+\lm vərəka_
+\dt
+
+\std vərəθra̍
+\mrph a.pl.
+\lm vərəθra_
+\dt
+
+\std Vərəθraγnə̍m
+\mrph a.sg.
+\lm Vərəθraγna_
+\dt
+
+\std Vərəθraγnō̍
+\mrph n.sg.
+\lm Vərəθraγna_
+\dt
+
+\std vərəθrauuanąm
+\mrph g.pl.m.
+\lm vərəθrauuan_
+\dt
+
+\std vərəθrauuastəmō
+\mrph n.sg.m.sup.
+\lm vərəθrauuant_
+\dt
+
+\std vərəθrə̍m
+\mrph a.sg.
+\lm vərəθra_
+\dt
+
+\std vərəzayaṇtəm
+\mrph d.sg.-prc.prs.act.a.sg.m. (caus.)
+\cls XXX
+\lm varz_
+\dt
+
+\std vərəze̍
+\mrph 2.sg.imp.act.
+\lm varz_
+\dt
+
+\std vərəzi̍ṇti
+\mrph 3.pl.prs.act.
+\lm varz_
+\dt
+
+\std vouru̍_kaṣ̌āt̰
+\mrph ab.sg.m.
+\lm varu_ kaṣ̌a_ ∅
+\dt
+
+\std vouru̍_gaōiiaōtə̄e
+\mrph d.sg.m.
+\lm varu_ gaoiiaoti_ ∅
+\dt
+
+\std vo̍hu
+\mrph n.sg.n.;a.sg.n.
+\cls u
+\lm vohu_
+\dt
+
+\std vohu_kərətōiš
+\mrph g.sg.
+\cls i
+\lm vohu_kərəti_
+\dt
+
+\std vohu_gaonahe
+\mrph g.sg.
+\cls a
+\lm vohu_gaona_
+\dt
+
+\std vi
+\mrph $
+\lm vi
+\dt
+
+\std vi_kaṇti
+\mrph 3.sg.ind.prs.
+\lm vi_kan_
+\dt
+
+\std vi_kərət̰_uštānəm
+\mrph a.sg.m.
+\cls a
+\lm vi_kar_ uštāna_ ∅;vikərət̰_uštāna_
+\dt
+
+\std vi_kusrəm
+\mrph a.sg.
+\cls a
+\lm vi_kusra_
+\dt
+
+\std viuuaŋhušāt̰
+\mrph ab.sg.m.
+\lm viuuaŋhuša_
+\dt
+
+\std vītāra
+\mrph n.pl.-n.
+\cls a
+\lm vītāra_
+\dt
+
+\std vī̍maiδīm
+\mrph $
+\lm vīmaiδīm
+\dt
+
+\std vīra̍nąm
+\mrph g.pl.
+\lm vīra_
+\dt
+
+\std vīra̍iiā̊
+\mrph g.du.
+\lm vīra_
+\dt
+
+\std vīra̍he
+\mrph g.sg.
+\lm vīra_
+\dt
+
+\std vīsō
+\mrph g.sg.
+\lm vīs_
+\dt
+
+\std vī̍spaēibiiō
+\mrph d.pl.m.
+\lm vīspa_
+\dt
+
+\std vī̍spaēⁱbyas
+\mrph abl.pl.m.
+\cls a
+\lm vīspa_
+\dt
+
+\std vī̍spahe
+\mrph g.sg.m.
+\lm vīspa_
+\dt
+
+\std vī̍spāiš
+\mrph a.-i.pl.m.
+\lm vīspa_
+\dt
+
+\std vī̍spā̊
+\mrph n.pl.f.;a.pl.f.
+\lm vīspa_
+\dt
+
+\std vī̍spəm
+\mrph a.sg.m.
+\lm vīspa_
+\dt
+
+\std vī̍spe
+\mrph n.pl.m.;a.pl.-n.pl.m.
+\cls a
+\lm vīspa_
+\dt
+
+\std Vīštā̍spō
+\mrph n.sg.
+\lm Vīštāspa_
+\dt
+
+\std vyaŋuraēⁱbyas
+\mrph abl.pl.
+\cls a
+\lm vyaŋura_
+\dt
+
+\std viiāxmańiiata
+\mrph 3.sg.inj.impf.med.
+\lm viiāxmańiia_
+\dt
+
+\std raēθβiš_bajina
+\mrph n.pl.
+\cls a
+\lm raēθβiš_bajina_
+\dt
+
+\std raē̍m
+\mrph a.sg.
+\lm raii_
+\dt
+
+\std raēuua̍ṇtəm
+\mrph a.sg.m.
+\lm raēuuaṇt_
+\dt
+
+\std raēuua̍stəmō
+\mrph n.sg.m.sup.
+\lm raēuuaṇt_
+\dt
+
+\std raēuuā̊̍
+\mrph n.sg.m.
+\lm raēuuaṇt_
+\dt
+
+\std raoxšna
+\mrph i.sg.m.
+\lm raoxšna_
+\dt
+
+\std ra̍oδəṇti
+\mrph 3.sg.prs.act.
+\lm rud_
+\dt
+
+\std raoδyąm
+\mrph a.sg.f.
+\cls yā
+\lm raoδya_
+\dt
+
+\std raθaē_štā̍i
+\mrph d.sg.
+\lm raθaē_štā_
+\dt
+
+\std raθaē_šte
+\mrph d.sg.
+\cls Wurzel
+\lm raθaē_štā_
+\dt
+
+\std ra̍θəm
+\mrph a.sg.
+\lm raθa_
+\dt
+
+\std Raŋha̍iiā̊
+\mrph g.sg.
+\lm Raŋhā_
+\dt
+
+\std raiia̍
+\mrph i.sg.
+\lm raii_
+\dt
+
+\std rāna_pānō
+\mrph n.pl.
+\cls Wurzel
+\lm rāna_pā_
+\dt
+
+\std rāna_pō
+\mrph n.sg.
+\cls ?
+\lm rāna_pā_
+\dt
+
+\std ⁱrista
+\mrph prc.prt.pass.n.pl.m.-n.
+\lm riθ_
+\dt
+
+\std ⁱrīmaⁱtinąm
+\mrph g.pl.f.
+\cls nt
+\lm rīmant_
+\dt
+
+\std ᵘrune̍
+\mrph d.sg.
+\cls van
+\lm rvan_
+\dt
+
+\std ᵘrunya̍
+\mrph n.pl.-n.
+\cls a
+\lm runya_
+\dt
+
+\std ᵘruuištrəm
+\mrph a.sg.
+\lm ᵘruuištra_
+\dt
+
+\std sanake
+\mrph l.sg.
+\lm sanaka_
+\dt
+
+\std sarə̍δəm
+\mrph a.sg.
+\cls C
+\lm sarəd_
+\dt
+
+\std sādrəm
+\mrph a.sg.
+\lm sādra_
+\dt
+
+\std sāra_vārō
+\mrph n.sg.
+\cls a
+\lm sāra_vāra_
+\dt
+
+\std sāsta
+\mrph n.pl.m.-n.
+\lm sāsta_
+\dt
+
+\std sunī̍š
+\mrph n.pl.;a.pl.;n./a.pl.
+\cls ī
+\lm sunī_
+\dt
+
+\std sū̍raiiā̊
+\mrph g.sg.f.
+\lm sūra_
+\dt
+
+\std stā̍uuištəm
+\mrph n.sg.n.sup.
+\lm stūra_
+\dt
+
+\std stā̍rō
+\mrph n.pl.
+\lm star_
+\dt
+
+\std stri
+\mrph n.sg.
+\cls ī
+\lm strī_
+\dt
+
+\std strī_nāmanō
+\mrph n.pl.m.;a.pl.m.;n./a.pl.m.
+\cls n
+\lm strī_nāman_
+\dt
+
+\std spakanąm
+\mrph g.pl.m.
+\cls a
+\lm spaka_
+\dt
+
+\std spa̍siiehi
+\mrph 2.sg.ind.prs.act.
+\lm spas_
+\dt
+
+\std spā_fraθəm
+\mrph a.sg.f.
+\cls C
+\lm spā_fraθ_
+\dt
+
+\std spā_bərəzəm
+\mrph a.sg.f.
+\cls C
+\lm spā_bərəz_
+\dt
+
+\std spəništa
+\mrph v.sg.m.sup.
+\cls Caland
+\lm spəṇta_
+\dt
+
+\std spəṇta̍
+\mrph a.du.m.
+\lm spəṇta_
+\dt
+
+\std spəṇta̍ēibiiō
+\mrph d.pl.m.
+\lm spəṇta_
+\dt
+
+\std spəṇta̍nąm
+\mrph g.pl.
+\lm spəṇta_
+\dt
+
+\std spəṇta̍s
+\mrph n.sg.m.
+\lm spəṇta_
+\dt
+
+\std spəṇtą̍
+\mrph a.pl.m.
+\lm spəṇta_
+\dt
+
+\std spəṇtə̍m
+\mrph a.sg.m.
+\lm spəṇta_
+\dt
+
+\std spəṇtə̄̍
+\mrph a.pl.m.
+\lm spəṇta_
+\dt
+
+\std spəṇtō̍
+\mrph n.sg.m.
+\lm spəṇta_
+\dt
+
+\std Spitama
+\mrph v.sg.
+\cls a
+\lm Spitama_
+\dt
+
+\std Spitamahe
+\mrph g.sg.
+\lm Spitama_
+\dt
+
+\std spitibyas
+\mrph abl.pl.
+\cls i
+\lm spiti_
+\dt
+
+\std snaθəm
+\mrph a.sg.
+\cls a
+\lm snaθa_
+\dt
+
+\std snāvar_bāzura
+\mrph n.sg.f.
+\cls ā
+\lm snāvar_bāzura_
+\dt
+
+\std Snāuuiδkəm
+\mrph a.sg.
+\lm Snāuuiδka_
+\dt
+
+\std sraošō_caranaya
+\mrph i.sg.
+\cls ā
+\lm sraošō_caranā_
+\dt
+
+\std srīrā̍iš
+\mrph i.pl.n.
+\lm srīra_
+\dt
+
+\std srīrą̍
+\mrph a.pl.m.
+\lm srīra_
+\dt
+
+\std srīrō̍
+\mrph n.sg.m.
+\lm srīra_
+\dt
+
+\std sruuō_zanəm
+\mrph a.sg.m.
+\lm srū_ zana_ ∅;srva_ zana_ ∅
+\dt
+
+\std zaēnuš
+\mrph n.sg.
+\cls u
+\lm zaēnuš_
+\dt
+
+\std zaoθra̍nąm
+\mrph g.pl.
+\cls ā;a
+\lm zaoθra_;zaoθrā_
+\dt
+
+\std za̍ošāi
+\mrph d.sg.
+\lm zaoša_
+\dt
+
+\std za̍ošō
+\mrph n.sg.
+\lm zaoša_
+\dt
+
+\std za̍ire
+\mrph v.sg.
+\lm zari_
+\dt
+
+\std za̍irīm
+\mrph a.sg.m.
+\lm zari_
+\dt
+
+\std zama̍r
+\mrph $
+\lm zamar
+\dt
+
+\std zaya
+\mrph n.pl.-n.;a.pl.-n.
+\cls a
+\lm zaya_
+\dt
+
+\std zayanąm
+\mrph g.pl.
+\cls a
+\lm zaya_
+\dt
+
+\std zaiiō̍təmō
+\mrph n.sg.m.sup.
+\lm zaiian_
+\dt
+
+\std Zaraθuštra
+\mrph v.sg.
+\cls a
+\lm Zaraθuštra_
+\dt
+
+\std Zaraθuštrahe
+\mrph g.sg.
+\cls $
+\lm Zaraθuštra_
+\dt
+
+\std Zaraθuštrāt̰
+\mrph ab.sg.
+\lm Zaraθuštra_
+\dt
+
+\std Zaraθu̍štrəm
+\mrph a.sg.
+\lm Zaraθuštra_
+\dt
+
+\std Zaraθuštrō
+\mrph v.sg.
+\cls a
+\lm Zaraθuštra_
+\dt
+
+\std za̍ranim
+\mrph n.sg.
+\cls ya
+\lm zaranya_
+\dt
+
+\std za̍staēibiia
+\mrph i.du.
+\lm zasta_
+\dt
+
+\std zā̊
+\mrph n.sg.
+\cls Wurzel
+\lm zam_
+\dt
+
+\std ząm
+\mrph a.sg.
+\cls Wurzel
+\lm zam_
+\dt
+
+\std zəmō̍
+\mrph g.sg.
+\cls Wurzel
+\lm zam_
+\dt
+
+\std zgərəsnō_vaγδanəm
+\mrph n.sg.n.
+\cls a
+\lm zgərəsnō_vaγδana_
+\dt
+
+\std zba̍iieiti
+\mrph 3.sg.prs.act.
+\lm zū_
+\dt
+
+\std zra̍iiaŋhat̰
+\mrph ab.sg.
+\lm zraiiah_
+\dt
+
+\std zrazdā̍i
+\mrph d.sg.m.
+\lm zrazdā_
+\dt
+
+\std zrāδō
+\mrph n.sg.
+\cls a
+\lm zrāδa_
+\dt
+
+\std šē
+\mrph d.sg.m.
+\lm hay_
+\dt
+
+\std š́usat̰
+\mrph 3.sg.inj.impf.act.
+\lm š́iiu_
+\dt
+
+\std š́iiaoθna̍
+\mrph n.pl.
+\lm š́iiaoθna_
+\dt
+
+\std š́iiaoθnə̍m
+\mrph n.sg.;a.sg.
+\lm š́iiaoθna_
+\dt
+
+\std š́iiaoθne̍
+\mrph n.du.
+\lm š́iiaoθna_
+\dt
+
+\std haēcō
+\mrph n.sg.;a.sg.
+\cls s
+\lm haēcah_
+\dt
+
+\std ha̍ēnąm
+\mrph a.sg.
+\lm haēnā_
+\dt
+
+\std ha̍omavaⁱtinąm
+\mrph g.pl.f.
+\cls vant
+\lm haomavant_
+\dt
+
+\std haomya̍
+\mrph n.pl.n.
+\cls ya
+\lm haomya_
+\dt
+
+\std ha̍ōməm
+\mrph a.sg.
+\lm haōma_
+\dt
+
+\std hakə̍rət̰
+\mrph $
+\cls $
+\lm hakərət̰
+\dt
+
+\std ha̍ca
+\mrph $
+\lm haca
+\dt
+
+\std haⁱθyā̍
+\mrph n.pl.m.-n.
+\cls ya
+\lm haθya_
+\dt
+
+\std haδānaēpatayā̊
+\mrph g.sg.
+\cls ā
+\lm haδānaēpātā_
+\dt
+
+\std haδānaēpātaiiā̊
+\mrph g.sg.
+\cls ā
+\lm haδānaēpātā_
+\dt
+
+\std haδānaēpātā
+\mrph n.sg.
+\cls ā
+\lm haδānaēpātā_
+\dt
+
+\std hapta̍
+\mrph $
+\cls $
+\lm hapta̍
+\dt
+
+\std hapta̍θō
+\mrph n.sg.m.
+\cls a
+\lm haptaθa_
+\dt
+
+\std haṇ_kusrəm
+\mrph a.sg.m.
+\cls a
+\lm haṇ_kusra_
+\dt
+
+\std haṇgərəβa̍iiata
+\mrph 3.sg.inj.impf.med.
+\lm haṇ_grab_
+\dt
+
+\std haṇgərəβāiia̍ta
+\mrph 3.sg.inj.impf.med.
+\lm haṇ_grab_
+\dt
+
+\std ha̍vana
+\mrph n.du.
+\cls a
+\lm havana_
+\dt
+
+\std harəθrəm
+\mrph a.sg.
+\cls a
+\lm harəθra_
+\dt
+
+\std haza̍ɧra_yaoxštīm
+\mrph a.sg.m.
+\lm hazaɧra_ yaoxšti_ ∅
+\dt
+
+\std haza̍ɧrāiš
+\mrph d.pl.;n.pl.-d.pl.
+\cls ra
+\lm hazaɧra_
+\dt
+
+\std haza̍ɧrō_a̍spąm
+\mrph a.sg.f.
+\lm hazaɧra_ aspa_
+\dt
+
+\std hā
+\mrph n.sg.f.
+\cls ā
+\lm ta_
+\dt
+
+\std hāθrō_masaŋhəm
+\mrph a.sg.m.?
+\lm hāθra_ masah_ ∅
+\dt
+
+\std hā̍vana
+\mrph n.du.
+\cls a
+\lm hāvana_
+\dt
+
+\std hąm_bavaⁱṇti
+\mrph 3.pl.ind.prs.act.
+\cls II
+\lm hąm_bū_
+\dt
+
+\std hąm_ⁱrista
+\mrph l.sg.
+\cls i
+\lm hąm_risti_
+\dt
+
+\std hə̍ṇti
+\mrph 3.pl.prs.act.
+\lm ah_
+\dt
+
+\std hē
+\mrph d.sg.m.;d.sg.m./n.;d.sg.f.;g.sg.m.;g.sg.f.
+\cls $
+\lm hay_
+\dt
+
+\std hō
+\mrph n.sg.m.
+\lm ta_
+\dt
+
+\std hikaranəm
+\mrph a.sg.m.
+\cls a
+\lm hikarana_
+\dt
+
+\std hi̍ṇduuō
+\mrph g.-d.sg.
+\lm hiṇdu_
+\dt
+
+\std hizuuā̍biia
+\mrph i.du.;d.du.;abl.du.
+\lm hizuuā_
+\dt
+
+\std hizuuą̍m
+\mrph a.sg.
+\lm hizuuā_
+\dt
+
+\std hi̍štaiti
+\mrph 3.sg.prs.act.
+\lm stā_
+\dt
+
+\std hu̍uarə
+\mrph n.sg.
+\lm huuar_
+\dt
+
+\std hu̍uarəštəm
+\mrph a.sg.m.
+\lm huuarəšta_
+\dt
+
+\std hu̍kərətō
+\mrph n.sg.m.
+\lm hu_kərəta_
+\dt
+
+\std huxšaθrō̍təmō
+\mrph n.sg.m.sup.
+\lm hu_xšaθra_
+\dt
+
+\std hu_baoiδitəmanąm
+\mrph g.pl.f.sup.
+\cls a
+\lm hu_baoδi_
+\dt
+
+\std hu̍rayā̊
+\mrph g.sg.
+\cls ā
+\lm hurā_
+\dt
+
+\std hušatą̍m
+\mrph prc.prt.pass.g.pl.m.
+\cls a
+\lm huš_
+\dt
+
+\std huuarə_xšaētāi
+\mrph d.sg.m.
+\lm huuar_ xšaēta_
+\dt
+
+\std $
+\mrph $
+\cls $
+\lm $
+\dt

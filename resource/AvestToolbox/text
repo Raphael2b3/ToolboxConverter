@@ -1,0 +1,141 @@
+\_sh v3.0  400  Text
+
+\id CR_2019
+\ref 02.01.01
+\tx yimahe  xšaθre   / xšaθraiiō   / xšaθraēšu   / xšaθraēšuua   /  
+\std Yimahe  xšaθre̍ $ xšaθra̍iiō $ xšaθra̍ēšu $ xšaθra̍ēšuua $
+\mrph g.sg.   l.sg.      $ l.du.          $ l.pl.           $ l.pl.             $
+\cls o       o          $ o              $ o               $ o                 $
+\lm Yima_   xšaθra_  $ xšaθra_      $ xšaθra_       $ xšaθra_         $
+\PoS sm.npr. sn.        $ sn.            $ sn.             $ sn.               $
+\gD Yima    Herrschaft $ Herrschaft     $ Herrschaft      $ Herrschaft        $
+
+\ref 02.01.02
+\tx zaraθuštrō , aspəm   uštrəmca       darəsaiti    / aspa   uštrāca       / aspą   uštrąsca       / aspə̄   uštrə̄sca
+\std Zaraθuštrō $ a̍spəm uštrə̍m _ca   da̍rəsaiti  $ a̍spa uštrā̍ _ca   $ a̍spą uštrą̍s _ca   $ a̍spə̄ uštrə̄̍s _ca
+\mrph v.sg.         $ a.sg.    a.sg.      $     3.sg.prs.act. $ a.du.  a.du.     $     $ a.pl.   a.pl.      $     $ a.pl.     a.pl.        $
+\cls o             $ o        o          $     o             $ o      o         $     $ o       o          $     $ o         o            $
+\lm Zaraθuštra_ $ aspa_    uštra_    _ca   dars_         $ aspa_  uštra_   _ca   $ aspa_   uštra_    _ca   $ aspa_     uštra_      _ca
+\PoS sm.npr.       $ sm.      sm.a       part. vb.           $ sm.    sm.a      part. $ sm.     sm.a       part. $ sm.       sm.a         part.
+\gD Zarathustra   $ Pferd    Kamel      und   sehen         $ Pferd  Kamel     und   $ Pferd   Kamel      und   $ Pferd     Kamel        und
+
+\ref 02.01.03
+\tx mąθrəm     spəṇtəm   yazamaide     / mąθra       spəṇta   / mąθrą      spəṇtą   / mąθrə̄    spəṇtə̄
+\std mą̍θrəm   spəṇtə̍m ya̍zamaide   $ mą̍θra     spəṇta̍ $ mą̍θrą    spəṇtą̍ $ mą̍θrə̄  spəṇtə̄̍
+\mrph a.sg.         a.sg.m.       1.pl.prs.med. $ a.du.         a.du.m.     $ a.pl.         a.pl.m.      $ a.pl.         a.pl.m.
+\cls o             a             o             $ o             a           $ o             a            $ o             a
+\lm mąθra_      spəṇta_    yaz_          $ mąθra_      spəṇta_  $ mąθra_      spəṇta_   $ mąθra_      spəṇta_
+\PoS sm.           adj.          vb.           $ sm.           adj.        $ sm.           adj.         $ sm.           adj.
+\gD Formel,Spruch heilvoll      verehren      $ Formel,Spruch heilvoll    $ Formel,Spruch heilvoll     $ Formel,Spruch heilvoll
+
+\ref 02.01.04.
+\tx nmānāt̰ zaraθuštrahe / nmānaēibiia / nmānaēibiiō
+\std nmānāt̰ Zaraθuštrahe $ nmānaēibiia $ nmānaēibiiō
+\mrph abl.sg.    g.sg.          $ abl.du.       $ abl.pl.
+\cls o          o              $ o             $ o
+\lm nmāna_    Zaraθuštra_  $ nmāna_       $ nmāna_
+\PoS sn.        sm.npr.        $ sn.           $ sn.
+\gD Haus       Zarathustra    $ Haus          $ Haus
+
+\ref 02.01.05.
+\tx yasnō   ahurāi   asti          / ahuraēibiia   / ahuraēibiiō
+\std yasnō̍ a̍hurāi a̍sti        $ a̍huraēibiia $ a̍huraēibiiō
+\mrph n.sg.    d.sg.     3.sg.prs.act. $ d.du.          $ d.pl.
+\cls o        o         athem         $ o              $ o
+\lm yasna_   ahura_    as_           $ ahura_         $ ahura_
+\PoS sm.      sm.       vb.           $ sm.            $ sm.
+\gD Opfer    Herr      sein          $ Herr           $ Herr
+
+\ref 02.01.06.
+\tx š́iiaoθnəm   vīrahe   / š́iiaoθne   vīraiiā̊   / š́iiaoθna   vīraēibiiō
+\std š́iiaoθnə̍m vīra̍he $ š́iiaoθne̍ vīra̍iiā̊ $ š́iiaoθna̍ vīra̍nąm
+\mrph n.sg.            g.sg.     $ n.du.          g.du.         $ n.pl.          g.pl.
+\cls o                o         $ o              o             $ o              o
+\lm š́iiaoθna_    vīra_    $ š́iiaoθna_  vīra_        $ š́iiaoθna_  vīra_
+\PoS sn.              sm.       $ sn.            sm.           $ sn.            sm.
+\gD Handlung         Mann      $ Handlung       Mann          $ Handlung       Mann
+
+\ref 03.05.01̍
+\tx arəjaiti     / išūidiiāmahi   / xᵛarəṇti   / juuaiṇti    / °tərəsaiti /
+\std a̍rəjaiti   $ išūidiiā̍mahi $ xᵛa̍rəṇti $ juuaiṇti    $ tə̍rəsaiti $
+\mrph 3.sg.prs.act. $ 1.pl.prs.act.     $ 3.pl.prs.act.   $ 3.pl.prs.act. $ 3.sg.prs.act. $
+\lm arj_          $ išud_            $ xᵛar_         $ ji_           $ tarš_        $
+\PoS vb.           $ vb.               $ vb.             $ vb.           $ vb.           $
+\gD wert_sein     $ Stärkung bringen $ essen           $ leben         $ zittern       $
+\cls o             $ i̯a              $ o               $ o             $ o             $
+
+\tx pərəsahi    / hištaiti     / °āxšaiieiṇti / taciṇti       / pacaiti       /
+\std pərəsa̍hi  $ hi̍štaiti   $ āxša̍iieiṇti $ ta̍ciṇti     $ pa̍caiti     $
+\mrph 2.sg.prs.act. $ 3.sg.prs.act. $ 3.pl.prs.act.     $ 3.pl.prs.act.   $ 3.sg.prs.act. $
+\lm fras_         $ stā_         $ āxš_            $ tac_            $ pac_          $
+\PoS vb.           $ vb.           $ vb.               $ vb.             $ vb.           $
+\gD fragen        $ stellen       $ überwachen       $ rennen,fließen $ kochen        $
+\cls o             $ athem.        $ ai̯a             $ o               $ a             $
+
+\tx vaxšaiiatō   / dāraiiehi    / baṇdāmi    / kāraiieiti   / gaŋhəṇti   /
+\std vaxša̍iiatō $ dāra̍iiehi  $ ba̍ṇdāmi  $ kāra̍iieiti $ ga̍ŋhəṇti $
+\mrph 3.du.prs.act.  $ 2.sg.prs.act. $ 1.sg.prs.act. $ 3.sg.prs.act. $ 3.pl.prs.act.  $
+\lm vaxš_         $ dar_          $ baṇd_       $ kar_          $ gah_           $
+\PoS vb.            $ vb.           $ vb.           $ vb.           $ vb.            $
+\gD wachsen        $ halten        $ verbinden     $ feiern        $ (fr)essen      $
+\cls ?              $ o             $ o             $ ai̯a         $ a              $
+
+\tx apaiiemi      / yāsāmahi    / zbaiieiti
+\std apa̍iiemi    $ yāsāmahi    $ zba̍iieiti
+\mrph 1.sg.prs.act. $ 1.pl.prs.act. $ 3.sg.prs.act.
+\lm āp_          $ yās_         $ zū_
+\PoS vb.           $ vb.           $ vb.
+\gD erreichen     $ verlangen     $ anrufen
+\cls ai̯a         $ a             $ ?
+
+\ref 03.05.04.04
+\tx spəṇtō   maińiiuš   hazaŋrō.aspąm     haēnąm   azaiti        daēuuaiiasną     auui   maṣ̌iią
+\std spəṇtō̍ maińiiu̍š haza̍ŋrō_a̍spąm ha̍ēnąm a̍zaiti      da̍ēuua_yasną̍ a̍uui ma̍ṣ̌iią
+\mrph n.sg.m.      n.sg.        a.sg.f.              a.sg.      3.sg.prs.act. a.pl.m.            $      a.pl.
+\lm spəṇta_   maińiiu_    hazaŋra_   aspa_    haēnā_   az_           daēuua_ yasna_    auui   maṣ̌iia_
+\PoS adj.         sm.          num.        sm.      sf.        vb.           sm.      sm.       prp.   sm.
+\gD heilvoll     Meinung      tausend     Pferd    Heer       führen       Dämon   Anbetung  gegen  Mensch
+\cls a            u            ra          o        ā         a             o        o         $      a
+
+\trans Spəṇta Mainiiu führt ein Heer tausender Pferde gegen die dämonenanbetenden Menschen
+
+\ref 04.07.03
+\tx adāraēm         / paθō    / nizbaiiemi        / raθaēštāi   / framiriiat̰      /
+\std a̍dāraēm       $ paθō̍  $ ni_zba̍iiemi     $ raθaēštā̍i $ fra_miriia̍t̰   $
+\mrph 1.sg.ind.prt.act. $ g.sg.     $ 1.sg.ind.prs.act. $ d.sg.           $ 3.sg.inj.prs.act. $
+\lm dar_              $ paṇtā_ $ ni_zū_           $ raθaēštā_   $ fra_mar_          $
+\PoS vb.               $ sm.       $ vb.               $ sm.             $ vb.               $
+\gD halten            $ Weg       $ anrufen           $ Krieger         $ sterben           $
+\cls o                 $ h₂      $ aya               $ h₂            $ iya               $
+
+\tx yazatasca               / frasrāuuaiiən    / mazdā̊   / auuabarata        / taciṇti       /
+\std yazata̍s         _ca   $ fra_srāuua̍iiən $ mazdā̊̍ $ auua_ba̍rata     $ ta̍ciṇti     $
+\mrph n.sg.m.           $     $ 3.sg.inj.prs.act.  $ n.sg.      $ 2.pl.inj.prs.act. $ 3.pl.prs.act.   $
+\lm yazata_           _ca   $ fra_srū_          $ mazdā_    $ auua_bar_         $ tac_            $
+\PoS adj.              part. $ vb.                $ sm.        $ vb.               $ vb.             $
+\gD verehrungswürdig und   $ rezitieren         $ Mazdā     $ bringen           $ rennen,fließen $
+\cls o                 $     $ athem              $ Wurzel     $ a                 $ o               $
+
+\tx armaēštąm  / vahištəm   / baratō           / baom              / vəhrkāiš    /
+\std armaē_štąm $ va̍hištəm $ ba̍ratō         $ ba̍om            $ və̍rəkāiš $
+\mrph a.sg.m.       $ a.sg.m.      $ 3.du.ind.prs.act. $ 1.sg.inj.prs.act. $ i.pl.          $
+\lm armaē_štā_ $ vohu_        $ bar_              $ bū_              $ vərəka_      $
+\PoS adj.          $ adj.         $ vb.               $ vb.               $ sm.            $
+\gD stillstehend  $ gut          $ bringen           $ werden            $ Wolf           $
+\cls ā            $ u/i          $ a                 $ a                 $ a              $
+
+\tx daēsaiiō        / hizuuābiia   / araoδatəm        / spasiiehi         / haēnąm   /
+\std daēsa̍iiō      $ hizuuā̍biia $ a̍raoδatəm      $ spa̍siiehi       $ ha̍ēnąm $
+\mrph 2.sg.inj.prs.act. $ i.du.         $ 3.du.ind.impf.act. $ 2.sg.ind.prs.act. $ a.sg.      $
+\lm dis_              $ hizuuā_      $ rud_               $ spas_             $ haēnā_   $
+\PoS vb.               $ sf.           $ vb.                $ vb.               $ sf.        $
+\gD zeigen            $ Zunge         $ wachsen            $ blicken           $ Heer       $
+\cls a                 $ ā            $ a                  $ a                 $ ā         $
+
+\tx pərəsaiti       / vaŋhuδābiiō  / paitiiārəm
+\std pərəsa̍iti     $ vaŋhu_δābiiō $ paitiiārə̍m
+\mrph 3.sg.ind.prs.act. $ d.pl.m.          $ a.sg.
+\lm fras_             $ vohu_ dā_       $ paitiiāra_
+\PoS vb.               $ adj.  vb.        $ sm.
+\gD fragen            $ gut   geben      $ Feindseligkeit
+\cls o                 $ u/i   athem      $ a

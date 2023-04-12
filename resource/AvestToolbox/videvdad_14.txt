@@ -1,0 +1,1747 @@
+\_sh v3.0  400  Text
+
+\id Videvdad_14_01
+\ref V_14_01.a
+\tx pərəsat̰       . zaraθuštrō . ahurəm   . mazdąm   :
+\std pərəsa̍t̰     $ Zaraθuštrō $ a̍hurəm $ mazdą̍m $
+\mrph 3.sg.inj.prs.act. $ v.sg.         $ a.sg.     $ a.sg.     $
+\cls XIV               $ a             $ a         $ Wurzel    $
+\lm fras_             $ Zaraθuštra_ $ ahura_    $ mazdā_   $
+\PoS vb.               $ sm.npr.       $ sm.       $ sm.       $
+\gD fragen            $ Zarathustra   $ Herr      $ Weisheit  $
+
+\ref V_14_01.b
+\tx ahura  . mazda   .
+\std ahura  $ mazda   $
+\mrph v.sg.  $ v.sg.   $
+\cls a      $ Wurzel  $
+\lm ahura_ $ mazdā_ $
+\PoS sm.    $ sm.     $
+\gD Gott   $ Mazdā  $
+
+\trans „Ahura Mazdā,
+
+\ref V_14_01.c
+\tx mainiiō     . spə̄ništa .
+\std ma̍ⁱńyō $ spəništa   $
+\mrph v.sg.        $ v.sg.m.sup.  $
+\cls u            $ Caland       $
+\lm manyu_       $ spəṇta_   $
+\PoS sm.          $ adj.         $
+\gD Geist        $ heilvoll     $
+
+\trans heilvollster Geist,
+
+\ref V_14_01.d
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ ī               $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Lebewesen     $ irdisch          $ wahrhaftig  $
+
+\trans wahrhaftiger Schöpfer der irdischen Lebewesen,
+
+\ref V_14_01.e
+\tx yō             . udrəm   . jaiṇti          . yim             . upāpəm  .
+\std yō             $ udrə̍m $ ja̍ⁱṇti      $ yim             $ upāpəm  $
+\mrph n.sg.m.         $ a.sg.    $ 3.sg.ind.prs.act. $ a.sg.m.         $ a.sg.m.   $
+\cls ya              $ a        $ I                 $ ya              $ a         $
+\lm ya_             $ udra_    $ jan_              $ ya_             $ upāpa_   $
+\PoS prn.            $ sm.      $ vb.               $ prn.            $ adj.      $
+\gD Relativpronomen $ Otter    $ töten            $ Relativpronomen $ im_Wasser $
+
+\trans wenn jemand einen Otter tötet, der im Wasser lebt –
+
+\ref V_14_01.f
+\tx hazaŋrāiš   . sūnīš  . strī.nāmanō         .
+\std haza̍ɧrāiš $ sunī̍š $ strī_nāmanō         $
+\mrph n.pl.-d.pl.    $ n./a.pl.  $ n./a.pl.m.             $
+\cls ra             $ ī        $ n                      $
+\lm hazaɧra_      $ sunī_    $ strī_nāman_          $
+\PoS num.c.         $ sm._(sf.) $ adj.                   $
+\gD tausend        $ Hund      $ weiblichen_Geschlechts $
+
+\trans auf tausend weibliche Hunde
+
+\ref V_14_01.g
+\tx hazaŋrāiš   . sūnīš  . nairiiō.nāmanō       .
+\std haza̍ɧrāiš $ sunī̍š $ naⁱryō_nāmanō      $
+\mrph n.pl.-d.pl.    $ n./a.pl.  $ n./a.pl.m.              $
+\cls ra             $ ī        $ n                       $
+\lm hazaɧra_      $ sunī_    $ naryō_nāman_          $
+\PoS num.c.         $ sm.       $ adj.                    $
+\gD tausend        $ Hund      $ männlichen_Geschlechts $
+
+\trans [und] auf tausend männliche Hunde –
+
+\ref V_14_01.h
+\tx frazābaoδaŋhəm    . snaθəm . vīkərət̰.uštānəm     .
+\std frazā_baoδaɧəm    $ snaθəm $ vi_kərət̰_uštānəm     $
+\mrph a.sg.m.               $ a.sg.    $ a.sg.m.                     $
+\cls h                     $ a        $ a                           $
+\lm frazā_baoδah_       $ snaθa_  $ vikərət̰_uštāna_       $
+\PoS adj.                  $ sm.      $ adj.                        $
+\gD vorsätzliche_Tötung $ Schlag   $ die_Lebenskraft_zerstörend $
+
+\trans den Schlag der vorsätzlichen Tötung, der die Lebenskraft zerschlägt ;
+
+\ref V_14_01.i
+\tx kā     . hē       . asti          . ciθa   .
+\std kā     $ hē       $ a̍sti        $ ciθa   $
+\mrph n.sg.f. $ d.sg.m.   $ 3.sg.prs.act. $ n.sg.   $
+\cls ā      $ $         $ I             $ ā      $
+\lm ka_     $ hay_      $ ah_           $ ciθā_ $
+\PoS prn.    $ prn.      $ vb.           $ sf.     $
+\gD wer     $ er,sie,es $ sein          $ Strafe  $
+
+\trans was ist dafür die Strafe?“
+
+\id Videvdad_14_02
+\ref V_14_02.a
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\trans Da sagte Ahura Mazdā: 
+
+\ref V_14_02.b
+\tx baēuuarə  . upāzananąm          . upāzōit̰       . aspahe   . aštraiia       .
+\std baēvar     $ upāzananąm          $ u̍pa_azōit̰    $ a̍spahe $ a̍štraya      $
+\mrph a.sg.       $ g.pl.                 $ 3.sg.opt.prs.act. $ g.sg.    $ i.sg.           $
+\cls r/n         $ a                     $ II,upa-           $ a        $ ā              $
+\lm baēvar_    $ upāzana_             $ upa_az_           $ aspa_    $ aštrā_        $
+\PoS sn.         $ sn.                   $ vb.               $ sm.      $ sf.             $
+\gD Zehntausend $ (körperliche)_Strafe $ hinzubringen      $ Pferd    $ Peitsche,Geisel $
+
+\trans „Zehntausend Schläge mit der Pferdepeitsche soll man ihm zufügen, 
+
+\ref V_14_02.c
+\tx baēuuarə  . sraoṣ̌ō.caranaiia .
+\std baēvar     $ sraošō_caranaya    $
+\mrph a.sg.       $ i.sg.                $
+\cls r/n         $ ā                   $
+\lm baēvar_    $ sraošō_caranā_    $
+\PoS sn.         $ sf.                  $
+\gD Zehntausend $ Zuchtriemen          $
+
+\trans zehntausend mit dem Zuchtriemen.
+
+\ref V_14_02.d
+\tx baēuuarə  . vaziianąm  . aēsmanąm .
+\std baēvar     $ vazya̍nąm $ aēsmanąm $
+\mrph a.sg.       $ g.pl.       $ g.pl.      $
+\cls r/n         $ ya          $ n          $
+\lm baēvar_    $ vazya_      $ aēsma_    $
+\PoS sn.         $ sm.         $ sm.        $
+\gD Zehntausend $ Last        $ Brennholz  $
+
+\ref V_14_02.e
+\tx xraožduuanąm . huṣ̌atąm          . pairīštanąm       .
+\std xraoždvanąm  $ hušatą̍m          $ paⁱrišta̍nąm    $
+\mrph g.pl.m.        $ prc.prt.pass.g.pl.m. $ prc.prt.pass.g.pl.m. $
+\cls va             $ a                    $ $                    $
+\lm xraoždva_     $ huš_                $ pari_aēš¹_        $
+\PoS adj.           $ vb.                  $ vb.                  $
+\gD hart           $ trocknen             $ auflesen             $
+
+\ref V_14_02.f
+\tx āθre . ahurahe   . mazdā̊   .
+\std āθre $ a̍hurahe $ mazdā̊̍ $
+\mrph d.sg.  $ g.sg.     $ g.sg.      $
+\cls r      $ a         $ Wurzel     $
+\lm ātar_ $ ahura_    $ mazdā_    $
+\PoS sm.    $ sm.       $ sm.        $
+\gD Feuer  $ Herr      $ Mazdā     $
+
+\trans Zentausend ~Kilo aufgelesenes trockenes hartes Brennholz für das Feuer von Ahura Mazdā,
+
+\ref V_14_02.g
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\trans so wie es gut und richtig ist,
+
+\ref V_14_02.h
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\trans soll er seiner Seele als Sühne überantworten.
+
+\id Videvdad_14_03
+\ref V_14_03.a
+\tx baēuuarə  . vaziianąm  . aēsmanąm   . varəduuanąm .
+\std baēvar     $ vazya̍nąm $ a̍ēsmanąm $ vardvanąm    $
+\mrph a.sg.       $ g.pl.       $ g.pl.        $ g.pl.         $
+\cls r/n         $ ya          $ n            $ va            $
+\lm baēvar_    $ vazya_      $ aēsma_      $ vardva_       $
+\PoS sn.         $ sm.         $ sm.          $ adj.          $
+\gD Zehntausend $ Last        $ Brennholz    $ weich         $
+
+\trans Zehntausend ~Kilo weiches Brennholz –
+
+\ref V_14_03.b
+\tx uruuāsnaiiā̊ . vā   . vohu.gaonahe . vā   .
+\std urvāsnayā̊   $ vā   $ vohu_gaonahe $ vā   $
+\mrph g.sg.           $ $     $ g.sg.        $ $     $
+\cls ā              $ $     $ a            $ $     $
+\lm urvāsnā_      $ vā   $ vohu_gaona_  $ vā   $
+\PoS sf.             $ part. $ sm.          $ part. $
+\gD Sandelholz      $ oder  $ Benzoe       $ oder  $
+
+\ref V_14_03.c
+\tx vohu.kərətōiš . vā   . haδānaēpataiiā̊ . vā   .
+\std vohu_kərətōiš $ vā   $ haδānaēpatayā̊  $ vā   $
+\mrph g.sg.             $ $     $ g.sg.                $ $     $
+\cls i                 $ $     $ ā                   $ $     $
+\lm vohu_kərəti_    $ vā   $ haδānaēpātā_    $ vā   $
+\PoS sf.               $ part. $ sf.                  $ part. $
+\gD Aloe              $ oder  $ Granatapfelbaum      $ oder  $
+
+\ref V_14_03.d
+\tx kąmcit̰      . vā   . hubaoiδitəmanąm  . uruuaranąm  .
+\std kąm    _cit̰ $ vā   $ hu_baoiδitəmanąm $ urva̍ranąm $
+\mrph g.pl.f. $      $ $     $ g.pl.f.sup.         $ g.pl.        $
+\cls ā      $      $ $     $ a                   $ ā           $
+\lm ka_     cit̰  $ vā   $ hu_baoδi_          $ urvarā_     $
+\PoS prn.    part.  $ part. $ adj.                $ sf.          $
+\gD wer     gi     $ oder  $ wohlriechend        $ Pflanze      $
+
+\trans Sandelholz oder Benzoe oder Aloe oder Granatapfel oder das Holz irgendeiner [anderen] wohlriechenden Pflanze –
+
+\ref V_14_03.e
+\tx āθre . ahurahe   . mazdā̊   .
+\std āθre $ a̍hurahe $ mazdā̊̍ $
+\mrph d.sg.  $ g.sg.     $ g.sg.      $
+\cls r      $ a         $ Wurzel     $
+\lm ātar_ $ ahura_    $ mazdā_    $
+\PoS sm.    $ sm.       $ sm.        $
+\gD Feuer  $ Herr      $ Mazdā     $
+
+\trans für das Feuer von Ahura Mazdā,
+
+\ref V_14_03.f
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\trans so wie es gut und richtig ist,
+
+\ref V_14_03.g
+\tx urune     . ciθīm . nisirinuiiāt̰     .
+\std ᵘrune̍ $ ciθīm $ ni̍_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act.   $
+\cls van       $ i       $ X                   $
+\lm rvan_     $ ciθi_  $ ni_sri_             $
+\PoS sm.       $ sf.     $ vb.                 $
+\gD Seele     $ Sühne  $ überantworten      $
+
+\trans soll er zur Versühnung seiner Seele überantworten.
+
+\id Videvdad_14_04
+\ref V_14_04.a
+\tx baēuuarə  . frastərətanąm     . barəsmaine  . frastairiiāt̰   .
+\std baēvar     $ fra̍_stərətanąm  $ barsmaⁱne  $ fra_staⁱryāt̰ $
+\mrph a.sg.       $ prc.prt.pass.g.pl.m. $ g.sg.?-d.sg. $ 3.sg.opt.aor.act. $
+\cls r/n         $ $                    $ man          $ I                 $
+\lm baēvar_    $ fra_star_            $ barsman_     $ fra_star_         $
+\PoS sn.         $ vb.                  $ sn.          $ vb.               $
+\gD Zehntausend $ ausbreiten           $ Zweigbündel $ ausbreiten        $
+
+\trans ?  S. 1596 „zehntausend spreitbare […] soll er zum Zweigbündel ausbreiten.
+
+\ref V_14_04.b
+\tx baēuuarə  . zaoθranąm           . haomauuaitinąm    . gaomauuaitinąm     .
+\std baēvar     $ zaoθra̍nąm         $ ha̍omavaⁱtinąm $ ga̍omavaⁱtinąm  $
+\mrph a.sg.       $ g.pl.                 $ g.pl.f.            $ g.pl.f.             $
+\cls r/n         $ ā                    $ vant               $ vant                $
+\lm baēvar_    $ zaoθrā_             $ haomavant_         $ gaomavant_          $
+\PoS sn.         $ sf.                   $ adj.               $ adj.                $
+\gD Zehntausend $ Trankopfer,Gießopfer $ Soma-,somahaltig   $ Milch-,_milchhaltig $
+
+\ref V_14_04.c
+\tx yaoždātanąm       . pairi.aŋharštanąm  .
+\std yaož_dātanąm      $ paⁱri_aɧarštanąm $
+\mrph prc.prt.pass.g.pl.f. $ prc.prt.pass.g.pl.f.  $
+\cls $                    $ $                     $
+\lm yaož_dā_           $ pari_harz_            $
+\PoS vb.                  $ vb.                   $
+\gD richtig_bereiten     $ sieben,seihen         $
+
+\ref V_14_04.d
+\tx dahmō.yaoždātanąm                      . dahmō.pairi.aŋharštanąm                 .
+\std dahmō_               yaož_dātanąm      $ dahmō_               paⁱri_aɧarštanąm $
+\mrph Kompositionsstammform prc.prt.pass.g.pl.f. $ Kompositionsstammform prc.prt.pass.g.pl.f.  $
+\cls $                     $                    $ $                     $                     $
+\lm dahma_                yaož_dā_           $ dahma_                pari_harz_            $
+\PoS sm.                   vb.                  $ sm.                   vb.                   $
+\gD Gelehrter             richtig_bereiten     $ Gelehrter             sieben,seihen         $
+
+\ref V_14_04.e
+\tx hąm.irista   . aētaiiā̊ . uruuaraiiā̊ .
+\std hąm_ⁱrista $ aētayā̊  $ urva̍rayā̊ $
+\mrph l.sg.         $ g.sg.f.     $ g.sg.         $
+\cls i             $ ā          $ ā            $
+\lm hąm_risti_   $ aēta_      $ urvarā_      $
+\PoS hąm_risti_   $ prn.        $ sf.           $
+\gD               $ dieser      $ Pflanze       $
+
+\ref V_14_04.f
+\tx yā             . vaoce              . haδānaēpāta   . haδānaēpataiią
+\std yā             $ va̍oce            $ haδānaēpātā  $ haδānaēpātaiiā̊
+\mrph n.sg.f.         $ 3.sg.ind.perf.med. $ n.sg.             $ g.sg.
+\cls ā              $ I                  $ ā                $ ā
+\lm ya_             $ vak_               $ haδānaēpātā_ $ haδānaēpātā_
+\PoS prn.            $ vb.                $ sf.               $ sf.
+\gD Relativpronomen $ sagen,nennen       $ Granatapfelbaum   $ Granatapfelbaum
+
+\ref V_14_04.f_(K 1)
+\tx vāci              haδānaēpataiią
+\std vāci              haδānaēpātaiiā̊
+\mrph 3.sg.inj.aor.pass. g.sg.
+\cls I                  ā
+\lm vak_               haδānaēpātā_
+\PoS vb.                sf.
+\gD sagen,nennen       Granatapfelbaum
+
+\ref V_14_04.g
+\tx aiβiiō    . vaŋuhibiiō   .
+\std aⁱβyō̍ $ va̍ɧᵛibyō $
+\mrph d.pl.       $ d.pl.f.        $
+\cls Wurzel      $ ī             $
+\lm ap_         $ vohu_          $
+\PoS sf.         $ adj.           $
+\gD Wasser      $ gut            $
+
+\ref V_14_04.h
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_04.i
+\tx urune     . ciθīm . nisirinuiiāt̰     .
+\std ᵘrune̍ $ ciθīm $ ni̍_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act.   $
+\cls van       $ i       $ X                   $
+\lm rvan_     $ ciθi_  $ ni_sri_             $
+\PoS sm.       $ sf.     $ vb.                 $
+\gD Seele     $ Sühne  $ überantworten      $
+
+
+\id Videvdad_14_05
+\ref V_14_05.a
+\tx baēuuarə  . ažinąm   . udarō.θrąsanąm      . auua.janiiāt̰   .
+\std baēvar     $ a̍žinąm $ udarō_θrąsanąm      $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.      $ g.pl.m.                 $ 3.sg.opt.prs.act. $
+\cls r/n         $ i          $ a                       $ I                 $
+\lm baēvar_    $ aži_      $ udarō_θrąsa_         $ ava_jan_          $
+\PoS sn.         $ sm.        $ adj.                    $ vb.               $
+\gD Zehntausend $ Schlange   $ auf_dem_Bauch_kriechend $ töten            $
+
+\ref V_14_05.b
+\tx baēuuarə  . ažinąm   . spakanąm . kahrpunanąm . auua.janiiāt̰   .
+\std baēvar     $ a̍žinąm $ spakanąm $ kahrpunanąm $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.      $ g.pl.m.   $ g.pl.        $ 3.sg.opt.prs.act. $
+\cls r/n         $ i          $ a         $ a            $ I                 $
+\lm baēvar_    $ aži_      $ spaka_    $ kahrpuna_    $ ava_jan_          $
+\PoS sn.         $ sm.        $ adj.      $ sm.          $ vb.               $
+\gD Zehntausend $ Schlange   $ Hunde-    $ Karpuna      $ töten            $
+
+\ref V_14_05.c
+\tx baēuuarə  . kasiiapanąm  . auua.janiiāt̰   .
+\std baēvar     $ kasya̍panąm $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.         $ 3.sg.opt.prs.act. $
+\cls r/n         $ a             $ I                 $
+\lm baēvar_    $ kasya̍pa_    $ ava_jan_          $
+\PoS sn.         $ sm.           $ vb.               $
+\gD Zehntausend $ Schildkröte  $ töten            $
+
+\ref V_14_05.d
+\tx baēuuarə  . vazaγanąm . dāδmainiianąm  . auua.janiiāt̰   .
+\std baēvar     $ vazaγanąm $ dāδmaⁱnyanąm $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.       $ g.pl.             $ 3.sg.opt.prs.act. $
+\cls r/n         $ a           $ ya                $ I                 $
+\lm baēvar_    $ vazaγa_    $ dāδmanya_       $ ava_jan_          $
+\PoS sn.         $ sm.         $ adj.              $ vb.               $
+\gD Zehntausend $ Frosch      $ Laub-             $ töten            $
+
+\ref V_14_05.e
+\tx baēuuarə  . vazaγanąm . upāpanąm . auua.janiiāt̰   .
+\std baēvar     $ vazaγanąm $ upāpanąm $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.       $ g.pl.m.    $ 3.sg.opt.prs.act. $
+\cls r/n         $ a           $ a          $ I                 $
+\lm baēvar_    $ vazaγa_    $ upāpa_    $ ava_jan_          $
+\PoS sn.         $ sm.         $ adj.       $ vb.               $
+\gD Zehntausend $ Frosch      $ im_Wasser  $ töten            $
+
+\ref V_14_05.f
+\tx baēuuarə  . maoirinąm   . dānō.karṣ̌anąm        . auua.janiiāt̰   .
+\std baēvar     $ maoⁱrinąm $ dānō_karšanąm          $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.        $ g.pl.m.                    $ 3.sg.opt.prs.act. $
+\cls r/n         $ i            $ a                          $ I                 $
+\lm baēvar_    $ maori_       $ dānō_karša_             $ ava_jan_          $
+\PoS sn.         $ sm.          $ adj.                       $ vb.               $
+\gD Zehntausend $ Ameise       $ Getreidekörner_schleppend $ töten            $
+
+\ref V_14_05.g
+\tx baēuuarə  . maoirinąm   . araēkanąm .
+\std baēvar     $ maoⁱrinąm $ araēkanąm $
+\mrph a.sg.       $ g.pl.        $ g.pl.m.     $
+\cls r/n         $ i            $ a           $
+\lm baēvar_    $ maori_       $ araēka_    $
+\PoS sn.         $ sm.          $ adj.        $
+\gD Zehntausend $ Ameise       $ Ameisenart  $
+
+\tx kutakunąm . dužaininąm    . auua.janiiāt̰   .
+\std kutakanąm $ duž_aⁱninąm $ a̍va_janyāt̰   $
+\mrph g.pl.m.    $ g.pl.m.         $ 3.sg.opt.prs.act. $
+\cls a          $ i               $ I                 $
+\lm kutaka_    $ duž_ani_       $ ava_jan_          $
+\PoS adj.       $ adj.            $ vb.               $
+\gD klein      $ übel_riechend  $ töten            $
+
+\id Videvdad_14_06
+\ref V_14_06.a
+\tx baēuuarə  . pazdunąm         . gūθō.varətanąm    . auua.janiiāt̰   .
+\std baēvar     $ pazdu̍nąm       $ gūθō_vartanąm      $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.             $ g.pl.m.                $ 3.sg.opt.prs.act. $
+\cls r/n         $ u                 $ a                      $ I                 $
+\lm baēvar_    $ pazdu_            $ gūθō_varta_         $ ava_jan_          $
+\PoS sn.         $ sm.               $ adj.                   $ vb.               $
+\gD Zehntausend $ Käfer,Made,o.ä. $ sich_im_Kot_aufhaltend $ töten            $
+
+\ref V_14_06.b
+\tx baēuuarə  . maxṣ̌inąm . ərəγaitinąm   . auua.janiiāt̰   .
+\std baēvar     $ ma̍xšinąm $ ərəγaⁱtinąm $ a̍va_janyāt̰   $
+\mrph a.sg.       $ g.pl.        $ g.pl.f.           $ 3.sg.opt.prs.act. $
+\cls r/n         $ i            $ nt                $ I                 $
+\lm baēvar_    $ maxši_      $ ərəγant_       $ ava_jan_          $
+\PoS sn.         $ sf.          $ adj.              $ vb.               $
+\gD Zehntausend $ Fliege       $ abscheulich       $ töten            $
+
+\ref V_14_06.c
+\tx baēuuarə  . maγanąm  . irimaitinąm       . aiŋ́hā̊ . zəmō   . aipi.kaniiāt̰   .
+\std baēvar     $ maγanąm  $ ⁱrīmaⁱtinąm  $ aɧyā̊̍  $ zəmō̍ $ aⁱpi_kanyāt̰  $
+\mrph a.sg.       $ g.pl.      $ g.pl.f.            $ g.sg.f.     $ g.sg.    $ 3.sg.opt.prs.act. $
+\cls r/n         $ ā         $ nt                 $ $           $ Wurzel   $ I                 $
+\lm baēvar_    $ maγā_    $ rīmant_           $ imat̰      $ zam_     $ api_kan_          $
+\PoS sn.         $ sf.        $ adj.               $ prn.        $ sf.      $ vb.               $
+\gD Zehntausend $ Loch,Grube $ mit_Unrat_gefüllt $ dieser      $ Erde     $ zuschütten       $
+
+\ref V_14_06.d
+\tx biš    . hapta   . āθrō . daxštəm .
+\std biš    $ hapta̍ $ āθrō $ daxštəm $
+\mrph $       $ $       $ g.sg.   $ a.sg.     $
+\cls $       $ $       $ r       $ $         $
+\lm biš    $ hapta̍ $ ātar_  $ daxšta_  $
+\PoS adv.    $ num.c.  $ sm.     $ sn.       $
+\gD zweimal $ sieben  $ Feuer   $ Gerät    $
+
+\ref V_14_06.e
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_06.f
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_06.g
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\id Videvdad_14_07
+\ref V_14_07.a
+\tx ātrə.carana                                                      . pairiš.hanāna                .
+\std ātr_carana                                                        $ paⁱriš_hanāna              $
+\mrph n.pl.                                                              $ n.pl.n.                        $
+\cls a                                                                  $ a                              $
+\lm ātr_carana_                                                       $ pariš_hanāna_                $
+\PoS sn.                                                                $ adj.                           $
+\gD ’Feuergerät,_mit_dem_das_Feuer_‘am_Laufen’_gehalten_wird‘ $ ’Name_eines_Feuergerätes‘ $
+
+\ref V_14_07.b
+\tx yaoždāni                                                                                    . garəmō.skarana                            .
+\std yaož_dāni                                                                                   $ garmō_skarana                              $
+\mrph a.du.                                                                                         $ a.du.                                       $
+\cls i                                                                                             $ a                                           $
+\lm yaož_dāni_                                                                                  $ garmō_skarana_                             $
+\PoS sm.                                                                                           $ sn.                                         $
+\gD ’Feuergerät,_mit_dem_das_Feuer_in_den_gehörigen_Stand,_d.h._hellen_Brand_gebracht_wird‘ $ ’Feuergerät_zum_Anschlagen_des_Feuers‘ $
+
+\ref V_14_07.c
+\tx ātrə.vazanəm . hikaranəm    .
+\std ātr_vazanəm   $ hikaranəm    $
+\mrph a.sg.           $ a.sg.m.       $
+\cls a               $ a             $
+\lm ātr_vazana_    $ hikarana_     $
+\PoS sm.             $ adj.          $
+\gD Feuerwedel      $ rund,bauschig $
+
+\ref V_14_07.d
+\tx vīkusrəm                 . aδarāt̰ . naēmāt̰   .
+\std vi_kusrəm                 $ aδarāt̰ $ na̍ēmāt̰ $
+\mrph a.sg.                      $ abl.sg.m.  $ abl.sg.      $
+\cls a                          $ a          $ a            $
+\lm vi_kusra_                  $ aδara_    $ naēma_      $
+\PoS adj.                       $ adj.       $ sm.          $
+\gD sich_außeinander_wölbend $ untere     $ Hälfte      $
+
+\ref V_14_07.e
+\tx haṇkusrəm           . uparāt̰   . naēmāt̰   .
+\std haṇ_kusrəm          $ u̍parāt̰ $ na̍ēmāt̰ $
+\mrph a.sg.m.                $ abl.sg.m.   $ abl.sg.      $
+\cls a                      $ a           $ a            $
+\lm haṇ_kusra_           $ upara_      $ naēma_      $
+\PoS adj.                   $ adj.        $ sm.          $
+\gD sich_zusammen_wölbend $ obere       $ Hälfte      $
+
+\ref V_14_07.f
+\tx taṣ̌əm . tiži.dārəm         . tiži.žnūtəm .
+\std tašəm   $ tiži_dārəm         $ tiži_žnūtəm $
+\mrph a.sg.     $ a.sg.m.               $ a.sg.m.         $
+\cls a         $ a                     $ a               $
+\lm taša_    $ tiši_dāra_          $ tiži_žnūta_  $
+\PoS sm.       $ adj.                  $ adj.            $
+\gD Axt       $ mit_scharfer_Schneide $ scharfkantig    $
+
+\ref V_14_07.g
+\tx vadəm   . ⁺tiži.dārəm      . tiži.žnūtəm .
+\std vadə̍m $ tiži_dārəm         $ tiži_žnūtəm $
+\mrph a.sg.    $ a.sg.m.               $ a.sg.m.         $
+\cls a        $ a                     $ a               $
+\lm vada_    $ tiži_dāra_          $ tiži_žnūta_  $
+\PoS sm.      $ adj.                  $ adj.            $
+\gD Keil     $ mit_scharfer_Schneide $ scharfkantig    $
+
+\ref V_14_07.h
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_07.i
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph i.sg.f.    $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_07.j
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_07.k
+\tx yaēibiiō                           . aēte   . mazdaiiasna            .
+\std yaēⁱbyō                          $ aēte   $ mazdayasna             $
+\mrph i.pl.m.                              $ n.pl.m. $ n.pl.m.-n.             $
+\cls a                                    $ a       $ a                      $
+\lm ya_                                  $ aēta_  $ mazda_yasna_           $
+\PoS prn.                                 $ prn.    $ adj.                   $
+\gD ’Relativ- und Indefinitpronomen‘ $ dieser  $ der_den_Mazdā_verehrt $
+
+\ref V_14_07.l
+\tx āθre . ahurahe   . mazdā̊   . aēsmą   . pairiṣ̌əṇte     .
+\std āθre $ a̍hurahe $ mazdā̊̍ $ aēsmą   $ pa̍ⁱri_išəṇte $
+\mrph d.sg.  $ g.sg.     $ g.sg.      $ a.pl.     $ 3.pl.ind.prs.med.    $
+\cls r      $ a         $ Wurzel     $ a         $ III                  $
+\lm ātar_ $ ahura_    $ mazdā_    $ aēsma_   $ pari_aēš²_        $
+\PoS sm.    $ sm.       $ sm.        $ sm.       $ vb.                  $
+\gD Feuer  $ Herr      $ Mazdā     $ Brennholz $ anzünden            $
+
+
+\id Videvdad_14_08
+\ref V_14_08.a
+\tx vīspe        . zaiia                         . aθaurune     .
+\std vī̍spe      $ zaya                          $ a̍θaᵘrune $
+\mrph a.pl.-n.pl.m. $ a.pl.-n.                      $ d.sg.         $
+\cls a             $ a                             $ a             $
+\lm vīspa_       $ zaya_                         $ aθarvan_     $
+\PoS prn.          $ sm.                           $ sm.           $
+\gD all           $ Gerät,Ausrüstungsgegenstand $ Feuerpriester $
+
+\ref V_14_08.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_08.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph i.sg.f.    $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_08.d
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_08.e
+\tx yaēṣ̌ąm     . zaiianąm . aθaurune     .
+\std ya̍ēšąm     $ zayanąm  $ a̍θaᵘrune $
+\mrph g.pl.m.         $ g.pl.     $ d.sg.         $
+\cls a               $ a         $ a             $
+\lm ya_             $ zaya_     $ aθarvan_     $
+\PoS prn.            $ sm.       $ sm.           $
+\gD Relativpronomen $ Gerät    $ Feuerpriester $
+
+\ref V_14_08.f
+\tx aštra          . gaoiδi        . paiti.dānō   .
+\std a̍štra        $ gaoⁱδi      $ paⁱti_dānō $
+\mrph n.sg.           $ n.du.          $ n.sg.          $
+\cls ā              $ i              $ a              $
+\lm aštrā_        $ gaoδi_        $ pati_dāna_    $
+\PoS sf.             $ sm.            $ sm.            $
+\gD Peitsche,Geisel $ Milchbehälter $ Schutztuch     $
+
+\ref V_14_08.g
+\tx xrafstraγnəm                                         . sraoṣ̌ō.caranaiia .
+\std xrafstra_γnə̍m                                      $ sraošō_caranaya    $
+\mrph n.sg.-a.sg.                                            $ i.sg.                $
+\cls Wurzel                                                 $ ā                   $
+\lm xrafstra_gan_                                          $ sraošō_caranā_    $
+\PoS adj.                                                   $ sf.                  $
+\gD ’Werkzeug_zum_Töten_kleinerer_schädlicher_Tiere‘ $ Zuchtriemen          $
+
+\ref V_14_08.h
+\tx uruniia    . raēθβiš.bajina  .
+\std ᵘrunya̍ $ raēθβiš_bajina  $
+\mrph n.pl.-n.   $ n.pl.               $
+\cls a          $ a                   $
+\lm runya_     $ raēθβiš_bajina_ $
+\PoS sm.        $ sn.                 $
+\gD Gefäß    $ Mischgefäß        $
+
+\ref V_14_08.h_(L 1)
+\tx raēθβiš.bajana
+\std raēθβiš_bajina
+\mrph n.pl.
+\cls a
+\lm raēθβiš_bajina_
+\PoS sn.
+\gD Mischgefäß
+
+\ref V_14_08.i
+\tx hauuana             . dāitiiō.kərəta      .
+\std ha̍vana            $ dāⁱtyō_kərəta     $
+\mrph n.du.               $ n.du.m.                 $
+\cls a                   $ a                       $
+\lm havana_             $ dātyō_kərəta_       $
+\PoS sm.                 $ adj.                    $
+\gD Auspresser,Kelterer $ nach_Vorschrift_gemacht $
+
+\ref V_14_08.j
+\tx tašta       . haomiia  .
+\std tašta̍     $ haomya̍ $
+\mrph n.pl.        $ n.pl.n.  $
+\cls a            $ ya       $
+\lm tašta_      $ haomya_  $
+\PoS sn.          $ adj.     $
+\gD Tasse,Schale $ Soma-    $
+
+\ref V_14_08.j_(Alle_Hss._außer_L 4, K 1)
+\tx hāuuana
+\std hā̍vana
+\mrph n.du.
+\cls a
+\lm hāvana_
+\PoS sm.
+\gD Kelterpresse
+
+\ref V_14_08.k
+\tx barəsmaca         .
+\std barsma       _ca   $
+\mrph n.sg.        $     $
+\cls man          $     $
+\lm barsman_     _ca   $
+\PoS sn.          part. $
+\gD Zweigbündel und   $
+
+\id Videvdad_14_09
+\ref V_14_09.a
+\tx vīspe        . zaiia                         . ⁺raθōište .
+\std vī̍spe      $ zaya                          $ raθaē_šte   $
+\mrph a.pl.-n.pl.m. $ a.pl.-n.                      $ d.sg.          $
+\cls a             $ a                             $ Wurzel         $
+\lm vīspa_       $ zaya_                         $ raθaē_štā_ $
+\PoS prn.          $ sm.                           $ sm.            $
+\gD all           $ Gerät,Ausrüstungsgegenstand $ Krieger        $
+
+\ref V_14_09.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_09.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph i.sg.f.    $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_09.d
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_09.e
+\tx yaēṣ̌ąm     . zaiianąm . ˣraθōište  .
+\std ya̍ēšąm     $ zayanąm  $ raθaē_šte   $
+\mrph g.pl.m.         $ g.pl.     $ d.sg.          $
+\cls a               $ a         $ Wurzel         $
+\lm ya_             $ zaya_     $ raθaē_štā_ $
+\PoS prn.            $ sm.       $ sm.            $
+\gD Relativpronomen $ Gerät    $ Krieger        $
+
+\ref V_14_09.f
+\tx paoiriiō    . arštiš    .
+\std paoⁱryō̍ $ aršti̍š  $
+\mrph n.sg.m.      $ n.sg.       $
+\cls ya           $ i           $
+\lm paorya_      $ aršti_     $
+\PoS num.o.       $ sm._(sf.)   $
+\gD erster       $ Speer,Lanze $
+
+\ref V_14_09.g
+\tx bitiiō   . karətō .
+\std biti̍yō $ kartō̍ $
+\mrph n.sg.m.   $ n.sg.    $
+\cls ya        $ a        $
+\lm bitiya_   $ kart_    $
+\PoS num.o.    $ sm.      $
+\gD zweiter   $ Messer   $
+
+\ref V_14_09.h
+\tx θritiiō   . vazrō   .
+\std θriti̍yō $ va̍zrō $
+\mrph n.sg.m.     $ n.sg.    $
+\cls ya          $ a        $
+\lm θritiya_   $ vazra_   $
+\PoS num.o.      $ sm.      $
+\gD dritter     $ Keule    $
+
+\ref V_14_09.i
+\tx tūiriia        . θanuuarə .
+\std tuⁱri̍ya     $ θanvar    $
+\mrph n.sg.n.-n.pl.n. $ n.sg.      $
+\cls ya              $ r/n        $
+\lm turiya_         $ θanvar_   $
+\PoS num.o.          $ sn.        $
+\gD vierter         $ Bogen      $
+
+\ref V_14_09.j
+\tx ⁺puxδəm . ˣzaēnuš   .
+\std puxδə̍m  $ zaēnuš     $
+\mrph n.sg.n.     $ n.sg.        $
+\cls a           $ u            $
+\lm puxδa_     $ zaēnuš_    $
+\PoS num.o.      $ sn.          $
+\gD fünftens   $ Wehrgehänge $
+
+\ref V_14_09.k
+\tx mat̰ . akana       .
+\std mat̰ $ akana       $
+\mrph $     $ i.pl.-a.pl. $
+\cls $     $ a           $
+\lm mat̰ $ akana_      $
+\PoS prp.  $ sn.         $
+\gD mit   $ Köcher     $
+
+\ref V_14_09.l
+\tx mat̰ . θrisąs   . aiiō.aγrāiš     .
+\std mat̰ $ θrisą̍s $ a̍yō_aγrāiš    $
+\mrph $     $ i.-n.pl.   $ i.pl.-d.pl.n.       $
+\cls $     $ nt         $ a                   $
+\lm mat̰ $ θrisant_  $ ayō_aγra_         $
+\PoS prp.  $ num.c.     $ adj.                $
+\gD mit   $ dreißig   $ mit_eiserner_Spitze $
+
+\trans
+\ref V_14_09.l_(K 1a)
+\tx [akana]δa
+\std _δa
+\mrph $
+\cls $
+\lm _δa
+\PoS part.
+\gD hinzu
+
+\ref V_14_09.m
+\tx xštuuī . fradaxṣ̌ana  . snāuuarə.bāzura .
+\std xštvī  $ fra_daxšana   $ snāvar_bāzura    $
+\mrph n.sg.f.  $ n.sg.          $ n.sg.f.            $
+\cls ī       $ ā             $ ā                 $
+\lm xštva_  $ fra_daxšanā_ $ snāvar_bāzura_   $
+\PoS num.o.   $ sf.            $ adj.               $
+\gD sechster $ Schleuder      $ mit_Sehnenarmen    $
+
+\ref V_14_09.n
+\tx mat̰ . θrisąs    . fradaxṣ̌aniiāiš .
+\std mat̰ $ θrisą̍s  $ fra_daxšanyāiš   $
+\mrph $     $ i.pl.-a.pl. $ i.pl.-d.pl.m.       $
+\cls $     $ nt          $ ya                  $
+\lm mat̰ $ θrisant_   $ fra_daxšanya_      $
+\PoS prp.  $ num.c.      $ adj.                $
+\gD mit   $ dreißig    $ Schleuderstein      $
+
+\ref V_14_09.o
+\tx haptaθō   . zrāδō .
+\std hapta̍θō $ zrāδō $
+\mrph n.sg.m.     $ n.sg.    $
+\cls a           $ a        $
+\lm haptaθa_   $ zrāδa_ $
+\PoS num.o.      $ sm.      $
+\gD siebter     $ Panzer   $
+
+\ref V_14_09.p
+\tx aštəmō   . kūiris   .
+\std aštəmō̍ $ kuⁱris  $
+\mrph n.sg.m.     $ n.sg.     $
+\cls a           $ t         $
+\lm aštəma_   $ kurit_    $
+\PoS num.o.      $ sm.       $
+\gD achter      $ Halsbinde $
+
+\ref V_14_09.q
+\tx nāumō    . paiti.dānō   .
+\std navəmō̍ $ paⁱti_dānō $
+\mrph n.sg.m.    $ n.sg.          $
+\cls a          $ a              $
+\lm navəma_   $ pati_dāna_    $
+\PoS num.o.     $ sm.            $
+\gD neutner    $ Schutztuch     $
+
+\ref V_14_09.r
+\tx dasəmō   . sārauuārō .
+\std dasəmō̍ $ sāra_vārō $
+\mrph n.sg.m.    $ n.sg.        $
+\cls a          $ a            $
+\lm dasəma_   $ sāra_vāra_ $
+\PoS num.o.     $ sm.          $
+\gD zehnter    $ Helm         $
+
+\ref V_14_09.s
+\tx aēuuaṇdasō  . kamara   .
+\std aēvaṇdasō̍ $ kamara   $
+\mrph n.sg.f.-n.sg.m. $ n.sg.    $
+\cls a               $ ā       $
+\lm aēvaṇdasa_   $ kamarā_ $
+\PoS num.o.          $ sf.      $
+\gD elfter          $ Gürtel  $
+
+\ref V_14_09.t
+\tx duuadasō  . ⁺rānapānō .
+\std dvadasō̍ $ rāna_pānō   $
+\mrph n.sg.m.    $ n.pl.          $
+\cls a          $ Wurzel         $
+\lm dvadasa_   $ rāna_pā_     $
+\PoS num.o.     $ sm.            $
+\gD zwölfter  $ Beinschützer  $
+
+
+\id Videvdad_14_10
+\ref V_14_10.a
+\tx vīspe        . zaiia                         . vāstriiō         . fṣ̌uiiąs               .
+\std vī̍spe      $ zaya                          $ vāstryō          $ fšuyąs                  $
+\mrph a.pl.-n.pl.m. $ a.pl.-n.                      $ d.sg.-n.sg.m.      $ d.sg.-prc.prs.act.n.sg.m. $
+\cls a             $ a                             $ ya                 $ XXVII                     $
+\lm vīspa_       $ zaya_                         $ vāstrya_          $ fšu_                     $
+\PoS prn.          $ sm.                           $ adj.               $ vb.                       $
+\gD all           $ Gerät,Ausrüstungsgegenstand $ landwirtschaftlich $ Vieh_halten               $
+
+\ref V_14_10.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_10.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph i.sg.f.    $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_10.d
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_10.e
+\tx yaēṣ̌ąm     . zaiianąm . vāstriiehe        . fṣ̌uiiaṇtō     .
+\std ya̍ēšąm     $ zayanąm  $ vāstryehe         $ fšuyaṇtō        $
+\mrph g.pl.m.         $ g.pl.     $ g.sg.m.            $ prc.prs.act.g.sg.m. $
+\cls a               $ a         $ ya                 $ XXVII               $
+\lm ya_             $ zaya_     $ vāstrya_          $ fšu_               $
+\PoS prn.            $ sm.       $ adj.               $ vb.                 $
+\gD Relativpronomen $ Gerät    $ landwirtschaftlich $ Vieh_halten         $
+
+\ref V_14_10.f
+\tx aēṣ̌a . ˣyuγō.səmiia .
+\std aēša̍ $ yuγō_səmya̍  $
+\mrph n.du.    $ n.du.            $
+\cls a        $ i̯a             $
+\lm aēša_  $ yugō_səmya_    $
+\PoS sm.      $ sn.              $
+\gD Pflug    $ Jochzapfen       $
+\trans 
+
+\ref V_14_10.g
+\tx ˣyaožāna                                        . paiti.darəzāna    .
+\std yaožāna                                          $ paⁱti_darzāna    $
+\mrph n.du.                                              $ prc.prs.med.n.du.n. $
+\cls a                                                  $ athem               $
+\lm yaožāna_                                         $ pati_darz_          $
+\PoS sn.                                                $ vb.                 $
+\gD ‘Lederriemen,_der_das_Joch_am_Pflug_befestigt’ $ befestigen          $
+
+\ref V_14_10.h
+\tx gauuāzišta                             . gauuāzō                                .
+\std gav_āzišta                             $ gav_āzō                                $
+\mrph n.du.n.sup.                              $ n.sg.                                    $
+\cls Caland                                   $ a                                        $
+\lm gav_āza_                                $ gav_āza_                                $
+\PoS adj._(sm.)                               $ adj._(sm.)                               $
+\gD zum_Ochsen_treiben,Peitsche,Ochsenziemer $ zum_Ochsen_treiben,Peitsche,Ochsenziemer $
+
+\ref V_14_10.i
+\tx asmana   . hāuuana     .
+\std asmana   $ hā̍vana    $
+\mrph n.du.m.  $ n.du.        $
+\cls a        $ a            $
+\lm asmana_  $ hāvana_     $
+\PoS adj.     $ sm.          $
+\gD steinern $ Kelterpresse $
+
+\ref V_14_10.j
+\tx yāuuarənəm . zgərəsnō.vaγδanəm .
+\std yāvarnəm    $ zgərəsnō_vaγδanəm $
+\mrph n.sg.         $ n.sg.n.                 $
+\cls a             $ a                       $
+\lm yāvarna_     $ zgərəsnō_vaγδana_  $
+\PoS sn.           $ adj.                    $
+\gD Stößel      $ rundköpfig             $
+
+
+\id Videvdad_14_11
+\ref V_14_11.a
+\tx kąstrəm . paitiš.hərəzəm             . vərəzaiiaṇtəm                .
+\std kąstrəm $ paⁱtiš_hərəzəm           $ vərəzayaṇtəm                 $
+\mrph n.sg.     $ inf.                           $ d.sg.-prc.prs.act.a.sg.m. (iter.) $
+\cls a         $ $                              $ XXX                               $
+\lm kąstra_  $ patiš_harz_                   $ varz_                             $
+\PoS sn.       $ vb.                            $ vb.                               $
+\gD Spaten    $ durch_(Metall-)Guss_herstellen $ wirken,handeln                    $
+
+\trans einen Spaten soll er gießen für den Werktätigen (d.i. Bauern)
+
+\ref V_14_11.b
+\tx hakərət̰   . ərəzatəm    .
+\std hakə̍rət̰ $ ərəzatə̍m  $
+\mrph $             $ n.sg.(n.)      $
+\cls $             $ a              $
+\lm hakərət̰   $ ərəzata_     $
+\PoS adv.          $ adj._(sn.)     $
+\gD einmal        $ silbern,Silber $
+
+\ref V_14_11.c
+\tx hakərət̰   . zaranim     :
+\std hakə̍rət̰ $ za̍ranim   $
+\mrph $             $ n.sg.       $
+\cls $             $ ya          $
+\lm hakərət̰   $ zaranya_    $
+\PoS adv.          $ adj._(sn.)  $
+\gD einmal        $ golden,Gold $
+
+\ref V_14_11.d
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ ī               $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Wesen         $ irdisch          $ wahrhaftig  $
+\trans
+\ref V_14_11.e
+\tx cuuat̰   .
+\std cu̍vat̰ $
+\mrph adv.      $
+\cls vant      $
+\lm cuvant_   $
+\PoS prn.      $
+\gD wie_viel  $
+
+\ref V_14_11.f
+\tx yauuat̰                 . ərəzatəm   :
+\std ya̍vat̰                $ ərəzatə̍m $
+\mrph adv.                     $ n.sg.         $
+\cls vant                     $ a             $
+\lm yavant_                  $ ərəzata_    $
+\PoS prn.                     $ sn.           $
+\gD so_groß_wie,so_viel_wie $ Silber        $
+
+\ref V_14_11.g
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\ref V_14_11.h
+\tx yaθa   . aspahe   . arṣ̌nō . pərəska   :
+\std ya̍θa $ a̍spahe $ a̍ršnō $ pərəska   $
+\mrph $       $ g.sg.    $ g.sg.     $ n.sg.       $
+\cls $       $ a        $ n         $ ā          $
+\lm yaθa   $ aspa_    $ aršan_   $ pərəskā_ $
+\PoS cnj.    $ sm.      $ sm.       $ sf.         $
+\gD wie     $ Pferd    $ Mann      $ Preis       $
+
+\ref V_14_11.i
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ vant             $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Lebewesen     $ irdisch          $ wahrhaftig  $
+\trans
+\ref V_14_11.j
+\tx cuuat̰   .
+\std cu̍vat̰ $
+\mrph adv.      $
+\cls vant      $
+\lm cuvant_   $
+\PoS prn.      $
+\gD wie_viel  $
+
+\ref V_14_11.k
+\tx yauuat̰  . zaranim   :
+\std ya̍vat̰ $ za̍ranim $
+\mrph adv.      $ n.sg.     $
+\cls vant      $ ya        $
+\lm yavant_   $ zaranya_  $
+\PoS prn.      $ sn.       $
+\gD wie_viel  $ Gold      $
+
+\ref V_14_11.l
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\ref V_14_11.m
+\tx yaθa   . uštrahe   . arṣ̌nō . pərəska   .
+\std ya̍θa $ u̍štrahe $ a̍ršnō $ pərəska   $
+\mrph $       $ g.sg.      $ g.sg.     $ n.sg.       $
+\cls $       $ a          $ n         $ ā          $
+\lm yaθa   $ uštra_    $ aršan_   $ pərəskā_ $
+\PoS cnj.    $ sm.a       $ sm.       $ sf.         $
+\gD wie     $ Kamel      $ Mann      $ Preis       $
+
+\id Videvdad_14_12
+\ref V_14_12.a
+\tx vaiδīm   . taci.apąm         .
+\std vaⁱδīm $ taci_apąm         $
+\mrph a.sg.      $ g.pl.              $
+\cls i          $ Wurzel             $
+\lm vaδī_    $ taci_āp_          $
+\PoS sf.        $ sf.                $
+\gD Flusslauf  $ fließendes_Wasser $
+
+\ref V_14_12.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_12.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph i.sg.f.    $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_12.d
+\tx urune     . ciθīm . nisirinuiiāt̰   :
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_12.e
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ ī               $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Lebewesen     $ irdisch          $ wahrhaftig  $
+\trans
+\ref V_14_12.f
+\tx cuuat̰              .
+\std cu̍vat̰            $
+\mrph adv.                 $
+\cls vant                 $
+\lm cuvant_              $
+\PoS prn.                 $
+\gD wie_groß?,wie_viel? $
+
+\ref V_14_12.g
+\tx yauuat̰                 . vaiδīm   :
+\std ya̍vat̰                $ vaⁱδīm $
+\mrph adv.                     $ a.sg.      $
+\cls vant                     $ ī         $
+\lm yavant_                  $ vaδi_     $
+\PoS prn.                     $ sf.        $
+\gD so_groß_wie,so_viel_wie $ Flusslauf  $
+
+\ref V_14_12.h
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\ref V_14_12.i
+\tx spā.barəzəm  .
+\std spā_bərəzəm $
+\mrph a.sg.f.         $
+\cls C               $
+\lm spā_bərəz_   $
+\PoS spā_bərəz_   $
+\gD hundegroß      $
+
+\ref V_14_12.j
+\tx spā.fraθəm .
+\std spā_fraθəm $
+\mrph a.sg.f.       $
+\cls C             $
+\lm spā_fraθ_   $
+\PoS adj.          $
+\gD hundebreit    $
+
+\id Videvdad_14_13
+\ref V_14_13.a
+\tx ząm   . karṣ̌iiąm . ⁺raoδiiąm    .
+\std ząm   $ karšyąm    $ raoδyąm        $
+\mrph a.sg.  $ a.sg.f.      $ a.sg.f.          $
+\cls Wurzel $ yā          $ yā              $
+\lm zam_   $ karšya_     $ raoδya_         $
+\PoS sf.    $ adj.         $ adj.             $
+\gD Erde   $ zu_pflügend $ urbar_zu_machend $
+
+\ref V_14_13.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_13.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_13.d
+\tx urune     . ciθīm . nisirinuiiāt̰   :
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_13.e
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ ī               $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Lebewesen     $ irdisch          $ wahrhaftig  $
+\trans
+\ref V_14_13.f
+\tx cuuat̰              .
+\std cu̍vat̰            $
+\mrph adv.                 $
+\cls vant                 $
+\lm cuvant_              $
+\PoS prn.                 $
+\gD wie_groß?,wie_viel? $
+
+\ref V_14_13.g
+\tx yauuat̰                 . zā̊  :
+\std ya̍vat̰                $ zā̊  $
+\mrph adv.                     $ n.sg.  $
+\cls vant                     $ Wurzel $
+\lm yavant_                  $ zam_   $
+\PoS prn.                     $ sf.    $
+\gD so_groß_wie,so_viel_wie $ Erde   $
+
+\ref V_14_13.h
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\ref V_14_13.i
+\tx yauuat̰  . aēṣ̌a            . āfš  .
+\std ya̍vat̰ $ aēša̍            $ āfš  $
+\mrph adv.      $ n.sg.f.             $ n.sg.  $
+\cls vant      $ ā                  $ Wurzel $
+\lm yavant_   $ aēta_              $ ap_    $
+\PoS prn.      $ prn.                $ sf.    $
+\gD wie_viel  $ dieser,diese,dieses $ Wasser $
+
+\trans 
+
+\ref V_14_13.j
+\tx biiārixti                       . upa.θβaršti        . frabauuāt̰      .
+\std bi_                   ā_rixti   $ upa_θβaršti        $ fra̍_bavāt̰    $
+\mrph Kompositionsstammform inf.       $ i.sg.                 $ 3.sg.cnj.prs.act. $
+\cls $                     $          $ i                     $ II                $
+\lm dva_                  ā_rik_    $ upa_θβaršti_       $ fra_bū_          $
+\PoS num.c.                vb.        $ sf.                   $ vb.               $
+\gD zwei                  bewässern $ Anscheiden_des_Dammes $ geschehen         $
+
+
+\id Videvdad_14_14
+\ref V_14_14.a
+\tx nmānəm . ˣgāuuiianəm . nauua.hāθrəm   . nauua.nəmatəm        .
+\std nmānəm $ gāvyanəm     $ nava_hāθrəm    $ nava_nəmatəm         $
+\mrph a.sg.    $ a.sg.n.        $ a.sg.n.           $ a.sg.n.                $
+\cls a        $ a              $ a                 $ a                      $
+\lm nmāna_  $ gāvyana_      $ nava_hāθra_     $ nava_nəmata_          $
+\PoS sn.      $ adj.           $ adj.              $ adj.                   $
+\gD Haus     $ Kuh-           $ mit_neun_Pferchen $ mit_neun_Reisigwänden $
+
+\ref V_14_14.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_14.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_14.d
+\tx urune     . ciθīm . nisirinuiiāt̰   :
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_14.e
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ ī               $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Lebewesen     $ irdisch          $ wahrhaftig  $
+\trans
+\ref V_14_14.f
+\tx cuuat̰              .
+\std cu̍vat̰            $
+\mrph adv.                 $
+\cls vant                 $
+\lm cuvant_              $
+\PoS prn.                 $
+\gD wie_groß?,wie_viel? $
+
+\ref V_14_14.g
+\tx yauuat̰                 . nmānəm :
+\std ya̍vat̰                $ nmānəm $
+\mrph adv.                     $ n./a.sg. $
+\cls vant                     $ a        $
+\lm yavant_                  $ nmāna_  $
+\PoS prn.                     $ sn.      $
+\gD so_groß_wie,so_viel_wie $ Haus     $
+
+\ref V_14_14.h
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\ref V_14_14.i
+\tx duuadasa  . vītāra  . upəma   .
+\std dva̍dasa $ vītāra  $ upəma̍ $
+\mrph $         $ n.pl.-n.  $ adv.     $
+\cls $         $ a         $ $        $
+\lm dvadasa   $ vītāra_ $ upəma_  $
+\PoS num.c.    $ sm.       $ adj.     $
+\gD zwölf    $ Gang      $ höchst  $
+
+\ref V_14_14.j
+\tx nauua  . vītāra  . maδəma  .
+\std na̍va $ vītāra  $ maδəma  $
+\mrph $      $ n.pl.-n.  $ adv.      $
+\cls $      $ a         $ $         $
+\lm nava   $ vītāra_ $ maδəma_ $
+\PoS num.c. $ sm.       $ adj.      $
+\gD neun   $ Gang      $ mittel    $
+
+\ref V_14_14.k
+\tx xṣ̌uuaš . vītāra  . nitəma  .
+\std xšvaš    $ vītāra  $ nitəma  $
+\mrph $          $ n.pl.-n.  $ adv.     $
+\cls $          $ a         $ $        $
+\lm xšvaš    $ vītāra_ $ nitəma_ $
+\PoS num.       $ sm.       $ adj.     $
+\gD sechs      $ Gang      $ unterst  $
+
+\ref V_14_14.l
+\tx gātu   . ˣxᵛaini.starətəm      . mat̰ . barəziša  .
+\std gātu̍ $ xᵛaⁱńi_startəm       $ mat̰ $ barzi̍ša  $
+\mrph a.sg.   $ a.sg.n.                    $ $     $ i.pl.-a.pl. $
+\cls u       $ a                          $ $     $ C           $
+\lm gātu_  $ xᵛani_starta_            $ mat̰ $ barziš_    $
+\PoS sn.     $ adj.                       $ prp.  $ sn.         $
+\gD Ort     $ mit_schöner_(Divan-)Decke $ mit   $ Polster     $
+
+\ref V_14_14.m
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+\trans
+\ref V_14_14.n
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_14.o
+\tx urune     . ciθīm . nisirinuiiāt̰   .
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\id Videvdad_14_15
+\ref V_14_15.a
+\tx kaniiąm  . askəṇdąm  . anupaiiatąm                 .
+\std kanyą̍m $ a_skəṇdąm $ an_   upa_yatąm             $
+\mrph a.sg.     $ a.sg.f.       $ $     prc.prt.pass.a.sg.f.   $
+\cls yā       $ ā            $ $     ā                     $
+\lm kanyā_   $ a_skəṇda_  $ a_    upa_yam_               $
+\PoS sf.       $ adj.          $ part. vb.                    $
+\gD Mädchen  $ ohne_Fehl     $ un-   berühren,entjungfern? $
+
+\trans
+\ref V_14_15.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_15.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_15.d
+\tx urune     . ciθīm . nisirinuiiāt̰     :
+\std ᵘrune̍ $ ciθīm $ ni̍_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act.   $
+\cls van       $ i       $ X                   $
+\lm rvan_     $ ciθi_  $ ni_sri_             $
+\PoS sm.       $ sf.     $ vb.                 $
+\gD Seele     $ Sühne  $ überantworten      $
+
+\ref V_14_15.e
+\tx dātarə . gaēθanąm   . astuuaitinąm    . aṣ̌āum   .
+\std dā̍tar $ ga̍ēθanąm $ astva̍ⁱtinąm $ a̍ṣ̌āum $
+\mrph v.sg.    $ g.pl.         $ g.pl.f.          $ v.sg.m.     $
+\cls tar      $ ā            $ ī               $ van         $
+\lm dātar_  $ gaēθā_     $ astvaṇt_       $ aṣ̌āvan_ $
+\PoS sm.      $ sf.           $ adj.             $ adj.        $
+\gD Geber    $ Lebewesen     $ irdisch          $ wahrhaftig  $
+\trans
+\ref V_14_15.f
+\tx kā         . yā                                  . kaine      :
+\std kā         $ yā                                  $ kaⁱnya̍ $
+\mrph n.sg.f.     $ n.sg.f.                              $ n.sg.      $
+\cls ā          $ yā                                  $ yā        $
+\lm ka_         $ ya_                                  $ kanyā_    $
+\PoS prn.        $ prn.                                 $ sf.        $
+\gD wer,welcher $ ’Relativ-_und_Indefinitpronomen‘ $ Mädchen   $
+
+\ref V_14_15.g
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Herr     $ Mazdā     $
+
+\ref V_14_15.h
+\tx xᵛaŋha  . vā   . duγδa   . vā   . nāmə̄ni   .
+\std xᵛa̍ɧa $ vā   $ duγδa̍ $ vā   $ nā̍mə̄ni $
+\mrph n.sg.      $ $     $ n.sg.     $ $     $ a.pl.        $
+\cls r          $ $     $ r         $ $     $ n            $
+\lm xᵛaɧar_ $ vā   $ duγδar_ $ vā   $ nāman_      $
+\PoS sf.        $ part. $ sf.       $ part. $ sn.          $
+\gD Schwester  $ oder  $ Tochter   $ oder  $ Name         $
+
+\ref V_14_15.i
+\tx mat̰ . gaoṣ̌āuuarə .
+\std mat̰ $ gaoš_ā_vare   $
+\mrph $     $ d.sg.f.?        $
+\cls $     $ ā              $
+\lm mat̰ $ gaošāvara_    $
+\PoS prp.  $ sm.             $
+\gD mit   $ Ohrschmuck      $
+
+\ref V_14_15.j
+\tx pasca       . paṇca.dasīm   . sarəδəm   .
+\std pasca̍     $ paṇca_dasī̍m $ sarə̍δəm $
+\mrph $           $ a.sg.f.          $ a.sg.        $
+\cls $           $ ī               $ C            $
+\lm pasca       $ paṇca_dasa_    $ sarəd_      $
+\PoS adv.,prp.   $ num.o.           $ sf.          $
+\gD hinten,nach $ der_fünfzehnte  $ Jahr         $
+
+\ref V_14_15.k
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_15.l
+\tx ⁺nāiriθβanāi . upa.vāδaiiaēta         .
+\std nāⁱri_θβana   $ upa_vāδa̍yaēta        $
+\mrph n.sg.f.            $ 3.sg.opt.prs.med. (caus.) $
+\cls ā                 $ XXX                       $
+\lm nāri_θβana_     $ upa_vad_                  $
+\PoS adj.               $ vb.                       $
+\gD Frauenstand-       $ zur_Heirat_geben          $
+
+
+\id Videvdad_14_16
+\ref V_14_16.a
+\tx biš    . hapta   . pasuuō  . anumaiia  .
+\std biš    $ hapta̍ $ pasvō̍ $ anumaya   $
+\mrph $       $ $       $ a.pl.    $ a.pl.n.   $
+\cls $       $ $       $ u        $ a         $
+\lm biš    $ hapta̍ $ pasu_    $ anu_maya_ $
+\PoS adv.    $ num.c.  $ sn.      $ adj.      $
+\gD zweimal $ sieben  $ Vieh     $ blökend  $
+
+\ref V_14_16.b
+\tx nərəbiiō  . aṣ̌auuabiiō  .
+\std nə̍rəbyō $ a̍ṣ̌āvabyō $
+\mrph d.pl.        $ d.pl.m.         $
+\cls Wurzel       $ van             $
+\lm nar_         $ aṣ̌āvan_     $
+\PoS sm.          $ adj.            $
+\gD Mann         $ wahrhaftig      $
+
+\ref V_14_16.c
+\tx aṣ̌aiia  . vaŋhuiia .
+\std a̍ṣ̌aya $ va̍ɧuya $
+\mrph $          $ i.sg.f.   $
+\cls $          $ ī        $
+\lm aṣ̌aya   $ vohu_     $
+\PoS adv.       $ adj.      $
+\gD rechtens   $ gut       $
+
+\ref V_14_16.d
+\tx urune     . ciθīm . nisirinuiiāt̰   :
+\std ᵘrune̍ $ ciθīm $ ni_sⁱrinuyāt̰ $
+\mrph d.sg.     $ a.sg.   $ 3.sg.opt.prs.act. $
+\cls van       $ i       $ X                 $
+\lm rvan_     $ ciθi_  $ ni_sri_           $
+\PoS sm.       $ sf.     $ vb.               $
+\gD Seele     $ Sühne  $ überantworten    $
+
+\ref V_14_16.e
+\tx biš    . hapta   . puθrąm   . gaδβąm . uzjāmōit̰              .
+\std biš    $ hapta̍ $ puθrą̍m $ gaδβąm $ uz_jāmōit̰             $
+\mrph $       $ $       $ g.pl.      $ g.pl.     $ 3.sg.opt.prs.act. (caus.) $
+\cls $       $ $       $ C          $ C         $ IVb                       $
+\lm biš    $ hapta̍ $ puθra_    $ gaδβa_  $ uz_gam_                   $
+\PoS adv.    $ num.c.  $ sm.        $ sm.       $ vb.                       $
+\gD zweimal $ sieben  $ Sohn       $ Hund      $ aufgehen,heranwachsen     $
+
+\ref V_14_16.f
+\tx biš    . hapta   . pəṣ̌auuō  . fraoirisiiōit̰   .
+\std biš    $ hapta̍ $ pə̍ṣ̌avō $ fra_vⁱrisyōit̰ $
+\mrph $       $ $       $ a.pl.         $ 3.sg.opt.prs.act.  $
+\cls $       $ $       $ u             $ XXVII              $
+\lm biš    $ hapta̍ $ pəṣ̌u_     $ fra_rvaēs_        $
+\PoS adv.    $ num.c.  $ sm.           $ vb.                $
+\gD zweimal $ sieben  $ Brücke,Furt  $ reparieren         $
+
+\ref V_14_16.g
+\tx tarasca     . āpō   . nāuuaiiā̊ .
+\std tarasca̍   $ ā̍pō $ nāvi̍ā̊  $
+\mrph $           $ a.pl.   $ a.pl.f.      $
+\cls $           $ Wurzel  $ yā          $
+\lm tarasca     $ ap_     $ nāvya_      $
+\PoS prp.        $ sf.     $ adj.         $
+\gD über,durch $ Wasser  $ strömend    $
+
+
+\id Videvdad_14_17
+\ref V_14_17.a
+\tx duiiē  . nauuaiti    . astanąm   . aδāitiiō.aŋharəθranąm .
+\std duyē̍ $ navaⁱti̍ $ a̍stanąm $ a_dāⁱtyō_aɧarəθranąm $
+\mrph a.du.f. $ a.du.       $ g.pl.      $ g.pl.n.                      $
+\cls yā     $ ī          $ a          $ a                            $
+\lm dva_    $ navati_     $ asta_      $ ā_dāⁱtyō_aɧareθra_    $
+\PoS num.c.  $ num.c.      $ sn.        $ adj.                         $
+\gD zwei    $ neunzig     $ Heim       $ ohne_die_gehörige_Pflege    $
+
+\ref V_14_17.b
+\tx dāitīm   . ahmāicit̰     . harəθrəm . kərənuiiāt̰   .
+\std dāⁱtīm $ ahmā̍i _cit̰ $ harəθrəm $ kərənuyā̍t̰  $
+\mrph a.sg.m.    $ d.sg.m.  $      $ a.sg.       $ 3.sg.opt.prs.act. $
+\cls ya         $ $        $      $ a           $ Xa                $
+\lm dātya_    $ imat̰   cit̰  $ harəθra_  $ kar_              $
+\PoS adj.       $ prn.     part.  $ sn.         $ vb.               $
+\gD angemessen $ dieser   gi     $ Pflege      $ machen            $
+
+\ref V_14_17.c
+\tx duiiē  . nauuaiti    . gaδβąm . pairi.yaoždaiθīta                    .
+\std duyē̍ $ navaⁱti̍ $ gaδβąm $ paⁱri_yaož_daⁱθīta               $
+\mrph a.du.f. $ a.du.       $ g.pl.     $ 3.sg.opt.prs.med.                       $
+\cls yā     $ ī          $ C         $ V                                       $
+\lm dva_    $ navati_     $ gaδβa_  $ pari_yaož_dā_                         $
+\PoS num.c.  $ num.c.      $ sm.       $ vb.                                     $
+\gD zwei    $ neunzig     $ Hund      $ rund_herum_heil_machen,richtig_bereiten $
+
+\ref V_14_17.d
+\tx ˣspitibiiasca                     . anāiritibiiasca                        .
+\std spitibyas                    _ca   $ anāⁱritibyas                   _ca   $
+\mrph abl.pl.                      $     $ abl.pl.                           $     $
+\cls i                            $     $ i                                 $     $
+\lm spiti_                       _ca   $ anāriti_                         _ca   $
+\PoS sm./sf.                      part. $ sm./sf.                           part. $
+\gD der_Weiße_(Hundeschädling) und   $ ’Name_eines_Hundeschädlings‘ und   $
+
+\ref V_14_17.e
+\tx viiaŋuraēibiiasca                     . vīspaēibiiasca        . pairi     . acištaēibiiō    .
+\std vyaŋuraēⁱbyas                 _ca   $ vī̍spaēⁱbyas _ca   $ pa̍ⁱri $ a̍cištaēⁱbyō $
+\mrph abl.pl.                           $     $ abl.pl.m.         $     $ $         $ abl.pl.m.sup.      $
+\cls a                                 $     $ a                 $     $ $         $ a                  $
+\lm vyaŋura_                         _ca   $ vīspa_           _ca   $ pari      $ aka_               $
+\PoS sm.                               part. $ adj.              part. $ prp.      $ adj.               $
+\gD ’Name_eines_Hundeschädlings‘ und   $ all               und   $ von_weg   $ schlecht,böse     $
+
+\ref V_14_17.f
+\tx yōi            . gaδβąm . pairi.bauuaiti                         :
+\std yōi            $ gaδβąm $ pa̍ⁱri_bavaⁱti                    $
+\mrph n.pl.m.         $ g.pl.     $ 3.sg.ind.prs.act.(?)                   $
+\cls ya              $ C         $ II                                     $
+\lm ya_             $ gaδβa_  $ pari_bū_                              $
+\PoS prn.            $ sm.       $ vb.                                    $
+\gD Relativpronomen $ Hund      $ sich_bemächtigen,sich_hermachen_über $
+
+\ref V_14_17.g
+\tx duiiē  . nauuaiti    . narąm   . aṣ̌aonąm   . ˣvāstraiiaēta                      .
+\std duyē̍ $ navaⁱti̍ $ narą̍m $ a̍ṣ̌aonąm $ vāstrayaēta                         $
+\mrph a.du.f. $ a.du.       $ g.pl.    $ g.pl.m.       $ 3.sg.opt.prs.med.                     $
+\cls yā     $ ī          $ C        $ van           $ XXXI                                  $
+\lm dva_    $ navati_     $ nar_     $ aṣ̌āvan_   $ vāstraya_                            $
+\PoS num.c.  $ num.c.      $ sm.      $ adj.          $ vb.                                   $
+\gD zwei    $ neunzig     $ Mann     $ wahrhaftig    $ Landwirtschaft_betreiben,Futter_geben $
+
+\ref V_14_17.h
+\tx gə̄uš . vā   . xᵛarəθahe  . vā   .
+\std gaoš    $ vā   $ xᵛarəθahe  $ vā   $
+\mrph g.sg.    $ $     $ g.sg.          $ $     $
+\cls Wurzel   $ $     $ a              $ $     $
+\lm gav_     $ vā   $ xᵛarəθa_   $ vā   $
+\PoS sm.      $ part. $ sn.            $ part. $
+\gD Kuh      $ oder  $ Nahrung,Speise $ oder  $
+
+\ref V_14_17.i
+\tx huraiiā̊  . vā   . ˣmaδə̄uš . vā   .
+\std hu̍rayā̊ $ vā   $ ma̍δə̄uš $ vā   $
+\mrph g.sg.       $ $     $ g.sg.         $ $     $
+\cls ā          $ $     $ u             $ $     $
+\lm hurā_      $ vā   $ maδu_        $ vā   $
+\PoS sf.         $ part. $ sn.           $ part. $
+\gD Milchwein   $ oder  $ (Beeren-)Wein $ oder  $
+
+
+\id Videvdad_14_18
+\ref V_14_18.a
+\tx hā         . hē       . asti          . ciθa   .
+\std hā         $ hē       $ a̍sti        $ ciθa   $
+\mrph n.sg.f.     $ d.sg.m.   $ 3.sg.prs.act. $ n.sg.   $
+\cls ā          $ $         $ I             $ ā      $
+\lm ta_         $ hay_      $ ah_           $ ciθā_ $
+\PoS prn.        $ prn.      $ vb.           $ sf.     $
+\gD der,die,das $ er,sie,es $ sein          $ Strafe  $
+
+\ref V_14_18.b
+\tx hā         . hē       . asti          . āpərətiš     .
+\std hā         $ hē       $ a̍sti        $ āpərətiš     $
+\mrph n.sg.f.     $ d.sg.m.   $ 3.sg.prs.act. $ n.sg.            $
+\cls ā          $ $         $ I             $ i                $
+\lm ta_         $ hay_      $ ah_           $ āpərəti_      $
+\PoS prn.        $ prn.      $ vb.           $ sf.              $
+\gD der,die,das $ er,sie,es $ sein          $ Sühne,Ausgleich $
+
+\ref V_14_18.c
+\tx aipi.pārəmnāi    . iδa   . aṣ̌aone   .
+\std aⁱpi_pārəmnāi  $ iδa̍ $ a̍ṣ̌aone $
+\mrph prc.prs.med.d.sg.m. $ $      $ d.sg.m.     $
+\cls IV                  $ $      $ van         $
+\lm api_par_            $ iδa   $ aṣ̌āvan_ $
+\PoS vb.                 $ adv.   $ adj.        $
+\gD begleichen          $ hier   $ wahrhaftig  $
+
+\ref V_14_18.d
+\tx nōit̰         . anaipi.pārəmnāi        .
+\std nōit̰         $ an_   aⁱpi_pārəmnāi  $
+\mrph $               $ $     prc.prs.med.d.sg.m. $
+\cls $               $ $     IV                  $
+\lm nōit̰         $ a_    api_par_            $
+\PoS adv.            $ part. vb.                 $
+\gD nicht,und_nicht $ un-   begleichen          $
+
+\ref V_14_18.Q1a
+\tx drujō   . nmāne  . haiθiiā    . aŋhən           . astaiiō        .
+\std dru̍jō $ nmāne  $ haⁱθyā̍ $ a̍ɧən          $ a̍stayō       $
+\mrph g.sg.    $ l.sg.   $ n.pl.m.-n.   $ 3.pl.cnj.prs.act. $ n.pl.           $
+\cls C        $ a       $ ya           $ I                 $ i               $
+\lm drug_    $ nmāna_ $ haθya_      $ ah_               $ asti_           $
+\PoS sf.      $ sn.     $ adj.         $ vb.               $ sm.             $
+\gD Lüge    $ Haus    $ wahr,recht   $ sein              $ Geselle,Genosse $

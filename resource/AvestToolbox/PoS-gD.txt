@@ -1,0 +1,4209 @@
+\_sh v3.0  400  PoS-gD
+
+D\lm aməṣ̌a_
+\PoS adj.
+\gD unsterblich
+\dt
+
+\lm ∅
+\PoS adj.
+\cls a
+\gD Bahuvrihi;Tatpuruṣa
+\dt
+
+\lm a_
+\Bar a-, an-
+\PoS part.
+\cls $
+\gD ’Alpha_privativum‘
+\Bp
+\anm Vgl. ai. \textit{a-, an-} part. ‘ds.’.
+\dt
+
+\lm aēta_
+\Bar aēta-
+\PoS prn.
+\cls a
+\gD dieser,diese,dieses
+\Bp 12
+\anm Vgl. ai. \textit{etád} prn. ‘ds.’.
+\dt
+
+\lm aētā_
+\PoS sf.
+\cls ā
+\gD Strafbarkeit
+\dt
+
+\lm aēuua_
+\PoS adj.
+\cls o
+\gD ein
+\dt
+
+\lm aēvaṇdasa_
+\Bar aēuuaṇdasa-
+\PoS num.o.
+\cls a
+\gD elfter
+\Bp 24
+\anm Vgl. ai. \textit{ekādaśá-} adj. ‘ds.’.
+\dt
+
+\lm aēsma_
+\Bar aēsma-
+\PoS sm.
+\cls a
+\gD Brennholz
+\Bp 26
+\anm Zu ai. \textit{idh-} vb. ‘anzünden’, vgl. ai. \textit{édha-} sm.
+‘Brennholz’.
+\dt
+
+\lm aēša_
+\Bar aēša-
+\PoS sm.
+\cls a
+\gD Pflug
+\Bp 32
+\anm Vgl. ai. \textit{īṣā́-} sf. ‘Deichsel’.
+\dt
+
+\lm aoj_
+\PoS vb.
+\cls
+\gD sagen
+\dt
+
+\lm aojas_
+\PoS sn.
+\cls s
+\gD Kraft
+\dt
+
+\lm aota_
+\PoS adj.
+\cls o
+\gD kalt
+\dt
+
+\lm aoša_
+\PoS sm.
+\cls a
+\gD Verderben
+\dt
+
+\lm aka_
+\Bar aka-
+\PoS adj.
+\cls a
+\gD schlecht,böse
+\Bp 44
+\anm Vgl. ai. \textit{áka-} sn. ‘Leid, Schmerz’.
+\dt
+
+\lm akana_
+\Bar akana-
+\PoS sn.
+\cls a
+\gD Köcher
+\Bp 46
+\anm
+\dt
+
+\lm axti_
+\PoS sm.
+\cls i
+\gD Krankheit
+\dt
+
+\lm aga_
+\PoS adj.
+\cls a
+\gD schlecht
+\dt
+
+\lm aθa
+\PoS cnj.
+\cls $
+\gD dann
+\dt
+
+\lm aθarvan_
+\Bar aθauruuan-
+\PoS sm.
+\cls van
+\gD Feuerpriester
+\Bp 65
+\anm Vgl. ai. \textit{átharvan-} sm. ‘ds.’.
+\dt
+
+\lm aθra
+\PoS adv.
+\cls $
+\gD hier
+\dt
+
+\lm a_dātya_
+\PoS adj.
+\cls ya
+\gD ungehörig
+\dt
+
+\lm adāt̰
+\PoS adv.
+\cls abl.
+\gD also,dann
+\dt
+
+\lm aδara_
+\Bar aδara-
+\PoS adj.
+\cls ra
+\gD unterer
+\Bp 57
+\anm Vgl. ai. \textit{ádhara-}/\textit{adhamá-}, Steigerungsformen zu
+ \textit{ádha} adv. ‘da, dann’ in der verlorengegangenen
+Bedeutung ‘unten’.
+\dt
+
+\lm at̰
+\PoS part.
+\cls $
+\gD dann,aber
+\dt
+
+\lm ap_
+\Bar ap-
+\PoS sf.
+\cls Wurzel
+\gD Wasser
+\Bp 325
+\anm Vgl. ai. \textit{ap-} sf., N.pl. \textit{ā́paḥ}, G.pl. \textit{apā́m}
+‘ds.’
+\dt
+
+\lm apa
+\PoS adv.
+\cls $
+\gD weg
+\dt
+
+\lm apa_nam_
+\PoS vb.
+\cls $
+\gD weichen
+\dt
+
+\lm apara_
+\PoS adv.
+\cls a
+\gD hinter
+\dt
+
+\lm api_kan_
+\Bar aipi-kan-
+\PoS vb.
+\cls athem
+\gD zuschütten
+\Bp 437
+\anm
+\dt
+
+\lm api_par_
+\Bar aipi-par-
+\PoS vb.
+\cls 4
+\gD begleichen
+\Bp 849
+\anm → \textit{āpərəti-}.
+\dt
+
+\lm aɧra_
+\PoS adj.
+\cls ra
+\gD feindlich
+\dt
+
+\lm anāriti_
+\Bar anāiriti-
+\PoS sm./sf.
+\cls i
+\gD ’Name_eines_Hundeschädlings‘
+\Bp 124
+\anm
+\dt
+
+\lm anu_uxti_
+\PoS sf.
+\cls i
+\gD Reden gemäß
+\dt
+
+\lm an_upa_yata_
+\Bar anupaiiata-
+\PoS adj.
+\cls a
+\gD jungfräulich
+\Bp 127
+\anm Prc.prt.pass. zu \textit{yam-} vb. ‘halten, fassen’ mit Präverb
+ \textit{upa-} und \textit{alpha privativum}, vgl. ai. \textit{yam-}
+vb., 3.sg.ind.prs.act. \textit{yámati} oder \textit{yácchati} ‘zügeln,
+lenken’.
+\dt
+
+\lm anu_mati_
+\PoS sf.
+\cls i
+\gD Denken gemäß
+\dt
+
+\lm anu_maya_
+\Bar anumaiia-
+\PoS adj.
+\cls a
+\gD blökend(?)
+\Bp 128
+\anm Vgl. ai. \textit{māyú-} sm. ‘Blöken, Brüllen’, zu ai. \textit{mā-}
+vb., 3.sg.ind.prs.act. \textit{mímāti} ‘ds.’.
+\dt
+
+\lm anu_varšti_
+\PoS sf.
+\cls i
+\gD Handeln gemäß
+\dt
+
+\lm ańya_
+\PoS prn.
+\cls i̯a
+\gD ander
+\dt
+
+\lm ama_
+\PoS adj.
+\cls a
+\gD kräftig
+\dt
+
+\lm aməṣ̌a_
+\PoS adj.
+\cls o
+\gD unsterblich
+\dt
+
+\lm aiiar_
+\PoS sn.
+\cls r/n
+\gD Tag
+\dt
+
+\lm ayasńya_
+\PoS adj.
+\cls i̯a
+\gD verehrungsunwürdig
+\dt
+
+\lm ayō_aγra_
+\Bar aiiō.aγra-
+\PoS adj.
+\cls ra
+\gD mit_eiserner_Spitze
+\Bp 162
+\anm Vgl. ai. \textit{áyo’ gra-} adj. ‘ds.’ zu ai. \textit{áyas-} sn. ‘Eisen’
+und ai. \textit{ágra-} sn. ‘vorangehendes, Spitze’.
+\dt
+
+\lm auua
+\PoS prp.
+\cls
+\gD hinab
+\dt
+
+\lm auua_
+\PoS prn.
+\cls $
+\gD jener,dieser_da
+\dt
+
+\lm ava_jan_
+\Bar auua-jan-
+\PoS vb.
+\cls athem
+\gD erschlagen
+\Bp 490
+\anm Vgl. ai. \textit{áva-han-} vb. ‘ds’.
+\dt
+
+\lm auuaθa
+\PoS adv.
+\cls
+\gD so,folgendermaßen
+\dt
+
+\lm auua_bar_
+\PoS vb.
+\cls a
+\gD bringen
+\dt
+
+\lm auui
+\PoS prp.
+\cls $
+\gD gegen
+\dt
+
+\lm araēka_
+\Bar araēka-
+\PoS adj.(?)
+\cls a
+\gD ’Name_einer_Ameisenart‘
+\Bp 168
+\anm
+\dt
+
+\lm arj_
+\PoS vb.
+\cls o
+\gD wert_sein
+\dt
+
+\lm armaē_štā_
+\PoS adj.
+\cls ā
+\gD stillstehend
+\dt
+
+\lm aruuant_
+\PoS adj.
+\cls nt
+\gD schnell
+\dt
+
+\lm arza_
+\PoS sm.
+\cls a
+\gD Schlacht
+\dt
+
+\lm aršan_
+\Bar aršan-
+\PoS sm.
+\cls n
+\gD Mann
+\Bp 203
+\anm Vgl. gr. ἄρσην adj. ‘männlich’, ai. \textit{vṛṣṇya-} adj.
+‘mannhaft’, ai. \textit{ṛṣabhá-} sm. ‘Ochse’. Siehe V 14,11h
+\dt
+
+\lm aršti_
+\Bar aršti-
+\PoS sm._(sf.)
+\cls i
+\gD Speer,Lanze
+\Bp 205
+\anm Vgl. ai. \textit{ṛṣṭí-} sf. ‘Speer, Speß, Dolch’ zu ai. \textit{ṛṣ-}
+vb., 3.pl.ind.prs.act. \textit{rṣánti} ‘stoßen, stechen’.
+\dt
+
+\lm Arštiš
+\Bar Aršti-
+\PoS sf.npr.
+\cls i
+\gD Geradesein,Arštiš
+\Bp 205
+\dt
+
+\lm asəṇga_
+\PoS sm.
+\cls a
+\gD Stein
+\dt
+
+\lm a_skəṇda_
+\Bar askəṇda-
+\PoS adj.
+\cls a
+\gD ohne_Fehl
+\Bp 211
+\anm Zu \textit{skəṇda-} sm. ‘Bruch, Gebrechen’, vgl. \textit{skand-}
+vb. ‘brechen’.
+\dt
+
+\lm asta_
+\Bar asta-
+\PoS sn.
+\cls a
+\gD Heim
+\Bp 212
+\anm Vgl. ai. \textit{ásta-} sn. ‘ds.’, zu ai. \textit{nas-} vb.,
+3.sg.ind.prs.med. \textit{násate} ‘sich gesellen’.
+\dt
+
+\lm asti_
+\Bar asti-
+\PoS sm.
+\cls i
+\gD Geselle,Genosse
+\Bp 213
+\anm Vgl. ai. \textit{átithi-} sm. ‘Gast’.
+\dt
+
+\lm astvaṇt_
+\Bar astuuaṇt-
+\PoS adj.
+\cls nt
+\gD knöchern;irdisch
+\Bp 215
+\anm Vgl. ai. \textit{asthanvánt-} adj. ‘mit Knochen begabt’.
+\dt
+
+\lm aspa_
+\Bar aspa-
+\PoS sm.
+\cls a
+\gD Pferd
+\Bp 216
+\anm Vgl. ai. \textit{áśva-} sm. ‘ds.’.
+\dt
+
+\lm asman_
+\PoS sn.
+\cls n
+\gD Himmel;Stein
+\dt
+
+\lm asmana_
+\Bar asmana-
+\PoS adj.
+\cls a
+\gD steinern
+\Bp 220
+\anm Zu \textit{asman-} sm. ‘Stein’.
+\dt
+
+\lm az_
+\Bar az-
+\PoS vb.
+\cls a
+\gD führen
+\Bp 223
+\anm Zu \textit{az-} vb. ‘treiben’, vgl. ai. \textit{aj-} vb.,
+3.sg.ind.prs.act. \textit{ájati} ‘ds.’.
+\dt
+
+\lm azəm
+\PoS prn.
+\cls pers.
+\gD ich
+\dt
+
+\lm aš_
+\PoS sn.
+\cls wurzel
+\gD Auge
+\dt
+
+\lm aš_
+\PoS $
+\cls $
+\gD sehr
+\dt
+
+\lm aštəma_
+\Bar aštəma-
+\PoS num.o.
+\cls ma
+\gD achter
+\Bp 262
+\anm Vgl. ai. \textit{aṣṭamá-} adj. ‘ds.’.
+\dt
+
+\lm aštrā_
+\Bar aštrā-
+\PoS sf.
+\cls ā
+\gD Peitsche,Geisel
+\Bp 263
+\anm Vgl. ai. \textit{áṣṭrā-} sf. \textit{Stachelstock}; zum Verbum
+ \textit{az-} ‘treiben’.
+\dt
+
+\lm aži_
+\Bar aži-
+\PoS sm.
+\cls i
+\gD Schlange
+\Bp 266
+\anm Vgl. ai. \textit{áhi-} sm. ‘ds.’.
+\dt
+
+\lm aṣ̌a_
+\Bar aṣ̌a-
+\PoS sn.
+\cls a
+\gD Richtigkeit
+\Bp
+\anm Vgl. ai. \textit{ṛtá-} sn. ‘Wahrheit, Ordnung’.
+\dt
+
+\lm aṣ̌aya
+\Bar aṣ̌aiia
+\PoS adv.
+\cls $
+\gD wie_es_rechtens_ist,_nach_Gebühr
+\Bp 244
+\anm Letztlich vermutlich ein feminin gebildeter I.sg. zu \textit{aṣ̌a-} sn.,
+vgl. ai. \textit{ṛtayā́} adv. ‘in richtiger Weise’ (Grassmann 286). 
+\dt
+
+\lm aṣ̌avant_
+\PoS adj.
+\cls nt
+\gD rechtschaffen
+\dt
+
+\lm aṣ̌āvan_
+\Bar aṣ̌auuan-
+\PoS adj.
+\cls n
+\gD wahrhaftig
+\Bp 123
+\anm Vgl. ved. \textit{ṛtā́van-} ‘heilig, fromm’. Tɪᴄʜʏ, \textit{Sprache}
+32, 1986, 91–105.
+\dt
+
+\lm aṣ̌i_
+\PoS sf.
+\cls i
+\gD Aši
+\dt
+
+\lm ah_
+\Bar ah-
+\PoS vb.
+\cls athem
+\gD sein
+\Bp 266
+\anm Vlg. ai. \textit{as-} vb., 3.sg.ind.prs.act. \textit{ásti},
+3.pl.ind.prs.act. \textit{sánti} ‘ds.’.
+\dt
+
+\lm ahu_
+\PoS sm.
+\cls u
+\gD Sein
+\dt
+
+\lm ahuna_
+\PoS adj.
+\cls o
+\gD Seins-
+\dt
+
+\lm ahura_
+\Bar ahura-
+\PoS sm.
+\cls a
+\gD Gott
+\Bp 285
+\anm Vgl. ai. \textit{ásura-} adj. ‘lebendig, regsam’ und sm. ‘(böser)
+Geist’.
+\dt
+
+\lm _ā
+\PoS prp.
+\cls $
+\gD l.sg.
+\dt
+
+\lm āat̰
+\PoS adv.
+\cls $
+\gD dann,also
+\Bp 303
+\anm Vgl. ai. \textit{ā́t, áat} adv. ‘ds.’. Steht in der Regel an der Spitze
+des Satzes.
+\dt
+
+\lm āxtuirīm
+\PoS adv.
+\cls $
+\gD viermal
+\dt
+
+\lm āxš_
+\PoS vb.
+\cls ai̯a
+\gD überwachen
+\dt
+
+\lm ā_grab_
+\PoS vb.
+\cls ?
+\gD greifen_nach
+\dt
+
+\lm ātar_
+\Bar ātar-
+\PoS sm.
+\cls r
+\gD Feuer
+\Bp 312
+\anm
+\dt
+
+\lm ātr_carana_
+\Bar ātrə.carana-
+\PoS sn.
+\gD ’Feuergerät,_mit_dem_das_Feuer_‘am_Laufen’_gehalten_wird‘
+\Bp 317
+\anm Zu \textit{car-} vb. ‘gehen, wandern’, vgl. ai. \textit{car-} vb.,
+3.sg.ind.prs.act. \textit{cárati} ‘ds.’, uidg. \textit{*kʷel-}.
+\dt
+
+\lm ātr_vazana_
+\Bar ātrə.vazana-
+\PoS sm.
+\cls a
+\gD Feuerwedel
+\Bp 319
+\anm Zu \textit{vaz-} vb. ‘fahren, führen’, vgl. ai. \textit{vah-} vb.,
+3.sg.ind.prs.act. {váhati} ‘ds.’, demnach ein Gerät zum Anfachen
+des Feuers.
+\dt
+
+\lm āθβiiāni_
+\PoS adj.
+\cls i
+\gD Verwandter_des_Aθβiia
+\dt
+
+\lm ā_dāⁱtyō_aɧareθra_
+\Bar aδāitiiō.aŋharəθrana-
+\PoS adj.
+\cls a
+\gD ohne_die_gehörige_Pflege
+\Bp 59, 1789
+\anm Zu \textit{dāitiia-} sn. ‘angemessen’ und \textit{harəθra-} sn.
+‘Pflege’. → \textit{dāitiiō.kərəta-}.
+\dt
+
+\lm āp_
+\PoS vb.
+\cls ai̯a
+\gD erreichen
+\dt
+
+\lm āpərəti_
+\Bar āpərəti-
+\PoS sf.
+\cls i
+\gD Sühne,Ausgleich
+\Bp 329
+\anm Zu \textit{par-} vb. ‘gleich machen’. → \textit{aipi-par-}.
+\dt
+
+\lm ā_bar_
+\PoS vb.
+\cls a
+\gD tragen
+\dt
+
+\lm ā_rik_
+\Bar ā-ric-
+\PoS vb.
+\cls -n-
+\gD bewässern
+\Bp 971
+\anm Vgl. ai. \textit{ā́-ric-} vb. ‘überlassen’.
+\dt
+
+\lm āsu_
+\PoS adj.
+\cls u
+\gD schnell
+\dt
+
+\lm ā_zū_
+\PoS vb.
+\cls i̯a
+\gD beschwören,herbeirufen
+\dt
+
+\lm ərəγant_
+\Bar ərəγaṇt-
+\PoS adj.
+\cls nt
+\gD abscheulich
+\Bp 349
+\anm “s. dazu Bᴛʜʟ. IF. 12. 113.”
+\dt
+
+\lm ərəzata_
+\Bar ərəzata-
+\PoS adj._(sn.)
+\cls a
+\gD silbern,Silber
+\Bp 352
+\anm Vgl. ai. \textit{rajatá-} adj. ‘silbern, glänzend weiß’.
+\dt
+
+\lm i_
+\PoS vb.
+\cls athem
+\gD gehen
+\dt
+
+\lm iδa
+\Bar iδa
+\PoS adv.
+\cls $
+\gD hier
+\Bp 364
+\anm Vgl. ai. \textit{ihá} adv. ‘ds.’.
+\dt
+
+\lm imat̰
+\Bar i-, a-
+\PoS prn.
+\cls ?
+\gD dieser_hier
+\Bp 368
+\anm Vgl. ai. \textit{idám} prn., N.sg.m. \textit{ayám}, G.sg.f.
+ \textit{asyā́ḥ} ‘ds.’.
+\dt
+
+\lm išud_
+\PoS vb.
+\cls i̯a
+\gD Stärkung bringen
+\dt
+
+\lm uγra_
+\PoS adj.
+\cls a
+\gD stark
+\dt
+
+\lm udara_
+\PoS sm.
+\cls ra
+\gD Bauch
+\dt
+
+\lm udarō_θrąsa_
+\Bar udarō.θrąsa-
+\PoS adj.
+\gD auf_dem_Bauch_kriechend
+\Bp 387
+\anm Vgl. ai. \textit{udára-} sn. ‘Bauch’.
+\dt
+
+\lm udra_
+\Bar udra-
+\PoS sm.
+\cls a
+\gD Otter
+\Bp 387
+\anm Vgl. ai. \textit{udrá-} sm. ‘Otter, Wassertier’.
+\dt
+
+\lm upa_az_
+\Bar upa-az-
+\PoS vb.
+\cls II
+\gD hinzubringen
+\Bp 223
+\anm Vgl. ai. \textit{úpa-aj-} vb. ‘herbeitreiben (von Kühen)’.
+\dt
+
+\lm upa_θβaršti_
+\Bar upa.θβaršti-
+\PoS sf.
+\cls i
+\gD Anscheiden_des_Dammes
+\Bp 390
+\anm
+\dt
+
+\lm upa_yam_
+\Bar upa-yam-
+\PoS vb.
+\cls athem
+\gD berühren,entjungfern?
+\Bp 1262, 127
+\anm Vgl. ai. \textit{úpa-yam-} vb. ‘lenken, reichen’.
+\dt
+
+\lm upa_vad_
+\Bar upa-vad-
+\PoS vb.
+\cls ai̯a
+\gD zur_Heirat_geben
+\Bp 1343
+\anm Vgl. lit. \textit{vèsti} vb. ‘führen, heiraten (vom Mann)’.
+\dt
+
+\lm upara_
+\Bar upara-
+\PoS adj.
+\cls ra
+\gD oberer
+\Bp 393
+\anm Vgl. ai. \textit{úpara-} adj. ‘der untere’ und ai. \textit{upamá-}
+adj. ‘der oberste’, Steigerungsformen zu \textit{úpa} adv. ‘her’.
+\dt
+
+\lm upa_hac_
+\PoS vb.
+\cls a
+\gD begleiten
+\dt
+
+\lm upāpa_
+\Bar upāpa-
+\PoS adj.
+\cls a
+\gD im_Wasser_[lebend,_etc.]
+\Bp 398
+\anm Wortbildung \textit{upa-āpa-} \textit{upa-} + \textit{ap-}.
+\dt
+
+\lm upāzana_
+\Bar upāzana-
+\PoS sn.
+\cls a
+\gD körperliche_Strafe
+\Bp 398
+\anm Zu \textit{upa-az-} vb. ‘hinzubringen’. Vgl. ai. \textit{ájana-} sn.
+‘Treiben’.
+\dt
+
+\lm upəma_
+\Bar upəma-
+\PoS adj.
+\cls ma
+\gD der_möchste
+\Bp 399
+\anm Vgl. ai. \textit{upamá-} adj. ‘ds.’.
+\dt
+
+\lm urvarā_
+\Bar uruuarā-
+\PoS sf.
+\cls ā
+\gD Pflanze
+\Bp 401
+\anm Vgl. ai. \textit{urvárā-} sf. ‘Saatland’.
+\dt
+
+\lm urvāsnā_
+\Bar uruuāsnā-
+\PoS sf.
+\cls ā
+\gD Sandelholz
+\Bp “Die indischen Parsen verstehen das Sandelholz darunter; s. Hᴀᴜɢ
+Essays² 251, Wᴇꜱᴛ SBE. 37. 186.”
+\dt
+
+\lm us_
+\PoS adv.
+\cls $
+\gD aus
+\dt
+
+\lm uz_gam_
+\Bar uz-gam-
+\PoS vb.
+\cls $
+\gD aufgehen,heranwachsen
+\Bp 493
+\anm Vgl. ai. \textit{úd-gam-} vb., ‘hervorkommen’.
+\dt
+
+\lm uzdaēza_
+\PoS adj.
+\cls a
+\gD aufgeschüttet
+\dt
+
+\lm uz_vad_
+\PoS vb.
+\cls aya
+\gD wegnehmen
+\dt
+
+\lm ušastara_
+\PoS adj.
+\cls ra
+\gD östlich
+\dt
+
+\lm ušta
+\PoS adv.
+\gD nach_Wunsch
+\dt
+
+\lm uštāna_
+\PoS sm.;sn.
+\cls a
+\gD Lebenskraft
+\dt
+
+\lm uštra_
+\Bar uštra-
+\PoS sm.a
+\cls o
+\gD Kamel
+\Bp 420
+\anm Vgl. ai. \textit{úṣ̣ṭra-} sm. ‘Büffel’.
+\dt
+
+\lm ka_
+\Bar ka-
+\PoS prn.
+\cls a
+\gD wer,welcher
+\Bp 422
+\anm Vgl. ai. \textit{ká-} prn. ‘ds.’.
+\dt
+
+\lm kaēθ_
+\PoS vb.
+\cls athem
+\gD lehren
+\dt
+
+\lm kaθa
+\PoS adv.
+\cls $
+\gD wie
+\dt
+
+\lm kanyā_
+\Bar kainiiā-
+\PoS sf.
+\cls ā
+\gD Mädchen
+\Bp 439
+\anm Vgl. ai. \textit{kanyā̀-} sf. ‘ds.’.
+\dt
+
+\lm kamarā_
+\Bar kamarā-
+\PoS sf.
+\cls ā
+\gD Gürtel
+\Bp 440
+\anm
+\dt
+
+\lm kamərəδa_
+\PoS sm.
+\cls ???
+\gD Kopf (rekonstruiert)
+\dt
+
+\lm kauuaiia_
+\PoS adj.
+\cls i̯a
+\gD seherisch
+\dt
+
+\lm kar_
+\PoS vb.
+\cls ai̯a
+\gD feiern
+\dt
+
+\lm kar_
+\Bar kar-
+\PoS vb.
+\cls nu
+\gD machen
+\Bp 444
+\anm Vgl. ai. \textit{kar-}, 3.sg.ind.prs.act. \textit{kṛṇóti} ‘ds.’.
+\dt
+
+\lm kart_
+\Bar karət-
+\PoS vb.
+\cls n
+\gD schneiden
+\Bp 452
+\anm Vgl. ai. \textit{kṛt-} vb., 3.sg.inj.prs.act. \textit{kṛntát}‘schneiden,
+spalten’.
+\dt
+
+\lm kart_
+\Bar karət-
+\PoS sm.
+\cls a
+\gD Messer
+\Bp 454
+\anm Zu \textit{karət-} vb. ‘schneiden, spalten’, vgl. ai. \textit{kartá-}
+sm. ‘Grube, Loch’.
+\dt
+
+\lm karšya_
+\Bar karšiia-
+\PoS adj.
+\cls i̯a
+\gD zu_pflügend
+\Bp 459
+\anm Zu \textit{karš-} vb. ‘Furchen ziehen’, vgl. ai. \textit{karṣ-} vb.,
+2.pl.ind.prs.act. \textit{karṣathaḥ} ‘ds.’.
+\dt
+
+\lm kasyapa_
+\Bar kasiiapa-
+\PoS sm.
+\cls a
+\gD Schildkröte
+\Bp 460
+\anm Vgl. ai. \textit{kaśyápa-} sm. ‘ds.’.
+\dt
+
+\lm kaṣ̌a_
+\PoS s?
+\cls a
+\gD Bucht?
+\dt
+
+\lm kahrpuna_
+\Bar kahrpuna-
+\PoS sm.
+\cls a
+\gD ’Name_eines_daēvischen_Tieres‘
+\Bp 455
+\anm
+\dt
+
+\lm kąstra_
+\Bar kąstra-
+\PoS sn.
+\cls a
+\gD Spaten
+\Bp 472
+\anm Zu \textit{kan-} vb. ‘graben’, vgl. ai. \textit{khan-} vb.,
+1.sg.ind.prs.act. \textit{khánāmi} ‘ds.’. Vgl. ai. \textit{khanítra-}
+sn. ‘Schaufel’.
+\dt
+
+\lm kərəp_
+\PoS sf.
+\cls Wurzel
+\gD Körper
+\dt
+
+\lm Kərəsāspa_
+\PoS sm.npr.
+\cls a
+\gD Kṛsāspa
+\dt
+
+\lm kutaka_
+\Bar kutaka-
+\PoS adj.
+\cls a
+\gD klein
+\Bp 472
+\anm
+\dt
+
+\lm kurit_
+\Bar kuirit-/kuirid-
+\PoS sm.
+\cls t
+\gD Halsbinde
+\Bp 474
+\anm
+\dt
+
+\lm xā_
+\Bar xā-
+\PoS sf.
+\cls Wurzel
+\gD Quelle
+\Bp 531
+\anm Vgl. ai. textit{khā-} sf., nur A.sg. \textit{khā́m} ‘ds.’.
+\dt
+
+\lm xraoždva_
+\Bar xraožduua-
+\PoS adj.
+\cls u̯a
+\gD hart
+\Bp 535
+\anm
+\dt
+
+\lm xrafstra_
+\PoS sn.
+\cls a
+\gD wildes_Tier
+\dt
+
+\lm xrafstra_gan_
+\Bar xrafstrajan-
+\PoS adj.
+\gD ’Werkzeug_zum_Töten_kleinerer_schädlicher_Tiere‘
+\Bp 538
+\anm Zu \textit{jan-} vb. ‘schlagen, töten’
+\dt
+
+\lm xrūždra_
+\PoS adj.
+\cls cld
+\gD hart;laut
+\dt
+
+\lm xšaēta_
+\PoS adj.
+\cls a
+\gD hell,strahlend
+\dt
+
+\lm xšaθra_
+\PoS sn.
+\cls o
+\gD Herrschaft
+\dt
+
+\lm xšapan_
+\PoS sn.
+\cls n
+\gD Nacht
+\dt
+
+\lm xštva_
+\Bar xštuua-
+\PoS num.o.
+\cls a/ī
+\gD sechster
+\Bp 556
+\anm Vgl. ai. \textit{ṣaṣṭá-} adj. ‘ds.’.
+\dt
+
+\lm xšvaš
+\Bar xšuuaš
+\PoS num.
+\cls $
+\gD sechs
+\Bp 561
+\anm Vgl. ai. \textit{ṣaṣ} num.c. ‘ds.’.
+\dt
+
+\lm xᵛaɧar_
+\Bar xᵛaŋhar-
+\PoS sf.
+\cls r
+\gD Schwester
+\Bp 1864
+\anm Vgl. ai. \textit{svásar-} sf. ‘ds.’.
+\dt
+
+\lm xᵛani_
+\PoS $
+\cls $
+\gD schön
+\dt
+
+\lm xᵛani_starta_
+\Bar xᵛaini.starəta-
+\PoS adj.
+\gD mit_schöner_(Divan-)Decke
+\Bp 1864
+\anm Hinterglied zu \textit{star-} vb. ‘ausbreiten, streuen’.
+\dt
+
+\lm xᵛar_
+\PoS vb.
+\cls o
+\gD essen
+\dt
+
+\lm xᵛarəθa_
+\Bar xᵛarəθa-
+\PoS sn.
+\cls a
+\gD Nahrung,Speise
+\Bp 1868
+\anm Zu \textit{xᵛar-} vb. ‘genießen, verzehren’.
+\dt
+
+\lm xᵛarənas_
+\PoS sn.
+\cls s
+\gD Ruhmesglanz;Xᵛarenas
+\dt
+
+\lm xᵛarənahuuaṇt_
+\PoS adj.
+\cls nt
+\gD ruhmreich
+\dt
+
+\lm xᵛāṣ̌a_
+\PoS sn.
+\cls a
+\gD Essen
+\dt
+
+\lm gaēθā_
+\Bar gaēθā-
+\PoS sf.
+\cls ā
+\gD Wesen
+\Bp 476
+\anm “Mayerhofer KEWA I 345”
+\dt
+
+\lm gaēθiia_
+\PoS adj.
+\cls o
+\gD irdisch
+\dt
+
+\lm gaoδi_
+\Bar gaoiδi-
+\PoS sm.du.
+\cls i
+\gD Milchbehälter
+\Bp 481
+\anm Zu \textit{gau-} sf. ‘Kuh’ und \textit{dā-} vb. ‘setzen’.
+\dt
+
+\lm gaomavant_
+\Bar gaomauuaṇt-
+\PoS adj.
+\cls vant
+\gD Milch-,_milchhaltig
+\Bp 484
+\anm “Ich halte dafür, dass es in den Verbindungen mit \textit{h°} darauf
+gereimt und aus \textit{gaomant-} [vgl. ai. \textit{gó-} sm./sf.
+‘Kuh’] hervorgegangen ist; Bᴛʜʟ. IF: 3. 3.”.
+\dt
+
+\lm gaoiiaoti_
+\PoS sf.
+\cls i
+\gD Weideland
+\dt
+
+\lm gaoša_
+\PoS sm.
+\cls a
+\gD Ohr
+\dt
+
+\lm gaošāvara_
+\PoS sm.
+\gD Ohrschmuck
+\Bp 1120
+\anm Zu \textit{gaoša-} sm. ‘Ohr’, vgl. ai. \textit{ghóṣa-} sm. ‘ds.’.
+Siehe V 14,15i.
+\dt
+
+\lm gairi_
+\PoS sm.
+\cls i
+\gD Berg
+\dt
+
+\lm gaδβa_
+\Bar gaδβa-
+\PoS sm.
+\cls a
+\gD Hund
+\Bp 489
+\anm
+\dt
+
+\lm gam_
+\PoS vb.
+\cls
+\gD gehen
+\dt
+
+\lm gav_
+\Bar gau-
+\PoS sm.
+\cls Wurzel
+\gD Kuh;Hand
+\dt
+
+\lm gava_
+\Bar gauua-
+\PoS sm.
+\cls a
+\gD Hand
+\Bp 505
+\anm Kellens Noms-racines 331f-
+\dt
+
+\lm gav_āza_
+\Bar gauuāza-
+\PoS adj._(sm.)
+\cls a
+\gD zum_Ochsen_treiben,Peitsche,Ochsenziemer
+\Bp 511
+\anm Siehe V 14,10h. 
+\dt
+
+\lm gar_
+\PoS vb.
+\cls ?
+\gD wachen
+\dt
+
+\lm gar_
+\PoS sf.
+\cls Wurzel
+\gD Lob
+\dt
+
+\lm garəma_
+\PoS adj.
+\cls o
+\gD Hitze;heiß
+\dt
+
+\lm garmō_skarana_
+\Bar garəmō.skarana-
+\PoS sn.
+\cls a
+\gD ’Feuergerät_zum_Anschlagen(?)_des_Feuers‘
+\Bp 516
+\anm Zu \textit{garəma-} adj. ‘heiß’, vgl. ai. \textit{gharmá-} sm.
+‘Hitze’. Zum Hinterglied vgl. vlt. lit. \textit{skìlti} vb. ‘Feuer
+schlagen’,  \textit{skélti} ‘schlagen’?
+\dt
+
+\lm garz_
+\PoS vb.
+\cls ?
+\gD klagen
+\dt
+
+\lm gah_
+\PoS vb.
+\cls a
+\gD (fr)essen
+\dt
+
+\lm gātu_
+\Bar gātu-
+\PoS sn.
+\cls u
+\gD Ort
+\Bp 517
+\anm Vgl. ai. \textit{gātú-} sm. ‘ds.’.
+\dt
+
+\lm gāvyana_
+\Bar *gāuuiiana-
+\PoS adj.
+\cls a
+\gD zur_Kuh_gehörig
+\Bp 522
+\anm Vgl. ai. \textit{gávya-} adj. ‘ds.’.
+\dt
+
+\lm gərəzā_
+\PoS sf.
+\cls ā
+\gD Klage
+\dt
+
+\lm guza_
+\PoS adj.
+\cls a
+\gD sich_verbergend
+\dt
+
+\lm gūθō_varta_
+\Bar gūθō.varəta-
+\PoS adj.
+\cls a
+\gD sich_im_Kot_aufhaltend,herumrollend
+\Bp 524
+\anm Zu \textit{gūθa-} sn. ‘Schmutz, Kot’, – vgl. ai. \textit{gūtha-} sn.
+‘ds.’ –, und \textit{vart-} vb. ‘drehen, wenden’, vgl. ai.
+ \textit{vṛt-} vb., 3.sg.ind.prs.med. \textit{vártate} ‘ds.’. In
+Komposita bezeichnet das Hinterglied \textit{°varəta-} das
+Sich-Aufhalten in einem Medium.
+\dt
+
+\lm gru_
+\PoS adj.
+\cls u
+\gD schwanger
+\dt
+
+\lm _ca
+\Bar -ca
+\PoS part.
+\cls $
+\gD und
+\dt
+
+\lm caxra_
+\PoS sm.
+\cls a
+\gD Rad
+\dt
+
+\lm carana_
+\PoS sn.
+\cls a
+\gD Gerät
+\dt
+
+\lm caranā_
+\PoS sf.
+\cls ā
+\gD (Zucht)Riemen
+\dt
+
+\lm ciθā_
+\Bar ciθā-
+\PoS sf.
+\cls ā
+\gD Strafe,Sühne
+\Bp 585
+\anm Vgl. ai. \textit{ci-} vb. ‘aneinanderreihen, zahlen’,
+3.sg.ind.prs.med.  \textit{cáyate} ‘strafen’. → \textit{ciθi-}.
+\dt
+
+\lm ciθi_
+\Bar ciθi-
+\PoS sf.
+\cls i
+\gD Strafe,Sühne
+\Bp 585, vgl. 464
+\anm → \textit{ciθā-}.
+\dt
+
+\lm cit̰
+\Bar -cit̰
+\PoS part.
+\cls $
+\gD ’Enklit. Parti.’
+\Bp 588
+\anm Vgl. ai. \textit{-cit} part. ‘ds.’. Dient zur Hervorhebung von
+Satzteilen und beim Pron.interrog. zur Bildung von Indefinita.
+\dt
+
+\lm cuvant_
+\Bar cuuaṇt-
+\PoS prn.
+\cls nt
+\gD wie_groß?,wie_viel?
+\Bp 600
+\anm Vgl. ai. \textit{kī́vant-} adj. ‘wie weit’.
+\dt
+
+\lm jan_
+\Bar jan-
+\PoS vb.
+\cls athem;a
+\gD schlagen,töten
+\Bp 490
+\anm Vgl. ai. \textit{han-} vb. ‘ds.’, 3.sg.ind.prs.act. \textit{hánti}, 3.pl.
+ \textit{ghnánti} ‘ds.’.
+\dt
+
+\lm jani_
+\PoS sf.
+\cls i
+\gD Frau
+\dt
+
+\lm ji_
+\PoS vb.
+\cls o
+\gD leben
+\dt
+
+\lm ta_
+\Bar ta-
+\PoS prn.
+\cls a
+\gD dieser,diese,dieses
+\Bp Vgl. ai. \textit{sá-, tá-} prn. ‘der, die, das’.
+\dt
+
+\lm tak_
+\PoS vb.
+\cls a
+\gD laufen,fließen
+\dt
+
+\lm tac_
+\PoS vb.
+\cls o
+\gD rennen,fließen
+\dt
+
+\lm taci_āp_
+\Bar taci.āp-
+\PoS sf.
+\gD fließendes_Wasser
+\Bp 629
+\anm Determinativkompositum aus \textit{tac-} vb. ‘laufen’ und
+ \textit{ap-} sf. ‘Wasser’. Kellens 374
+\dt
+
+\lm taδa
+\PoS adv.
+\cls $
+\gD damals
+\dt
+
+\lm tar_
+\PoS vb.
+\cls terh₂
+\gD überwinden
+\dt
+
+\lm tarasca
+\Bar tarasca
+\PoS prp.
+\cls $
+\gD über,durch
+\Bp 640
+\anm Vgl. ai. \textit{tiraścā́} adv. ‘quer durch’.
+\dt
+
+\lm tarš_
+\PoS vb.
+\cls o
+\gD zittern
+\dt
+
+\lm taša_
+\Bar taša-
+\PoS sm.
+\cls a
+\gD Axt
+\Bp 645
+\anm Zu \textit{taš-} vb. ‘zuschneiden’, vgl. ai. \textit{takṣ-} vb.
+‘verfertigen, zimmern’.
+\dt 
+
+
+\lm tašta_
+\Bar tašta-
+\PoS sn.
+\cls a
+\gD Tasse,Schale
+\Bp 646
+\anm Hʙᴍ. ZDMG. 36. 129.
+\dt
+
+\lm tištriia_
+\PoS sm.
+\cls a
+\gD Sirius,Morgenstern
+\dt
+
+\lm tiži_dāra_
+\Bar tiži.dāra-
+\PoS adj.
+\cls ra
+\gD mit_scharfer_Schneide
+\Bp 653
+\dt
+
+\lm tiži_bāra_
+\Bar tiži.bāra-*
+\PoS adj.
+\cls ra
+\gD mit_scharfer_Schneide
+\Bp 653
+\anm
+\dt
+
+\lm tiži_žnūta_
+\Bar tiži.žnūta-
+\PoS adj.
+\cls a
+\gD mit_scharfer_Kante
+\Bp 653
+\anm “Scheint aus \textit{*tiži.xšnuta-} (vgl. \textit{huxšnuta-} durch
+Anlehnung an \textit{žnu°} ‘Knie’ = ‘Ecke, Kante’
+hervorgegangen zu sein.”
+\dt
+
+\lm turiya_
+\Bar tūiriia-
+\PoS num.o.
+\cls iya
+\gD vierter
+\Bp 656
+\anm Vgl. ai. \textit{turī́ya-} adj. ‘ds.’.
+\dt
+
+\lm tūm
+\PoS prn.
+\cls pers.
+\gD du
+\dt
+
+\lm tūra_
+\PoS sm.npr.
+\cls a
+\gD Tūrer,turisch
+\dt
+
+\lm θanvar_
+\Bar θanuuar-
+\PoS sn.
+\cls r/n
+\gD Bogen
+\Bp 785
+\anm Zu \textit{θaṇj-} vb. ‘ziehen’.
+\dt
+
+\lm θaṇg_
+\PoS vb.
+\cls ai̯a
+\gD ziehen
+\dt
+
+\lm θraētaona_
+\PoS sm.npr.
+\cls a
+\gD θraētaona
+\dt
+
+\lm θray_
+\PoS num.
+\cls $
+\gD drei
+\dt
+
+\lm θrąsa_
+\PoS sm.
+\cls a
+\gD Lauf
+\dt
+
+\lm θritiya_
+\Bar θritiia-
+\PoS num.o.
+\cls ya
+\gD dritter
+\Bp 807
+\anm Vgl. ai. \textit{tṛtīýa-} adj. ‘dritter’.
+\dt
+
+\lm θritiia_
+\PoS num.ord.
+\cls iya
+\gD dritter
+\dt
+
+\lm θrisant_
+\Bar θrisaṇt-
+\PoS num.c.
+\cls nt
+\gD dreißig
+\Bp 810
+\anm Vgl. ai. \textit{triṃśát-} num.c. ‘ds.’.
+\dt
+
+\lm daēnā_
+\PoS sf.
+\cls ā
+\gD Religion
+\dt
+
+\lm daēuua_
+\PoS sm.
+\cls o
+\gD Dämon
+\dt
+
+\lm daēuuiia_
+\PoS adj.
+\cls i̯a
+\gD dämonisch
+\dt
+
+\lm daošatara_
+\PoS adj.
+\cls ra
+\gD westlich
+\dt
+
+\lm daxma_
+\PoS sm.
+\cls a
+\gD Leichenstätte
+\dt
+
+\lm daxšta_
+\Bar daxšta-
+\PoS sn.
+\cls a
+\gD Gerät
+\Bp 677
+\anm Laut \Barth 677 unabhängig von \textit{daxšta-} sn. ‘Zeichen,
+Merkmal’.
+\dt
+
+\lm dax́iiu_
+\PoS sf.
+\cls u
+\gD Land
+\dt
+
+\lm dar_
+\PoS vb.
+\cls o
+\gD halten
+\dt
+
+\lm darəγa_
+\PoS adj.
+\cls a
+\gD lang
+\dt
+
+\lm dars_
+\PoS vb.
+\cls o
+\gD sehen
+\dt
+
+\lm dasa_
+\PoS num.
+\cls a
+\gD zehn
+\dt
+
+\lm dasəma_
+\Bar dasəma-
+\PoS num.o.
+\cls ma
+\gD zehnter
+\Bp 701
+\anm Vgl. ai. \textit{daśamá-} adj. ‘ds.’.
+\dt
+
+\lm dašina_
+\PoS adj.
+\cls a
+\gD rechter
+\dt
+
+\lm dahāka_
+\PoS sm.npr.
+\cls a
+\gD Dahāka
+\dt
+
+\lm dahma_
+\Bar dahma-
+\PoS sm.
+\cls a
+\gD Gelehrter
+\Bp 704
+\dt
+
+\lm dā_
+\Bar dā-
+\PoS vb.
+\cls athem
+\gD geben;setzen
+\Bp 711
+\anm Vgl. ai. \textit{dā-}, 3.sg.ind.prs.act. \textit{dadāti} ‘geben’ und
+ \textit{dhā-}, 3.sg.ind.prs.act. \textit{dadhāti} ‘setzen’.
+\dt
+
+\lm dātar_
+\Bar dātar-
+\PoS sm.
+\cls tar
+\gD Geber
+\Bp 727
+\anm Vgl. ai. \textit{dā́tar-} sm ‘ds.’., agr. δώτωρ
+\dt
+
+\lm dāti_
+\PoS sf.
+\cls ti
+\gD Geben,Schenken,Gewährung
+\dt
+
+\lm dātya_
+\Bar dāitiia-
+\PoS adj.
+\cls ya
+\gD angemessen
+\Bp 728
+\anm Zu \textit{dāta-} sn. ‘Satz, Recht’, letztlich zu \textit{dā-} vb.
+‘setzen’. → \textit{dāitiiō.kərəta-}, \textit{aδāitiiō.aŋharəθrana-}.
+\dt
+
+\lm dātyō_kərəta_
+\Bar dāitiiō.kərəta-
+\PoS adj.
+\cls ta
+\gD nach_Vorschrift_gemacht
+\Bp 730
+\anm Zu \textit{dāitiia-} adj. ‘angemessen’ und dem Prc.prt.pass. von 
+ \textit{kar-} vb. ‘machen’. → \textit{aδāitiiō.aŋharəθrana-}.
+\dt
+
+\lm dāδmanya_
+\Bar dāδmainiia-
+\PoS adj.
+\cls a
+\gD sich_aufblasend
+\Bp 731
+\anm Vgl. ai. \textit{dham-} vb., 3.sg.ind.prs.act. \textit{dhámati}
+‘blasen’. Im Zusammenhang mit \textit{vazaγa-} sm. ‘Frosch’
+wird damit die Art der Laubfrösche bezeichnet.
+\dt
+
+\lm dānō_karša_
+\Bar dānō.karš-
+\PoS adj.
+\cls a
+\gD Getreidekörner_schleppend
+\Bp 734
+\anm Zu \textit{karš-} vb. ‘schleppen’, – vgl. ai. \textit{karṣ-} vb.,
+3.sg.ind.prs.act. \textit{karṣati} ‘Furchen ziehen’ –, vgl. ai. 
+ \textit{dhānā́-} sf.pl ‘Getreidekörner’. \Barth 734 setzt aufgrund
+des A.sg. \textit{dānō.karšəm} V 16.12 einen Konsonantenstamm
+an.
+\dt
+
+\lm dāman_
+\PoS sn.
+\cls n
+\gD Geschöpf
+\dt
+
+\lm dōiθra_
+\PoS sn.
+\cls ra
+\gD Auge
+\dt
+
+\lm di_
+\PoS prn.
+\cls $
+\gD der,die,das
+\dt
+
+\lm dis_
+\PoS vb.
+\cls a
+\gD zeigen
+\dt
+
+\lm duγδar_
+\Bar duγδar-
+\PoS sf.
+\cls ā
+\gD Tochter
+\Bp 748
+\anm Vgl. ai. \textit{duhitár-} sf. ‘ds.’.
+\dt
+
+\lm duž_aŋhu_
+\PoS sm.
+\cls u
+\gD Schlecht_Sein,Hölle
+\dt
+
+\lm duž_ani_
+\Bar dužaini-
+\PoS adj.
+\cls i
+\gD übel_riechend
+\Bp 756
+\anm Zu \textit{°an-} vb. ‘atmen’, vgl. ai. \textit{an-} vb.,
+3.sg.ind.prs.act. \textit{ániti} ‘ds.’.
+\dt
+
+\lm dužgaṇti_
+\PoS adj.
+\cls i
+\gD übelriechend
+\dt
+
+\lm dūra_
+\PoS adj.
+\cls ra
+\gD fern
+\dt
+
+\lm dva_
+\Bar duua-
+\PoS num.c.
+\cls $
+\gD zwei
+\Bp Vgl. ai. \textit{dvá, duá} num.c. ‘ds.’.
+\dt
+
+\lm dvadasa
+\Bar duuadasa
+\PoS num.c.
+\cls $
+\gD zwölf
+\Bp 763
+\anm Vgl. ai. \textit{dvā́daśa} num.c. ‘ds.’.
+\dt
+
+\lm dvadasa_
+\Bar duuadasa-
+\PoS num.o.
+\cls a
+\gD zwölfter
+\Bp 763
+\anm Vgl. ai. \textit{dvādaśá-} adj. ‘ds.’.
+\dt
+
+\lm drəguuaṇt_
+\PoS adj.
+\cls nt
+\gD trügerisch
+\dt
+
+\lm drug_
+\Bar druj-
+\PoS sf.
+\cls Wurzel
+\gD Lüge,Trug
+\Bp 778
+\anm Vgl. ai. \textit{drúh-} sf. ‘Beschädigung’.
+\dt
+
+\lm _δa
+\Bar -da
+\PoS part.
+\cls $
+\gD hinzu
+\Bp 662
+\anm Vgl. gr. οἶκόνδε.
+\dt
+
+\lm t̰baēšas_
+\PoS sn.
+\cls s
+\gD Feindschaft
+\dt
+
+\lm paorya_
+\Bar paoiriia-
+\PoS num.o.
+\cls ia
+\gD erster
+\Bp 874
+\anm Vgl. ai. \textit{pūrvyà-} adj. ‘früherer, erster’.
+\dt
+
+\lm paiti_par_
+\PoS vb.
+\cls
+\gD kämpfen_gegen
+\dt
+
+\lm paitiiāra_
+\PoS sm.
+\cls a
+\gD Feindseligkeit
+\dt
+
+\lm pairikā_
+\PoS sf.
+\cls ā
+\gD Zauberin
+\dt
+
+\lm pac_
+\PoS vb.
+\cls a
+\gD kochen
+\dt
+
+\lm pat_
+\PoS vb.
+\cls a
+\gD fliegen
+\dt
+
+\lm pati
+\Bar paiti
+\PoS prp.
+\cls $
+\gD gegen
+\Bp
+\anm
+\dt
+
+\lm pati_i_
+\PoS vb.
+\cls athem
+\gD begleichen;entgegen_gehen
+\dt
+
+\lm pati_darz_
+\Bar paiti-darəz- (?)
+\PoS vb.
+\cls a
+\gD befestigen
+\Bp 830
+\anm
+\dt
+
+\lm pati_dāna_
+\Bar paiti.dāna-
+\PoS sm.
+\cls a
+\gD Schutztuch,Brusttuch
+\Bp 830
+\anm Vgl. ai. \textit{pratidhāna-} sn. ‘Anlegen’; S. Hᴀᴜɢ Essays² 243
+\dt
+
+\lm patiš
+\PoS adv.
+\cls $
+\gD hin,gegen
+\dt
+
+\lm patiš_harz_
+\Bar paitiš-harəz-
+\PoS vb.
+\gD durch_(Metall-)Guss_herstellen
+\Bp 1792, 1808
+\anm
+\dt
+
+\lm paṇca_dasa_
+\Bar paṇca.dasa-
+\PoS num.o.
+\cls a
+\gD der_fünfzehnte
+\Bp 845
+\anm Vgl. ai. \textit{pañcadaśá-}, N.sg.f. \textit{°śī́-} adj. ‘ds.’.
+\dt
+
+\lm paṇtā_
+\PoS sm.
+\cls h₂
+\gD Weg
+\dt
+
+\lm para_i_
+\Bar para-i-
+\PoS vb.
+\cls
+\gD weggehen
+\Bp 151
+\anm
+\dt
+
+\lm pari
+\Bar pairi
+\PoS prp.
+\cls $
+\gD um_herum;von_weg
+\Bp 860
+\anm Vgl. ai. \textit{pári} prp. ‘ds.’.
+\dt
+
+\lm pari_aēš¹_
+\Bar pairi-¹iš-
+\PoS vb.
+\cls a
+\gD auflesen
+\Bp 28
+\anm
+\dt
+
+\lm pari_aēš²_
+\Bar pairi-²iš-
+\PoS vb.
+\cls III
+\gD anzünden
+\Bp 31
+\anm
+\dt
+
+\lm pari_bū_
+\Bar pairi-bū-
+\PoS vb.
+\cls a
+\gD sich_bemächtigen,sich_hermachen_über
+\Bp 927
+\anm Vgl. ai. \textit{pári-bhū-} vb. ‘umschließen, umfangen’.
+\dt
+
+\lm pari_yaož_dā_
+\Bar pairi-yaoždā-
+\PoS vb.
+\cls
+\gD rundherum_heil_machen,richtig_bereiten
+\Bp
+\anm
+\dt
+
+\lm pariš_hanāna_
+\Bar pairiš.hanāna-
+\PoS adj.
+\cls a
+\gD ’Name_eines_Feuergerätes‘
+\Bp 867
+\anm Genauere Bedeutung dunkel, vgl. Seite \ref{ft:V14.7a}.
+\dt
+
+\lm pari_harz_
+\Bar *pairi-harz-
+\PoS vb.
+\cls a
+\gD sieben,seihen
+\Bp 1792
+\anm Vgl. ai. \textit{pári-sṛj-} vb. ‘herumströmen lassen’.
+\dt
+
+\lm paru_
+\PoS adj.
+\cls u
+\gD viel
+\dt
+
+\lm pasu_
+\Bar pasu-
+\PoS sn.
+\cls u
+\gD Vieh
+\Bp 879
+\anm Vgl. ai. \textit{paśú-} sm. ‘ds.’.
+\dt
+
+\lm pasca
+\Bar pasca
+\PoS adv.,prp.
+\cls $
+\gD hinten,nach
+\Bp 882
+\anm Vgl. ai. \textit{pascā́} adv. ‘hinten, zurück, später’.
+\dt
+
+\lm pazdu_
+\Bar pazdu-
+\PoS sm.
+\cls u
+\gD Käfer,Made,o.ä.
+\Bp 885
+\anm Vgl. möglicherweise ai. \textit{pedú-} sm.npr..
+\dt
+
+\lm pərənāiiu_
+\PoS adj.
+\cls u
+\gD volljährig,mündig
+\dt
+
+\lm pərəskā_
+\Bar pərəskā-
+\PoS sf.
+\cls ā
+\gD Preis
+\Bp 896
+\anm Vgl. ai. \textit{apratí-} adj., L.sg. \textit{apratā́} ‘gratis’.
+\dt
+
+\lm pəṣ̌u_
+\Bar pəṣ̌u-
+\PoS sm.
+\cls u
+\gD Brücke,Furt
+\Bp 897, 892
+\anm Vgl. \textit{pərətu-} sm. ‘ds.’.
+\dt
+
+\lm puxδa_
+\Bar puxδa-
+\PoS num.o.
+\cls a
+\gD fünftens
+\Bp 908
+\anm Vgl. ai. \textit{pakthá-} adj. ‘ds.’.
+\dt
+
+\lm puθra_
+\Bar puθra-
+\PoS sm.
+\cls a
+\gD Sohn
+\Bp 909
+\anm Vgl. ai. \textit{putrá-} sm. ‘ds.’.
+\dt
+
+\lm fra_iš_
+\PoS vb.
+\cls ?
+\gD schicken
+\dt
+
+\lm fra_grab_
+\PoS vb.
+\cls ?
+\gD ergreifen
+\dt
+
+\lm fraθah_
+\PoS sn.
+\cls s
+\gD Breite
+\dt
+
+\lm fra_daxšanā_
+\Bar fradaxšanā-
+\PoS sf.
+\cls ā
+\gD Schleuder
+\Bp 981
+\anm
+\dt
+
+\lm fra_daxšanya_
+\Bar fradaxṣaniia-
+\PoS adj.
+\cls i̯a
+\gD zur_Schleuder_gehörig;Schleuderstein
+\Bp 981
+\anm → \textit{fradaxšanā-} sf. ‘Schleuder’.
+\dt
+
+\lm fra_bū_
+\Bar fra-bū-
+\PoS vb.
+\cls a
+\gD geschehen,werden_zu
+\Bp 927
+\anm Vgl. ai. \textit{prá-bhū-} vb. ‘hinausreichen, zu Gute kommen,
+preisen’.
+\dt
+
+\lm fra_mar_
+\PoS vb.
+\cls iya
+\gD sterben
+\dt
+
+\lm fra_mru_
+\PoS vb.
+\cls athem
+\gD aufzählen
+\dt
+
+\lm fra_vaxš_
+\PoS vb.
+\cls kaus.
+\gD wachsen
+\dt
+
+\lm fra_varz_
+\PoS vb.
+\cls
+\gD begehen,verbrechen
+\dt
+
+\lm frauuaṣ̌i_
+\PoS sf.
+\cls i
+\gD unsterbliche_Seele
+\dt
+
+\lm fra_rvaēs_
+\Bar fra-uruuis-
+\PoS vb.
+\cls $
+\gD reparieren
+\Bp 1533
+\anm
+\dt
+
+\lm fras_
+\Bar fras-
+\PoS vb.
+\gD fragen
+\Bp 997
+\anm Vgl. ai. \textit{pṛch-} vb. ‘ds.’, 3.sg.ind.prs.act. \textit{pṛccháti}.
+\dt
+
+\lm fra_star_
+\Bar fra-star-
+\PoS vb.
+\cls nā
+\gD ausbreiten,spreiten
+\Bp 1595
+\anm Zu \textit{star-} vb. ‘ausbreiten, streuen’, vgl. ai. \textit{star-} vb.,
+2.pl.ind.prs.act. \textit{stṛṇītá}, 3.sg.cnj.aor.med. \textit{stárate}
+‘ds.’.
+\dt
+
+\lm fra_srū_
+\PoS vb.
+\cls athem
+\gD rezitieren
+\dt
+
+\lm frasrūtay_
+\PoS sf.
+\cls ????
+\gD Rezitation
+\dt
+
+\lm frazā_baoδah_
+\Bar frazā.baoδah-
+\PoS adj.
+\cls s
+\gD das_Wahrnehmungsvermögen_wegnehmend
+\Bp 1005
+\anm Mit \textit{snaθa-} sm. ‘Schlag’ bezeichnet es die vorsätzliche
+Körperverletzung mit tödlichem Ausgang.
+\dt
+
+\lm frād_
+\PoS vb.
+\cls ai̯a
+\gD fördern,frā-dā-?
+\dt
+
+\lm frā̊ṇk_
+\PoS adj.
+\cls ?
+\gD nach_vorne;zer-
+\dt
+
+\lm fšu_
+\Bar fšu-
+\PoS vb.
+\cls
+\gD Vieh_halten
+\Bp 1028
+\anm Vgl. ai. \textit{kṣu-} sn. ‘Vieh, Speise’, ai. \textit{kṣumánt-} adj.
+‘nachrungsreich’. → \textit{vāstriia-}.
+\dt
+
+\lm baēvar_
+\Bar baēuuar-
+\PoS sn.
+\cls r/n
+\gD Zehntausend
+\Bp 913
+\anm
+\dt
+
+\lm baēšaza_
+\PoS adj.
+\cls a
+\gD heiligend
+\dt
+
+\lm baxta_
+\PoS sn.
+\cls a
+\gD Schicksal
+\dt
+
+\lm baṇd_
+\PoS vb.
+\cls o
+\gD verbinden
+\dt
+
+\lm bar_
+\PoS vb.
+\cls a
+\gD bringen
+\dt
+
+\lm barsman_
+\Bar barəsman-
+\PoS sn.
+\cls man
+\gD Zweigbündel
+\Bp 947
+\anm “Der Term. techn. für das Bündeln des \textit{B.}s ist
+¹\textit{star-} ‘sternere’. Dies sowie die Etymologie von 
+ \textit{b°} weisen darauf hin, dass der Gebrauch des \textit{B.}
+sich aus dem ‘Spreiten der Opferstreu’ (ai. \textit{barhíṣaḥ
+stárīmā} entwickelt hat; s. dazu \textsc{Oldenberg} Rel. des Veda
+342.”
+\dt
+
+\lm barziš_
+\Bar barəziš-
+\PoS sn.
+\cls C
+\gD Polster
+\Bp 950
+\anm Vgl. ai. \textit{upabárhaṇa-} sn. ‘Polster’ und ai. \textit{barhís-}
+sn. ‘Opferstreu, auf der die Götter und die Opfernden sitzen und
+auf der die Opfer ausgebreitet sind’.
+\dt
+
+\lm bā
+\PoS part.
+\cls $
+\gD δή
+\dt
+
+\lm bāzu_
+\PoS sm.
+\cls u
+\gD Arm
+\dt
+
+\lm bərəθuuant_
+\PoS adj.
+\cls nt
+\gD tragend
+\dt
+
+\lm bərəzant_
+\PoS adj.
+\cls nt
+\gD groß
+\dt
+
+\lm bərəzaṇt_
+\PoS adj.
+\cls nt
+\gD hoch
+\dt
+
+\lm bitiya_
+\Bar bitiia-
+\PoS num.o.
+\cls iya
+\gD zweiter
+\Bp 963
+\anm Vgl. ai. \textit{dvitī́ya-} adj. ‘zweiter’.
+\dt
+
+\lm bitīm
+\PoS adv.
+\cls $
+\gD das_zweite_Mal
+\dt
+
+\lm biš
+\Bar biš
+\PoS adv.
+\cls $
+\gD zweimal
+\Bp 966, 762
+\anm Vgl. ai. \textit{dvís} adv. ‘ds.’. Zu av. ai. \textit{dva-} num.c.
+‘zwei’.
+\dt
+
+\lm bū_
+\PoS vb.
+\cls a
+\gD werden
+\dt
+
+\lm naēma_
+\Bar naēma-
+\PoS sm._(adj.)
+\cls a
+\gD Hälfte,(halb)
+\Bp 1036
+\anm Vgl. ai. \textit{néma-} prn. ‘ein anderer’ = \textit{ná imá} ‘nicht
+dieser’.
+\dt
+
+\lm namas_
+\PoS sn.
+\cls s
+\gD Verehrung
+\dt
+
+\lm nay_
+\PoS vb.
+\cls a
+\gD führen
+\dt
+
+\lm nava
+\Bar nauua
+\PoS num.c.
+\cls $
+\gD neun
+\Bp 1043
+\anm Vgl. ai. \textit{náva} num.c. ‘ds.’.
+\dt
+
+\lm navati_
+\Bar nauuati-
+\PoS num.c.
+\cls i
+\gD neunzig
+\Bp 1044
+\anm Vgl. ai. \textit{nauuatí-} sf. ‘ds.’.
+\dt
+
+\lm nava_nəmata_
+\Bar nauua.nəmata-
+\PoS adj.
+\gD mit_neun_Reisigwänden
+\Bp 1045, 1068
+\anm Zu \textit{nauua} num.c. ‘neun’ und \textit{nəmata-} sm. ‘Reisig’.
+\dt
+
+\lm nava_hāθra_
+\Bar nauua.hāθra-
+\PoS adj.
+\gD mit_neun_Pferchen
+\Bp 1046, 1802
+\anm Zu \textit{nauua} num.c. ‘neun’ und \textit{hāθra-} sn. ‘Abschnitt,
+Pferche’
+\dt
+
+\lm navəma_
+\Bar nauuəma-
+\PoS num.o.
+\cls ma
+\gD neutner
+\Bp 1045
+\anm Vgl. ai. \textit{navamá-} adj. ‘ds.’.
+\dt
+
+\lm nar_
+\Bar nar-
+\PoS sm.
+\cls Wurzel
+\gD Mann
+\Bp 1047
+\anm Vgl. ai. \textit{nár-} sm., D.pl. \textit{nṛ́bhyaḥ} ‘ds.’.
+\dt
+
+\lm narya_
+\PoS adj.
+\cls i̯a
+\gD männlich
+\dt
+
+\lm naryō_nāman_
+\Bar nairiiō.nāman-
+\PoS adj.
+\gD männlichen_Geschlechts
+\Bp 1054
+\dt
+
+\lm nāman_
+\Bar nāman-
+\PoS sn.
+\cls n
+\gD Name
+\Bp 1062
+\anm Vgl. ai. \textit{nāman-} sn. ‘ds.’.
+\dt
+
+\lm nāvya_
+\Bar nāuuiia-
+\PoS adj.
+\cls a
+\gD strömend
+\Bp 1064
+\anm Vgl. ai. \textit{nāvyā̀-} sf. ‘Strom’. Siehe V 14,16g.
+\dt
+
+\lm nāri_θβana_
+\Bar nāiriθβana-
+\PoS sn.
+\cls a
+\gD Stand_der_Frau,Ehe
+\Bp 1066
+\anm Zu \textit{nāirī-} sf. ‘Frau, Ehefrau’, vgl. ai. \textit{nā́rī-} sf . ‘ds.’.
+\dt
+
+\lm nəmata_
+\PoS sm.
+\cls a
+\gD Reisig
+\dt
+
+\lm nōit̰
+\Bar nōit̰
+\PoS adv.
+\cls $
+\gD nicht,und_nicht
+\dt
+
+\lm ni
+\PoS adv.
+\cls $
+\gD hinunter
+\dt
+
+\lm ni_gan_
+\PoS vb.
+\cls ?
+\gD niederstrecken
+\dt
+
+\lm ni_gam_
+\PoS vb.
+\cls aya
+\gD schwängern
+\dt
+
+\lm nitəma_
+\Bar nitəma-
+\PoS adj.
+\cls ma
+\gD der_unterste
+\Bp 1081
+\anm Zu \textit{nī, ni} adv. ‘herab’, ai. \textit{ni} adv. ‘ds.’.
+\dt
+
+\lm ni_dā_
+\PoS vb.
+\cls wurzel
+\gD ablegen
+\dt
+
+\lm ni_mru_
+\PoS vb.
+\cls athem
+\gD herbeirufen
+\dt
+
+\lm ni_sri_
+\Bar ni-sri-
+\PoS vb.
+\cls nu
+\gD überantworten
+\Bp 1637
+\anm Zu \textit{sri-} vb. ‘lehnen’, vgl. ai. \textit{śri-} vb.,
+3.sg.ind.prs.act. \textit{śráyati} ‘ds.’. %, \textit{ni-śri-}
+3.sg.inj.aor.act. \textit{ní … śret} ‘zu Boden werfen’.
+\dt
+
+\lm ni_zū_
+\PoS vb.
+\cls aya
+\gD anrufen
+\dt
+
+\lm niž_bar_
+\PoS vb.
+\cls a
+\gD herunter_tragen
+\dt
+
+\lm nūram
+\PoS adv.
+\cls $
+\gD jetzt
+\dt
+
+\lm nmāna_
+\Bar nmāna-
+\PoS sn.
+\cls o
+\gD Haus
+\Bp 1090
+\anm
+\dt
+
+\lm maori_
+\Bar maoiri-
+\PoS sm.
+\cls i
+\gD Ameise
+\Bp 1152
+\anm Aus uriir. \textit{*maru̯i-} > \textit{*mau̯ri-}.
+\dt
+
+\lm maińiiauua_
+\PoS adj.
+\cls u̯a
+\gD himmlische
+\dt
+
+\lm maxši_
+\Bar maxšī-
+\PoS sf.
+\cls i
+\gD Fliege
+\Bp 1112
+\anm Vgl. ai. \textit{mákṣikā-} sf. ‘Biene’.
+\dt
+
+\lm maγā_
+\Bar maγā-
+\PoS sf.
+\cls ā
+\gD Loch,Grube
+\Bp 1110
+\anm Auch maskulin.
+\dt
+
+\lm mada_
+\PoS sm.
+\cls a
+\gD Genuss,High
+\dt
+
+\lm maδəma_
+\Bar maδəma-
+\PoS adj.
+\cls ma
+\gD der_mittlere
+\Bp 1114
+\anm Vgl. \textit{maiδiia-}, ai. \textit{mádhya-} adj. ‘ds.’.
+\dt
+
+\lm maδu_
+\Bar maδu-
+\PoS sn.
+\cls u
+\gD (Beeren-)Wein
+\Bp 1114
+\anm Vgl. ai. \textit{mádhu-} sn. ‘ds.’.
+\dt
+
+\lm mat̰
+\PoS adv.
+\cls $
+\gD immer
+\dt
+
+\lm mat̰
+\Bar mat̰
+\PoS prp.
+\cls $
+\gD mit
+\Bp 1119
+\anm Vgl. ai. \textit{smád} adv., prp. mit Inst. ‘zusammen mit’,
+ursprünglich Neutr. von \textit{samá-} prn. ‘irgendeiner, jeder’.
+\dt
+
+\lm manah_
+\PoS sn.
+\cls s
+\gD Geist
+\dt
+
+\lm manyu_
+\Bar mańiiu-
+\PoS sm.
+\cls u
+\gD Meinung;Geist
+\Bp 1136
+\anm Vgl. ai. \textit{manyú-} sm. ‘Geist, Sinn’.
+\dt
+
+\lm marəka_
+\PoS sm.
+\cls a
+\gD Tod
+\dt
+
+\lm marka_
+\PoS sm.
+\cls a
+\gD Tod
+\dt
+
+\lm masah_
+\PoS sn.
+\cls s
+\gD Länge,Größe
+\dt
+
+\lm mazda_yasna_
+\Bar mazdaiiasna-
+\PoS adj.
+\gD der_Religion_Ahura_Mazdas_zugehörig
+\Bp 1160
+\anm
+\dt
+
+\lm mazdā_
+\Bar mazdā-
+\PoS sm.
+\cls Wurzel
+\gD Weisheit
+\Bp 1162
+\anm Mit \textit{ahura-} Name der höchsten Gottheit der
+mazdayasnischen Religion. Vgl. ai. \textit{medhā́-} sf. ‘Weisheit,
+Geisteskraft’.
+\dt
+
+\lm maṣ̌iia_
+\PoS sm.
+\cls a
+\gD Mensch
+\dt
+
+\lm maṣ̌iiāka_
+\PoS sm.
+\cls a
+\gD Mensch
+\dt
+
+\lm māh_
+\PoS sn.
+\cls s
+\gD Mond
+\dt
+
+\lm mąθra_
+\PoS sm.
+\cls o
+\gD Formel,Spruch
+\dt
+
+\lm mərəγa_
+\PoS sm.
+\cls a
+\gD Vogel
+\dt
+
+\lm məṣ̌a_
+\PoS adj.
+\cls a
+\gD sterblich
+\dt
+
+\lm miθβana_
+\Bar miθβana-
+\PoS adj.
+\cls a
+\gD paarweise
+\Bp
+\anm Vgl. ai. \textit{mithuná-} adj. ‘ds.’.
+\dt
+
+\lm Miθra_
+\PoS sm.npr.
+\cls a
+\gD Mitra
+\dt
+
+\lm miθrō_aojah_
+\PoS adj.
+\cls a
+\gD Mitra-lästernd
+\dt
+
+\lm miθrō_zyā_
+\PoS adj.
+\cls wurzel
+\gD Mitra-schädigend
+\dt
+
+\lm mru_
+\Bar mrū-
+\PoS vb.
+\cls athem.
+\gD sagen
+\Bp 1192
+\anm Vgl. ai. \textit{brū-} vb., 3.sg.ind.prs.act. \textit{brávīti} ‘ds.’.
+\dt
+
+\lm ya_
+\Bar ya-
+\PoS prn.
+\cls i̯a
+\gD ’Relativ-_und_Indefinitpronomen‘
+\Bp 1199
+\anm Vgl. ai. \textit{yá-} prn. ‘ds.’.
+\dt
+
+\lm yaoxšti_
+\PoS sf.
+\cls i
+\gD Fertigkeit
+\dt
+
+\lm yaožāna_
+\Bar yaožāna- (?)
+\PoS sm.
+\cls a
+\gD ‘Lederriemen,_der_das_Joch_am_Pflug_befestigt’
+\Bp 159
+\anm Siehe V 14,10f-g. Schmeja 1977
+\dt
+
+\lm yaož_dā_
+\Bar yaoždā-
+\PoS vb.
+\cls athem
+\gD heil_machen,richtig_bereiten
+\Bp 1233
+\anm Aus \textit{*yaoš-} – vgl. ai. \textit{yós-} sn. ‘Heil, Glück’ – und
+ \textit{dā-} vb. ‘setzen; geben’.
+\dt
+
+\lm yaož_dāni_
+\Bar yaoždāni-
+\PoS sm.
+\cls i
+\gD ’Feuergerät,_mit_dem_das_Feuer_in_den_gehörigen_Stand,_d.h._hellen_Brand_gebracht_wird‘
+\Bp 1236
+\anm Zu \textit{yaoždā-} vb. ‘heil machen’. Vgl. \textit{yaoždana-} sn.,
+das in der Pachlavi-Übersetzung als ‘Schermesser’ aufgefasst
+wird.
+\dt
+
+\lm yaθa
+\PoS cnj.
+\cls $
+\gD wie
+\dt
+
+\lm yat̰
+\PoS cnj.
+\cls $
+\gD wenn;als;dass
+\dt
+
+\lm yat̰.cit̰
+\PoS cnj.
+\cls $
+\gD auch_wenn
+\dt
+
+\lm yav_
+\PoS sn.
+\cls athem
+\gD Dauer
+\dt
+
+\lm yauuaētāt_
+\PoS sf.
+\cls t
+\gD Ewigkeit
+\dt
+
+\lm yavant_
+\Bar yauuaṇt-
+\PoS prn.
+\cls nt
+\gD so_groß_wie,so_viel_wie
+\Bp 1268
+\anm Vgl. ai. \textit{yā́vant-} adj. ‘ds.’.
+\dt
+
+\lm yaska_
+\PoS sm.
+\cls a
+\gD Krankheit
+\dt
+
+\lm yasna_
+\PoS sm.
+\cls o
+\gD Opfer;Anbetung
+\dt
+
+\lm yasni_
+\PoS adj.
+\cls i
+\gD opfernd
+\dt
+
+\lm yasńiia_
+\PoS adj.
+\cls a
+\gD opferungswürdig
+\dt
+
+\lm yaz_
+\PoS vb.
+\cls o
+\gD verehren
+\dt
+
+\lm yazata_
+\Bar yazata-
+\PoS adj.
+\cls a
+\gD verehrungswürdig
+\Bp 1279
+\anm Vgl. ai. \textit{yajatá-} adj. ‘ds.’.
+\dt
+
+\lm yātu_
+\PoS sm.
+\cls u
+\gD Zauberer
+\dt
+
+\lm yāvarna_
+\Bar yāuuarəna-
+\PoS sn.
+\cls a
+\gD Stößel
+\Bp 1286
+\anm Zu \textit{yauua-} sm. ‘Getreide’, vgl. \textit{aṣ̌a-} sn.
+‘Gemahlenes’. Siehe V 14,10j.
+\dt
+
+\lm yās_
+\PoS vb.
+\cls a
+\gD verlangen
+\dt
+
+\lm yezi
+\PoS cnj.
+\cls $
+\gD wenn
+\dt
+
+\lm Yima_
+\PoS sm.npr.
+\cls o
+\gD Yima
+\dt
+
+\lm yugō_səmya_
+\Bar *yuγō.səmiiā-
+\PoS sn.
+\cls i̯a
+\gD Jochzapfen
+\Bp 1302
+\anm Siehe V 14,10f-g. Schmeja 1977
+\dt
+
+\lm yūžəm
+\PoS prn.
+\cls $
+\gD ihr
+\dt
+
+\lm vaēna_
+\PoS vb.
+\cls a
+\gD sehen
+\dt
+
+\lm vairiia_
+\PoS adj.
+\cls o
+\gD zu_wählend
+\dt
+
+\lm vak_
+\Bar vak-
+\PoS vb.
+\cls xš
+\gD sagen,nennen
+\Bp 1330
+\anm Vgl. ai. \textit{vac-} vb., 3.sg.ind.prs.act. \textit{vívakti},
+3.sg.ind.aor.act. \textit{ávocat}, 3.sg.ind.perf.act.
+ \textit{vavāca}/\textit{uvā́ca} ‘sprechen, sagen, nennen’.
+\dt
+
+\lm vaxš_
+\PoS vb.
+\cls ?
+\gD wachsen
+\dt
+
+\lm vaγδana_
+\PoS sn.
+\cls a
+\gD Kopf
+\dt
+
+\lm vada_
+\Bar vada-
+\PoS sm.
+\cls a
+\gD Keil_zum_Spalten_von_Holz
+\Bp 1344
+\anm Vgl. ai. \textit{vadhá-} sm. ein Geschoss Indras.
+\dt
+
+\lm vaδi_
+\Bar vaiδi-
+\PoS sf.(?)
+\cls ī/i
+\gD Flusslauf
+\Bp 1344
+\anm Vgl. ai. \textit{ud-} vb, 3.sg.ind.prs.act. \textit{unátti} ‘quellen’.
+\dt
+
+\lm varu_
+\PoS adj.
+\cls u
+\gD weit
+\dt
+
+\lm vard_
+\PoS vb.
+\cls caus.
+\gD wachsen;wachsen_lassen
+\dt
+
+\lm vardva_
+\Bar varəduua-
+\PoS adj.
+\cls u̯a
+\gD weich
+\Bp 1370
+\anm Vgl. ai. \textit{vrad-} vb., 3.pl.ind.impf.med. \textit{ávradanta}
+‘weich werden’.
+\dt
+
+\lm varz_
+\Bar varəz-
+\PoS vb.
+\cls i̯a
+\gD wirken,handeln
+\Bp 1374
+\anm
+\dt
+
+\lm vas_
+\PoS vb.
+\cls athem
+\gD wünschen
+\dt
+
+\lm vaz_
+\Bar vaz-
+\PoS vb.
+\cls o
+\gD fahren,führen
+\Bp
+\anm Vgl. ai. \textit{vah-} vb. ‘ds.’.
+\dt
+
+\lm vazaγa_
+\Bar vazaγa-
+\PoS sm.
+\cls a
+\gD Frosch
+\Bp 1389
+\anm
+\dt
+
+\lm vazya_
+\Bar vaziia-
+\PoS sm.
+\cls ya
+\gD Last
+\Bp 1391
+\anm Zum Verbum \textit{vaz-} ‘fahren, ziehen’. Das von der
+Wortbildung her vergleichbare, aber nur in Komposita belegte ai.
+ \textit{vahyá-} bedeutet dagegen ‘Tragsessel’ (Grassmann 1246).
+\dt
+
+\lm vazra_
+\Bar vazra-
+\PoS sm.
+\cls a
+\gD Keule
+\Bp 1392
+\anm Vgl. ai. \textit{vájra-} sm. ‘Donnerkeil des Indra’.
+\dt
+
+\lm vahišta_
+\PoS adj.
+\cls o
+\gD beste(r/s)
+\dt
+
+\lm vahma_
+\PoS sm.
+\cls a
+\gD Gebet
+\dt
+
+\lm vahmiia_
+\PoS adj.
+\cls i̯a
+\gD besingungswürdig
+\dt
+
+\lm vā
+\PoS part.
+\cls $
+\gD oder
+\dt
+
+\lm vāta_
+\PoS sm.
+\cls a
+\gD Wind
+\dt
+
+\lm vārəγna_
+\PoS sm.
+\cls a
+\gD Falke
+\dt
+
+\lm vāstraya_
+\Bar *vāstraiia-
+\PoS vb.
+\cls XXXI
+\gD Landwirtschaft_betreiben,Futter_geben
+\Bp 1415
+\anm Zu \textit{vāstriia-} adj. ‘landwirtschaftlich’, s.d..
+\dt
+
+\lm vāstrya_
+\Bar vāstriia-
+\PoS adj.
+\cls i̯a
+\gD landwirtschaftlich
+\Bp 1416
+\anm Zu \textit{vāstra-} sn. ‘Weide’, \textit{vāstar-} sm. ‘Hirte’ zu
+ \textit{vah-} vb. ‘weilen’, vgl. ai. \textit{vas-}, Prc.prs.act.n.sg.m.
+ \textit{vásan} ‘ds.’. → \textit{fšu-}.
+\dt
+
+\lm vāṣ̌a_
+\PoS sm.
+\cls a
+\gD Wagen
+\dt
+
+\lm vərəka_
+\PoS sm.
+\cls a
+\gD Wolf
+\dt
+
+\lm vərəθra_
+\PoS sn.
+\cls a
+\gD Angriff;Sieg
+\dt
+
+\lm Vərəθraγna_
+\PoS sm.npr.
+\cls a
+\gD Der_viele_Feinde_erschlägt
+\dt
+
+\lm vərəθrauuan_
+\PoS adj.
+\cls van
+\gD siegreich
+\dt
+
+\lm vərəθrauuant_
+\PoS adj.
+\cls nt
+\gD siegreich
+\dt
+
+\lm vohu_
+\Bar vohu-
+\PoS adj.
+\cls u/i
+\gD gut
+\Bp 1395
+\anm Vgl. ai. \textit{vásu-} adj. ‘ds.’.
+\dt
+
+\lm vohu_kərəti_
+\Bar vohu.kərəti-
+\PoS sf.
+\cls i
+\gD Aloe
+\Bp 1431
+\anm “Die indischen Parsen verstehen das Aloeholz darunter; s. Hᴀᴜɢ
+Essays² 251, Wᴇꜱᴛ SBE. 37. 186.”
+\dt
+
+\lm vohu_gaona_
+\Bar vohu.gaona-
+\PoS sm.
+\cls a
+\gD Benzoe
+\Bp 1432
+\anm “Die indischen Parsen verstehen den Benzoebaum darunter; s.
+Hᴀᴜɢ Essays² 251, Wᴇꜱᴛ SBE. 37. 186.”.
+\dt
+
+\lm vi
+\PoS part.
+\cls $
+\gD hin_und_her
+\dt
+
+\lm vi_
+\PoS vb.
+\cls athem
+\gD stoßen?
+\dt
+
+\lm vi_kan_
+\PoS vb.
+\cls athem
+\gD grabend_zerstören
+\dt
+
+\lm vi_kar_
+\PoS vb.
+\cls athem
+\gD entzweimachen
+\dt
+
+\lm vikərət̰_uštāna_
+\Bar vikərət̰.uštāna-
+\PoS adj.
+\gD die_Lebenskraft_zerstörend
+\Bp 1436
+\anm Zu \textit{vi-kar-} vb. ‘entzweimachen’ und \textit{uštā̆na-}
+sm./sm. ‘Lebenskraft’.
+\dt
+
+\lm vi_kusra_
+\Bar vikusra-
+\PoS adj.
+\cls ra
+\gD sich_außeinander_wölbend
+\Bp 1436
+\anm Vgl. ai. \textit{kóśa-} sm. ‘Behälter, Eingeweide’ zu einer Wurzel
+ \textit{*kuś-} vb. ‘umschließen, umfassen’. Vgl.
+ \textit{haṇkusra-}.
+\dt
+
+\lm viuuaŋhuša_
+\PoS adj.
+\cls i̯a
+\gD Sohn_des_Vivahvant
+\dt
+
+\lm vītāra_
+\Bar vītāra-
+\PoS sm.
+\cls a
+\gD Gang
+\Bp 1441
+\anm Zu \textit{tar-} vb. ‘hinübergelangen’, vgl. ai. \textit{tārá-} sm.
+‘Ufer’.
+\dt
+
+\lm vīmaiδīm
+\PoS adv.
+\cls $
+\gD innen_drin
+\dt
+
+\lm vīra_
+\PoS sm.
+\cls o
+\gD Mann
+\dt
+
+\lm vīs_
+\PoS sf.
+\cls wurzel
+\gD Hof
+\dt
+
+\lm vīspa_
+\Bar vīspa-
+\PoS prn.
+\cls a
+\gD all
+\Bp 1460
+\anm Vgl. ai. \textit{víśva-} prn. ‘jeder, all, ganz’. 
+\dt
+
+\lm Vīštāspa_
+\PoS sm.npr.
+\cls a
+\gD Der_mit_den_scheuen_Pferden
+\dt
+
+\lm vyaŋura_
+\Bar viiaŋura-
+\PoS sm.
+\cls r
+\gD ’Name_eines_Hundeschädlings‘
+\Bp 1476
+\anm Vgl. ai. \textit{vyàṅga-} adj. ‘an den Gliedern entstellt’.
+\dt
+
+\lm viiāxmańiia_
+\PoS vb.
+\cls i̯a
+\gD öffentlich_reden
+\dt
+
+\lm raēθβiš_bajina_
+\Bar raēθβiš.bajina-
+\PoS sn.
+\cls a
+\gD Mischgefäß
+\Bp 1484
+\anm Vgl. ai. \textit{bhājana-} sn. ‘Gefäß’.
+\dt
+
+\lm raēuuaṇt_
+\PoS adj.
+\cls nt
+\gD reich
+\dt
+
+\lm raoxšna_
+\PoS adj.
+\cls a
+\gD hell,licht
+\dt
+
+\lm raoδya_
+\Bar raoδiia-
+\PoS adj.
+\cls a
+\gD urbar_zu_machend
+\Bp 1496
+\anm S. V 14,13a
+\dt
+
+\lm raθa_
+\PoS sm.
+\cls a
+\gD Wagen
+\dt
+
+\lm raθaē_štā_
+\Bar raθaēštā-
+\PoS sm.
+\cls h₂;r
+\gD Krieger
+\Bp 1506
+\anm Vgl. ai. \textit{ratheṣṭhā́-} sm. ‘Wagenkämpfer’. 
+\dt
+
+\lm Raŋhā_
+\PoS sf.
+\cls ā
+\gD Raŋhā-Fluss
+\dt
+
+\lm raii_
+\PoS sm.
+\cls i
+\gD Reichtum
+\dt
+
+\lm rāna_pā_
+\Bar rānapā-/°pan-
+\PoS sm.
+\cls Wurzel
+\gD Beinschützer
+\Bp 1523
+\anm Kellens noms-racines 330ff.
+\dt
+
+\lm riθ_
+\PoS vb.
+\cls med.
+\gD sterben
+\dt
+
+\lm rīmant_
+\Bar irimant-
+\PoS adj.
+\cls nt
+\gD mit_Unrat_gefüllt
+\Bp 1529
+\anm Zu \textit{°ri-} vb. ‘kacken’, vgl. ai. \textit{ri-} vb.,
+3.sg.ind.prs.act. \textit{riṇā́ti} ‘fließen lassen’. Haplologisch aus
+uriir. \textit{*rima-mant-} gekürzt.
+\dt
+
+\lm rud_
+\PoS vb.
+\cls a
+\gD wachsen
+\dt
+
+\lm runya_
+\Bar uruniia-
+\PoS sm.
+\cls a
+\gD Gefäß
+\Bp 1532
+\anm
+\dt
+
+\lm rvan_
+\Bar uruuan-
+\PoS sm.
+\cls u̯an
+\gD Seele
+\Bp 1537
+\anm
+\dt
+
+\lm ᵘruuištra_
+\PoS sn.
+\cls ra
+\gD Unheil,Verderben
+\dt
+
+\lm sanaka_
+\PoS sn.
+\cls a
+\gD Mündung
+\dt
+
+\lm sarəd_
+\Bar sarəd-
+\PoS sf.
+\cls C
+\gD Jahr
+\Bp 1566
+\anm Vgl. ai. \textit{śarád-} sf. ‘Herbst, Jahr’.
+\dt
+
+\lm sādra_
+\PoS sn.
+\cls ra
+\gD Leid,Qual
+\dt
+
+\lm sāra_vāra_
+\Bar sārauuāra-
+\PoS sm.
+\cls a
+\gD Helm
+\Bp 1572
+\anm Zu \textit{sāra-} sm. ‘Kopf’ und \textit{var-} vb. ‘bedecken’, vgl.
+ai. \textit{vṛ-} vb., 1.sg.ind.prs.med. \textit{vṛṇvé} ‘einschließen,
+verhüllen’.
+\dt
+
+\lm sāsta_
+\PoS adj.
+\cls a
+\gD grausam
+\dt
+
+\lm sunī_
+\Bar sunī-
+\PoS sm._(sf.)
+\cls ī
+\gD Hund
+\Bp 792
+\anm Vgl. ai. \textit{sunī́-} sf. ‘Hündin’, av. \textit{span-}, ai.
+ \textit{śván-} sm./sf. ‘Hund’.
+\dt
+
+\lm sūra_
+\PoS adj.
+\cls ra
+\gD stark,gewaltig
+\dt
+
+\lm star_
+\PoS sm.
+\cls Wurzel
+\gD Stern
+\dt
+
+\lm starta_
+\PoS sn.
+\cls a
+\gD (Divan-)Decke
+\dt
+
+\lm stā_
+\PoS vb.
+\cls athem.
+\gD stellen
+\dt
+
+\lm stūra_
+\PoS adj.
+\cls cld
+\gD brutal
+\dt
+
+\lm strī_
+\Bar strī-
+\PoS sf.
+\cls ī
+\gD Frau
+\dt
+
+\lm strī_nāman_
+\Bar strī.nāman-
+\PoS adj.
+\gD weiblichen_Geschlechts
+\Bp 1609
+\anm Vgl. ai. \textit{strīnāman-} adj. ‘einen Frauennamen führend’.
+\dt
+
+\lm spaka_
+\Bar spaka-
+\PoS adj.
+\cls a
+\gD hundeartig
+\Bp 1610
+\dt
+
+\lm span_
+\PoS sm.
+\cls Wurzel
+\gD Hund
+\dt
+
+\lm spas_
+\PoS vb.
+\cls a
+\gD blicken
+\dt
+
+\lm spā_fraθ_
+\Bar spā.fraθ-
+\PoS adj.(?)
+\gD hundebreit
+\Bp 1617
+\anm Zu \textit{span-} sm. ‘Hund’ und \textit{fraθah-} sn. ‘Breite’, vgl.
+ai. \textit{práthas-} sn. ‘Ausdehung’. Siehe V 14,12j. →
+ \textit{spā.bərəz-}.
+\dt
+
+\lm spā_bərəz_
+\Bar spā.bərəz-
+\PoS adj.(?)
+\cls a
+\gD hundegroß
+\Bp 1617
+\anm Zu \textit{span-} sm. ‘Hund’ und \textit{barəz-} adj. ‘groß,
+Berg’, vgl. ai. \textit{bṛhánt-} adj. ‘ds.’.
+\dt
+
+\lm spəṇta_
+\Bar spəṇta-
+\PoS adj.
+\cls cld
+\gD heilvoll
+\Bp 1619
+\anm Vgl. lit. \textit{šveñtas} ajd. und aksl. \textit{svętъ} adj. ‘heilig’.
+\dt
+
+\lm Spitama_
+\PoS adj.npr.
+\cls a
+\gD Spitama
+\dt
+
+\lm spiti_
+\Bar spiti-
+\PoS sm./sf.
+\cls i
+\gD der_Weiße_(Hundeschädling)
+\Bp 1626, (1608)
+\anm Vgl. ai. \textit{śvit-} vb., 3.sg.ind.aor.act. ‘leuchten, strahlen’, ai.
+ \textit{śvitīcí-}, \textit{śvítna-}, \textit{śvitnyà-} adj. ‘hell, licht’.
+\dt
+
+\lm snaθa_
+\Bar snaθa-
+\PoS sm.
+\cls a
+\gD Schlag
+\Bp 1627
+\anm
+\dt
+
+\lm snāvar_bāzura_
+\Bar snāuuarə.bāzura-
+\PoS adj.
+\cls a
+\gD mit_Sehnenarmen
+\Bp 1629
+\anm Vgl. ai. \textit{snā́van-} sn. ‘Sehne, Schnur’ und av.
+ \textit{bāzu-}, ai. \textit{bāhú-} sm. ‘Arm’.
+\dt
+
+\lm Snāuuiδka_
+\PoS sm.npr.
+\cls a
+\gD Snāviδka
+\dt
+
+\lm sraoša_
+\PoS sm.
+\cls a
+\gD Gehör;Gehorsam
+\dt
+
+\lm sraošō_caranā_
+\Bar sraošō.caranā-
+\PoS sf.
+\gD Zuchtriemen
+\Bp 1636
+\anm Zu \textit{sru-} vb. ‘hören’, – vgl. av. \textit{sraoša-}, aksl.
+ \textit{sluxъ} sm. ‘Gehör’ –, und \textit{kar-} vb. ‘machen’.
+\dt
+
+\lm srīra_
+\PoS adj.
+\cls a
+\gD schön
+\dt
+
+\lm srū_
+\PoS sf.
+\cls uh₂
+\gD Horn,Nagel
+\dt
+
+\lm srva_
+\PoS sn.
+\cls a
+\gD Blei
+\dt
+
+\lm zaēnuš_
+\Bar *zaēnuš-
+\PoS sn.
+\cls u
+\gD Wehrgehänge
+\Bp 1651
+\anm de Vaan 
+\dt 
+
+
+\lm zaoθra_
+\PoS sn.
+\cls a
+\gD Opfertrank,Gießopfer
+\dt
+
+\lm zaoθrā_
+\Bar zaoθrā-
+\PoS sf.
+\cls ā
+\gD Trankopfer,Gießopfer
+\Bp 1654
+\anm Vgl. av. \textit{zaotar-} und ai. \textit{hótar-} sm. ‘Priester’ zu ai.
+ \textit{hu-} vb., 3.sg.ind.prs.act. \textit{juhóti} ‘gießen’.
+\dt
+
+\lm zaoša_
+\PoS sm.
+\cls a
+\gD Gefallen
+\dt
+
+\lm zafar_
+\PoS sn.
+\cls r/n
+\gD Maul
+\dt
+
+\lm zana_
+\PoS sm.
+\cls a
+\gD Geschlecht
+\dt
+
+\lm zam_
+\Bar zam-
+\PoS sf.
+\cls wurzel
+\gD Erde
+\Bp 1662
+\anm Vgl. ai. \textit{kṣám-} sf., Abl.sg. \textit{kṣmáḥ} ‘ds.’.
+\dt
+
+\lm zamar
+\PoS adv.
+\cls ar
+\gD in_die_Erde
+\dt
+
+\lm zaya_
+\Bar zaiia-
+\PoS sm.
+\cls a
+\gD Gerät,Ausrüstungsgegenstand
+\Bp 1666
+\anm Vgl. \textit{haēna-} sm. ‘Waffe’, vgl. ai. \textit{hetí-} sf. ‘ds.’.
+\dt
+
+\lm zaiian_
+\PoS adj.
+\cls cld?
+\gD bewaffnet
+\dt
+
+\lm Zaraθuštra_
+\Bar Zaraθuštra-
+\PoS sm.npr.
+\cls o
+\gD Zarathustra
+\Bp 1670
+\anm Prophet der mazdayasnischen Religion.
+\dt
+
+\lm zaranya_
+\Bar zaraniia-
+\PoS adj._(sn.)
+\cls i̯a
+\gD golden,Gold
+\Bp 1678
+\anm Vgl. ai. \textit{híraṇya-} adj./sn. ‘ds.’.
+\dt
+
+\lm zari_
+\PoS adj.
+\cls i
+\gD gelb,gold
+\dt
+
+\lm zasta_
+\PoS sm.
+\cls o
+\gD Hand
+\dt
+
+\lm zū_
+\PoS vb.
+\cls ?
+\gD anrufen
+\dt
+
+\lm zgərəsna_
+\PoS adj.
+\cls a
+\gD rund
+\dt
+
+\lm zgərəsnō_vaγδana_
+\Bar zgərəsnō.vaγδana-
+\PoS adj.
+\gD rundköpfig
+\Bp 1698
+\anm Zu \textit{zgərəsna-} adj. ‘rund’ und \textit{vaγδana-} sn. ‘Kopf,
+Haupt’.
+\dt
+
+\lm zraiiah_
+\PoS sn.
+\cls s
+\gD Meer
+\dt
+
+\lm zrazdā_
+\PoS adj.
+\cls Wurzel
+\gD gläubig
+\dt
+
+\lm zrāδa_
+\Bar zrāδa-
+\PoS sm.
+\cls a
+\gD Panzer
+\Bp 1703
+\anm
+\dt
+
+\lm š́iiaoθna_
+\PoS sn.
+\cls o
+\gD Handlung
+\dt
+
+\lm š́iiu_
+\PoS vb.
+\cls
+\gD sich_in_Bewegung_setzen
+\dt
+
+\lm haēnā_
+\PoS sf.
+\cls ā
+\gD Heer
+\dt
+
+\lm haomavant_
+\Bar haomauuaṇt-
+\PoS adj.
+\cls vant
+\gD Soma-,somahaltig
+\Bp 1735
+\anm Vgl. ai. \textit{sómavant-} adj. ‘ds.’.
+\dt
+
+\lm haomya_
+\Bar haomiia-
+\PoS adj.
+\cls a
+\gD Zum_Haoma_gehörig
+\Bp 1736
+\anm Vgl. ai. \textit{somyá-} adj. ‘ds.’.
+\dt
+
+\lm haōma_
+\PoS sm.
+\cls a
+\gD Soma
+\dt
+
+\lm hakərət̰
+\Bar hakərət̰
+\PoS adv.
+\cls $
+\gD einmal
+\Bp 1742
+\anm Vgl. ai. \textit{sakṛ́t} adv. ‘ds.’.
+\dt
+
+\lm haca
+\PoS adv.
+\cls $
+\gD mit;von
+\dt
+
+\lm haθya_
+\Bar haiθiia-
+\PoS adj.
+\cls i̯a
+\gD wahr,recht
+\Bp 1760
+\anm Vgl. ai. \textit{satyá-} adj. ‘ds.’.
+\dt
+
+\lm haδānaēpātā_
+\Bar haδānaēpā̆tā-
+\PoS sf.
+\cls ā
+\gD Granatapfelbaum
+\Bp 1758
+\anm “Die indischen Parsen verstehen den Granatapfelbaum darunter,
+vgl. Haug Essays² 251, 399, West SBE. 37. 186.”
+\dt
+
+\lm hapta̍
+\Bar hapta
+\PoS num.c.
+\cls $
+\gD sieben
+\Bp 1765
+\anm Vgl. ai. \textit{saptá} num.c. ‘ds.’.
+\dt
+
+\lm haptaθa_
+\Bar haptaθa-
+\PoS num.o.
+\cls a
+\gD siebter
+\Bp 1765
+\anm Vgl. ai. \textit{saptátha-} adj. ‘ds.’.
+\dt
+
+\lm haṇ_kusra_
+\Bar haṇkusra-
+\PoS adj.
+\cls ra
+\gD sich_zusammen_wölbend
+\Bp 1770
+\anm Vgl. ai. \textit{kóśa-} sm. ‘Behälter’ zu einer Wurzel
+ \textit{*kuś-} vb. ‘umschließen, umfassen’. Vgl. \textit{vikusra-}.
+\dt
+
+\lm haṇ_grab_
+\PoS vb.
+\cls
+\gD ergreifen
+\dt
+
+\lm hay_
+\Bar ha-, hi-
+\PoS prn.
+\cls ?
+\gD ’Enklit.Pron._der_3._Person‘
+\Bp 1778
+\anm
+\dt
+
+\lm havana_
+\Bar hauuana-
+\PoS sm.
+\cls a.
+\gD Auspresser,Kelterer
+\Bp 1786
+\anm Zu \textit{hau-} vb. ‘auspressen’ , vgl. ai. \textit{sávaṇa-} adj.
+‘Somasaft’.
+\dt
+
+\lm harəθra_
+\Bar harəθra-
+\PoS sn.
+\cls a
+\gD Pflege
+\Bp 1790
+\anm Vgl. \textit{harətar-} sm. ‘Wächter’, \textit{har-} vb. ‘wachen,
+behüten’.
+\dt
+
+\lm harz_
+\PoS vb.
+\cls a
+\gD entlassen,entsenden
+\dt
+
+\lm hazaɧra_
+\Bar hazaŋra-
+\PoS num.c.
+\cls ra
+\gD tausend
+\Bp 1796
+\anm Vgl. ved. \textit{sahásra-} sn. ‘tausend’.
+\dt
+
+\lm hāθra_
+\PoS sn.
+\cls a
+\gD Abteil,Länge
+\dt
+
+\lm hāvana_
+\Bar hāuuana-
+\PoS sm.
+\cls a
+\gD Kelterpresse
+\Bp 1804
+\anm Bezeichnet laut \Barth 1805 eine Wein- oder Obstpresse und nicht
+die Somapresse.
+\dt
+
+\lm hąm_bū_
+\Bar hąm-bū-
+\PoS vb.
+\cls II
+\gD geboren_werden,entstehen
+\Bp
+\anm
+\dt
+
+\lm hąm_rāθ_
+\Bar hąm-rāθ-
+\PoS vb.
+\cls athem
+\gD vermischen’,eig._‘zusammen_haften
+\Bp 1521
+\anm
+\dt
+
+\lm hąm_risti_
+\Bar hąm.iristi-
+\PoS sf.
+\cls i
+\gD Gemisch
+\Bp 1811
+\anm Zu \textit{rāθ-} vb. ‘haften’. “Man verlangte \textit{°riθ°}, mit
+ \textit{i} aus idg. \textit{ə}; vgl. zum \textit{a} Bᴛʜʟ. ZDMG. 50.
+675.”
+\dt
+
+\lm hikarana_
+\Bar hikarana-
+\PoS adj.
+\cls a
+\gD rund,bauschig
+\Bp 1812
+\anm
+\dt
+
+\lm hiṇdu_
+\PoS sm.
+\cls u
+\gD Hindu,Indien
+\dt
+
+\lm hizuuā_
+\PoS sf.
+\cls ā
+\gD Zunge;Sprache
+\dt
+
+\lm hu_kərəta_
+\PoS adj.
+\cls o
+\gD wohlgeformt
+\dt
+
+\lm hu_xšaθra_
+\PoS adj.
+\cls ra
+\gD gut_herrschend
+\dt
+
+\lm hu_baoδi_
+\Bar hubaoiδi-
+\PoS adj.
+\cls i
+\gD wohlriechend
+\Bp 1828
+\anm Zu \textit{baoδi-} sf. ‘Wohlgeruch’, vgl. ai. \textit{bódhi-} sf. ‘?’.
+\dt
+
+\lm hurā_
+\Bar hurā-
+\PoS sf.
+\cls ā
+\gD Milchwein
+\Bp 1837
+\anm Vgl. ai. \textit{súrā-} sf. ‘berauschender Trank’.
+\dt
+
+\lm huš_
+\Bar huš-
+\PoS vb.
+\cls II
+\gD trocknen
+\Bp 1738
+\anm Vgl. avest. \textit{huška-} adj. ‘trocken’, ai. \textit{śúṣka-} ‘ds.’
+???
+\dt
+
+\lm hušata_
+\Bar hušata-
+\PoS adj.
+\cls ta
+\gD getrocknet
+\Bp 1839
+\anm Vgl. 
+\dt
+
+\lm huuar_
+\PoS sn.
+\cls r/n
+\gD Sonne
+\dt
+
+\lm huuarəšta_
+\PoS adj.
+\cls o
+\gD gut_gemacht
+\dt
+
+\lm $
+\PoS $
+\cls $
+\gD $
+\dt

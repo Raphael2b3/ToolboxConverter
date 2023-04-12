@@ -1,0 +1,101 @@
+\_sh v3.0  400  Text
+
+\id Aog
+\ref Aog_26
+\tx zastaēibiia   vərəze      huuarəštəm   š́iiaoθnəm
+\std za̍staēibiia vərəze      hu̍uarəštəm š́iiaoθnə̍m
+\mrph i.du.          2.sg.imp.act. a.sg.m.         a.sg.
+\cls o              i̯a          o               o
+\lm zasta_         varz_         huuarəšta_    š́iiaoθna_
+\PoS sm.            vb.           adj.            sn.
+\gD Hand           tun           gut_gemacht     Handlung
+
+\trans
+
+\id G
+\ref G04_5
+\tx θβąm ātrəm ahurahe   mazdā̊   puθrəm   yazamaide
+\std θβąm ātrəm a̍hurahe mazdā̊̍ puθrə̍m ya̍zamaide
+\mrph a.sg.   a.sg.   g.sg.     g.sg.      a.sg.      1.pl.prs.med.
+\cls pers.   r       o         Wurzel     a          o
+\lm tūm    ātr_   ahura_    mazdā_    puθra_    yaz_
+\PoS prn.    sm.     sm.       sm.        sm.        vb.
+\gD du      Feuer   Herr      Mazdā     Sohn       verehren
+
+\trans
+
+\id H
+\ref H02_25
+\tx vātō   dužgaiṇtiš dužgaiṇtitarō ańiiaēibiiō   vātaēibiiō
+\std vā̍tō dužgaiṇtiš dužgaiṇtitarō ańiia̍ēibiiō vā̍taēibiiō
+\mrph n.sg.    n.sg.m.        n.sg.m.cmp.       ab.pl.m.         ab.pl.
+\cls a        i              i                 i̯a             a
+\lm vāta_   dužgaṇti_   dužgaṇti_      ańiia_          vāta_
+\PoS sm.      adj.           adj.              prn.             sm.
+\gD Wind     übelriechend  übelriechend     ander            Wind
+
+\trans Der stinkende Wind stinkt mehr als die anderen Winde
+
+\id Ny
+\ref Ny01_05
+\tx nəmō    ahurāi   mazdāi
+\std nə̍mō  a̍hurāi mazdā̍i
+\mrph a.sg.     d.sg.     d.sg.
+\cls s         o         Wurzel
+\lm namas_    ahura_    mazdā_
+\PoS sn.       sm.       sm.
+\gD Verehrung Herr      Mazdā
+
+\tx nəmō    aməṣ̌aēibiiō        spəṇtaēibiiō
+\std nə̍mō  a_    mə̍ṣ̌aēibiiō spəṇta̍ēibiiō
+\mrph a.sg.     $     d.pl.m.            d.pl.m.
+\cls s         $     a                  cld
+\lm namas_    a_    məṣ̌a_          spəṇta_
+\PoS sn.       part. adj.               adj.
+\gD Verehrung un-   sterblich          heilvoll
+
+\tx nəmō    miθrāi   vouru.gaōiiaōtə̄e
+\std nə̍mō  Miθrā̍i vouru̍_gaōiiaōtə̄e
+\mrph a.sg.     d.sg.      d.sg.m.
+\cls s         a          u     i          a
+\lm namas_    Miθra_    varu_ gaoiiaoti_ ∅
+\PoS sn.       sm.npr.    adj.  sf.        adj.
+\gD Verehrung Mitra      weit  Weideland  Bahuvrihi
+
+\tx nəmō    huuarəxšaētāi     auruuat̰.aspāi
+\std nə̍mō  huuarə_xšaētāi    a̍uruuat̰_aspāi
+\mrph a.sg.     d.sg.m.               d.sg.m.
+\cls s         r/n    a              nt       a     a
+\lm namas_    huuar_ xšaēta_      aruuant_ aspa_ ∅
+\PoS sn.       sn.    adj.           adj.     sm.   adj.
+\gD Verehrung Sonne  hell,strahlend schnell  Pferd Bahuvrihi
+
+\tx nəmō    ˣābiia ˣdōiθrābiia yā             ahurahe   mazdā̊
+\std nə̍mō  ābiia̍ dōiθrābiia   yā             a̍hurahe mazdā̊̍
+\mrph a.sg.     d.du.f.  d.du.-f.        n.du.n.         g.sg.     g.sg.
+\cls s         ?        ra              o               o         Wurzel
+\lm namas_    imat̰   dōiθra_       ya_             ahura_    mazdā_
+\PoS sn.       prn.     sn.             prn.            sm.       sm.
+\gD Verehrung dieser   Auge            Relativpronomen Herr      Mazdā
+
+\tx nəmō    zaraθuštrahe spitāmahe frauuaṣ̌ə̄e
+\std nə̍mō  Zaraθuštrahe Spitamahe  fra̍uuaṣ̌ə̄e
+\mrph a.sg.     g.sg.          g.sg.      d.sg.
+\cls s         o              a          i
+\lm namas_    Zaraθuštra_  Spitama_   frauuaṣ̌i_
+\PoS sn.       sm.npr.        adj.npr.   sf.
+\gD Verehrung Zarathustra    Spitama    unsterbliche_Seele
+
+\trans
+
+\id P
+\ref P06
+\tx vəhrkāi    hizuuąm   daδāiti     yō             azrazdāi        mąθrəm     ciste
+\std və̍rəkāi hizuuą̍m da̍δāiti   yō             a_    zrazdā̍i mą̍θrəm   ciste̍
+\mrph d.sg.        a.sg.      3.sg.prs.act. n.sg.m.         $     d.sg.m.    a.sg.         3.sg.prs.med.
+\cls a            ā         athem         o               $     Wurzel     o             athem
+\lm vərəka_    hizuuā_   dā_          ya_             a_    zrazdā_   mąθra_      kaēθ_
+\PoS sm.          sf.        vb.           prn.            part. adj.       sm.           vb.
+\gD Wolf         Zunge      geben         Relativpronomen un-   gläubig   Formel,Spruch lehren
+
+\trans Dem Wolf schenkt seine Zunge, wer den Ungläubigen das heilige Wort lehrt

@@ -1,0 +1,286 @@
+\_sh v3.0  400  Text
+
+\id V02
+\ref V02_03
+\tx āat̰    hē       mraom              zaraθuštra  azəm   yō             ahurō   mazdā̊
+\std ā̍at̰  hē       mraom              Zaraθuštra  azə̍m yō             a̍hurō mazdā̊̍
+\mrph $         d.sg.m.   1.sg.inj.impf.act. v.sg.         n.sg.   n.sg.m.         n.sg.    n.sg.
+\lm āat̰    hay_      mru_               Zaraθuštra_ azəm   ya_             ahura_   mazdā_
+\PoS adv.      prn.      vb.                sm.npr.       prn.    prn.            sm.      sm.
+\gD dann,also er,sie,es sagen              Zarathustra   ich     Relativpronomen Herr     Mazdā
+\cls $         ?         athem.             o             pers.   o               o        Wurzel
+\trans Also sprach ich, der ich Ahura Mazdā bin, zu ihm.
+
+\ref V02_05
+\tx āat̰    mē   mraot̰            yimō   srīrō
+\std ā̍at̰  mē   mraot̰            Yimō̍ srīrō̍
+\mrph $         d.sg. 3.sg.inj.impf.act. n.sg.   n.sg.m.
+\cls $         pers. athem.             o       a
+\lm āat̰    azəm mru_               Yima_   srīra_
+\PoS adv.      prn.  vb.                sm.npr. adj.
+\gD dann,also ich   sagen              Yima    schön
+
+\tx zaraθuštra  azəm   tē         gaēθā̊   frāδaiiemi
+\std Zaraθuštra  azə̍m tē         ga̍ēθā̊ frāδaiiemi
+\mrph v.sg.         n.sg.   n.pl.m.     n.pl.        1.sg.ind.prs.act.
+\cls o             pers.   a           ā           ai̯a
+\lm Zaraθuštra_ azəm   ta_         gaēθā_    frād_
+\PoS sm.npr.       prn.    prn.        sf.          vb.
+\gD Zarathustra   ich     der,die,das Lebewesen    fördern,frā-dā-?
+
+\tx azəm   tē         gaēθā̊   varəδaiiemi     
+\std azə̍m tē         ga̍ēθā̊ varəδa̍iiemi   
+\mrph n.sg.   n.pl.m.     n.pl.        1.sg.ind.prs.act. 
+\cls pers.   a           ā           caus.             
+\lm azəm   ta_         gaēθā_    vard_             
+\PoS prn.    prn.        sf.          vb.               
+\gD ich     der,die,das Lebewesen    wachsen_lassen
+
+\tx nōit̰ mana   xšaθre   bauuat̰          aotō   vātō   nōit̰ garəmō
+\std nōit̰ ma̍na xšaθre̍ ba̍uuat̰        aotō   vā̍tō nōit̰ garəmō̍
+\mrph $       g.sg.  l.sg.      3.sg.inj.prs.act. n.sg.m. n.sg.    $       n.sg.m.
+\cls $       pers.  o          a                 o       a        $       o
+\lm nōit̰ azəm  xšaθra_  bū_              aota_   vāta_   nōit̰ garəma_
+\PoS part.   prn.   sn.        vb.               adj.    sm.      part.   adj.
+\gD neĩ    ich    Herrschaft werden            kalt    Wind     neĩ    heiß
+
+\tx nōit̰ axtiš    nōit̰ mahrkō
+\std nōit̰ axtiš    nōit̰ ma̍rəkō
+\mrph $       n.sg.     $       n.sg.
+\cls $       i         $       a
+\lm nōit̰ axti_     nōit̰ marəka_
+\PoS part.   sm.       part.   sm.
+\gD neĩ    Krankheit neĩ    Tod
+
+\trans Also sagte mir der schöne Yima, 
+Zarathustra, ich fördere deine Lebewesen, 
+ich vermehre deine Lebewesen … 
+unter meiner Herrschaft gab es nicht kalten Wind, nicht warmen Wind, 
+nicht Krankheit und nicht Tod
+
+\id V03
+\ref V03_13
+\tx yat̰ bā   paiti   fraēštəm   daxma          uzdaēza       vīkaṇti
+\std yat̰ bā   paiti̍ fraē̍štəm daxma          uzdaēza       vi_kaṇti
+\mrph $     $     $       a.sg.n.sup.   a.pl.          a.pl.m.-n.     3.sg.ind.prs.
+\lm yat̰ bā   paiti   paru_         daxma_         uzdaēza_      vi_kan_
+\PoS cnj.  part. prp.    adj.          sm.            adj.           vb.
+\gD wenn  δή gegen   viel          Leichenstätte aufgeschüttet grabend_zerstören
+\cls $     $     $       u             a              a              athem
+
+\tx yam̨iia              narō   irista                  niδaiieiṇte
+\std yahmi           _ā   na̍rō irista                  ni_δaiieiṇte
+\mrph l.sg.n.         l.sg. n.pl.   prc.prt.pass.n.pl.m.-n. 3.pl.ind.prs.med.
+\lm ya_             _ā   nar_    riθ_                   ni_dā_
+\PoS prn.            prp.  sm.     vb.                     vb.
+\gD Relativpronomen l.sg. Mann    sterben                 ablegen
+\cls o               $     Wurzel  med.                    wurzel
+
+\ref V03_21
+\tx yezica     hē       ańiia     aγa       š́iiaōθna  frauuaršta
+\std yezi _ca   hē       ańiia̍   aga̍      š́iiaoθna̍ fra̍_varšta
+\mrph $    $     d.sg.m.   n.pl.m.-n. n.pl.m.-n. n.pl.          prc.prt.pass.n.pl.n.
+\lm yezi _ca   hay_      ańiia_    aga_       š́iiaoθna_  fra_varz_
+\PoS cnj. part. prn.      prn.       adj.       sn.            vb.
+\gD wenn und   er,sie,es ander      schlecht   Handlung       begehen,verbrechen
+\cls $    $     ?         i̯a       a          o              ***
+
+\tx paitita            hē       ciθa
+\std paitita            hē       ciθa
+\mrph prc.prt.pass.n.sg.fd.sg.m.   n.sg.
+\lm pati_i_            hay_      ciθā_
+\PoS vb.                prn.      sf.
+\gD begleichen         er,sie,es Strafe
+\cls athem              ?         ā
+
+\trans Und wenn er andere Übeltaten begangen hat, ist seine Strafe beglichen.
+
+\tx āat̰    yezi.šē      ańiia     aγa       š́iiaōθna  nōit̰ frauuaršta
+\std ā̍at̰  yezi ̆šē    ańiia̍   aga̍      š́iiaoθna̍ nōit̰ fra̍_varšta
+\mrph $         $    d.sg.m.   n.pl.m.-n. n.pl.m.-n. n.pl.          $       prc.prt.pass.n.pl.n.
+\lm āat̰    yezi hay_      ańiia_    aga_       š́iiaoθna_  nōit̰ fra_varz_
+\PoS adv.      cnj. prn.      prn.       adj.       sn.            part.   vb.
+\gD dann,also wenn er,sie,es ander      schlecht   Handlung       neĩ    begehen,verbrechen
+\cls $         $    ?         i̯a       a          o              $       ***
+
+\tx paititəm            ahe     narš  yauuaēca     yauuaētātaēca
+\std paititəm            ahe̍   narš  yauuaē _ca   yauuaētātaē _ca
+\mrph prc.prt.pass.n.sg.n. g.sg.m. g.sg.  d.sg.   $     d.sg.          $
+\lm pati_i_              imat̰  nar_   yav_    _ca   yauuaētāt_   _ca
+\PoS vb.                  prn.    sm.    sn.     part. sf.            part.
+\gD begleichen           dieser  Mann   Dauer   und   Ewigkeit       und
+\cls athem                ?       Wurzel athem   $     t              $
+
+\trans Und wenn er also keine andere Übeltaten begangen hat, ist die Begleichung dieses Mannes für immer und ewig.
+
+\ref V03_33
+\tx xᵛāṣ̌aiia   vīspā̊   gaēθā̊   juuaiṇti    axᵛāṣ̌e       framiriieiṇti
+\std xᵛā̍ṣ̌aiia vī̍spā̊ ga̍ēθā̊ juuaiṇti    a_    xᵛāṣ̌e  fra_miriie̍iṇti
+\mrph l.sg.            n.pl.f.     n.pl.        3.pl.prs.act. $     l.sg.        3.pl.prs.act.
+\cls a                a           ā           o             $     a            iya
+\lm xᵛāṣ̌a_     vīspa_     gaēθā_    ji_           a_    xᵛāṣ̌a_ fra_mar_
+\PoS sn.              adj.        sf.          vb.           part. sn.          vb.
+\gD Essen            all         Lebewesen    leben         un-   Essen        sterben
+
+\trans Im Essen leben alle Lebewesen, im Fasten sterben sie.
+
+\id V05
+\ref V05_19
+\tx aθra   uruuarā̊   raoδəṇti   vīspā̊
+\std a̍θra uruua̍rā̊ ra̍oδəṇti vī̍spā̊
+\mrph $       n.pl.        3.sg.prs.act.  n.pl.f.
+\cls $       ā           a              a
+\lm aθra   uruuarā_    raoδ_         vīspa_
+\PoS adv.    sf.          vb.            adj.
+\gD hier    Pflanze      wachsen        all
+
+\trans hier wachsen alle Pflanzen
+
+\ref V05_19
+\tx aθra   mē   uruuarā̊   raoδəṇti   vīspā̊
+\std a̍θra mē   uruua̍rā̊ ra̍oδəṇti vī̍spā̊
+\mrph $       d.sg. n.pl.        3.sg.prs.act.  n.pl.f.
+\lm aθra   azəm uruuarā_    rud_           vīspa_
+\PoS adv.    prn.  sf.          vb.            adj.
+\gD hier    ich   Pflanze      wachsen        all
+\cls $       pers. ā           a              a
+
+\trans hier wachsen alle meine Pflanzen
+
+\id V16
+\ref V16_11
+\tx āat̰   hē       paitiiārəm   auuabarəṇti    daēuua   daēuuanąm   yasnāica       vahmāica
+\std āat̰   hē       paitiiārə̍m a̍uua_barəṇti da̍ēuua da̍ēuuanąm yasnā̍i _ca   vahmāi _ca
+\mrph $        d.sg.f.   a.sg.          3.pl.prs.act.     n.pl.-n.  g.pl.         d.sg.     $     d.sg.   $
+\cls $        ?         a              a                 o         o             o         $     a       $
+\lm āat̰   hay_      paitiiāra_    auua_bar_         daēuua_  daēuua_      yasna_    _ca   vahma_  _ca
+\PoS part.    prn.      sm.            vb.               sm.       sm.           sm.       part. sm.     part.
+\gD nun,also er,sie,es Feindseligkeit herabbringen      Dämon    Dämon        Opfer     und   Gebet   und
+
+\trans nun fügen ihr die Dämonen ein Unglück zur Verehrung und zum Preis der Dämonen zu
+
+\id V18
+\ref V18_12
+\tx spəṇtō   maińiiuš hazaŋrō.aspąm haēnąm azaiti daēuuaiasną auui maṣ̌iią
+\std spəṇtō̍
+\mrph n.sg.m.
+\cls a
+\lm spəṇta_
+\PoS adj.
+\gD heilvoll
+
+\trans
+
+\id V20
+\ref V20_10
+\tx paiti.pərəne     vīspəm   yaskəmca       mahrkəmca
+\std paiti_pərəne     vī̍spəm yaskəm   _ca   ma̍hrkəm _ca
+\mrph 1.sg.ind.pres.med. a.sg.m.    a.sg.     $     a.sg.      $
+\cls ***                a          a         $     a          $
+\lm paiti_par_         vīspa_    yaska_    _ca   marka_     _ca
+\PoS vb.                adj.       sm.       part. sm.        part.
+\gD kämpfen_gegen     all        Krankheit und   Tod        und
+
+\tx vīspe    yātauuō   pairikā̊sca
+\std vī̍spe  yāta̍uuō pairikā̊s _ca
+\mrph n-a.pl.m. a.pl.       a.pl.       $
+\cls a         u           ā          $
+\lm vīspa_   yātu_      pairikā_   _ca
+\PoS adj.      sm.         sf.         part.
+\gD all       Zauberer    Zauberin    und
+
+\tx vīspā̊   ⁺janaiiō yā̊           druuaitīš
+\std vī̍spā̊ ja̍naiiō  yā             druuaitīš
+\mrph a.pl.f.     a.pl.       n.pl.f.         n.sg.f.
+\cls a           i           o               nt
+\lm vīspa_     jani_       ya_             drəguuaṇt_
+\PoS adj.        sf.         prn.            adj.
+\gD all         Frau        Relativpronomen trügerisch
+
+\trans Ich stelle mich gegen alle Krankheit und Tod, und gegen alle Zauberer und alle Hexen, alle Frauen, die trügerisch sind
+
+\id V_13_51
+\ref V_13_51.a
+\tx āat̰    . mraot̰           . ahurō   . mazdā̊   :
+\std ā̍at̰  $ mraot̰           $ a̍hurō $ mazdā̊̍ $
+\mrph $         $ 3.sg.inj.prs.act. $ n.sg.    $ n.sg.      $
+\cls $         $ I                 $ a        $ Wurzel     $
+\lm āat̰    $ mru_              $ ahura_   $ mazdā_    $
+\PoS adv.      $ vb.               $ sm.      $ sm.        $
+\gD dann,also $ sagen             $ Gott     $ Weisheit   $
+
+\trans
+\ref V_13_51.b
+\tx xā̊  . paiti     . apąm   . parāiti          .
+\std xā̊  $ paⁱti̍ $ apą̍m $ pa̍ra_aēⁱti   $
+\mrph a.pl.  $ $         $ g.pl.   $ 3.sg.ind.prs.act. $
+\cls Wurzel $ $         $ Wurzel  $ I                 $
+\lm xā_   $ pati      $ ap_     $ para_i_           $
+\PoS sf.    $ prp.      $ sf.     $ vb.               $
+\gD Quelle $ gegen     $ Wasser  $ weggehen          $
+\trans
+\ref V_13_51.c
+\tx spitama  . zaraθuštra  .
+\std Spitama  $ Zaraθuštra  $
+\mrph v.sg.    $ v.sg.         $
+\cls a        $ a             $
+\lm Spitama_ $ Zaraθuštra_ $
+\PoS adj.npr. $ sm.npr.       $
+\gD Spitama  $ Zarathustra   $
+\trans
+\ref V_13_51.d
+\tx aθra   . ā̊ŋhąm  . hąm.bauuaiṇti         .
+\std a̍θra $ ā̊ɧą̍m $ hąm_bavaⁱṇti        $
+\mrph $       $ g.pl.f.     $ 3.pl.ind.prs.act.        $
+\cls $       $ $           $ II                       $
+\lm aθra   $ imat̰      $ hąm_bū_                $
+\PoS adv.    $ prn.        $ vb.                      $
+\gD hier    $ dieser_hier $ geboren_werden,entstehen $
+\trans
+\ref V_13_51.e
+\tx duua    . udra   . upāpa                   .
+\std dua̍   $ udra̍ $ upāpa                   $
+\mrph n.du.m. $ n.du.  $ n.du.m.                  $
+\cls a       $ a      $ a                        $
+\lm dva_    $ udra_  $ upāpa_                  $
+\PoS num.c.  $ sm.    $ adj.                     $
+\gD zwei    $ Otter  $ im_Wasser_[lebend,_etc.] $
+\trans
+\ref V_13_51.f
+\tx hazaŋrāiš   . sūnīš  . strī.nāmanō         .
+\std haza̍ɧrāiš $ sunī̍š $ strī_nāmanō         $
+\mrph n.pl.-d.pl.    $ n.pl.     $ n.pl.m.                $
+\cls ra             $ ī        $ n                      $
+\lm hazaɧra_      $ sunī_    $ strī_nāman_          $
+\PoS num.c.         $ sm._(sf.) $ adj.                   $
+\gD tausend        $ Hund      $ weiblichen_Geschlechts $
+
+\ref V_13_51.g
+\tx hazaŋrāiš   . sūnīš  . nairiiō.nāmanō       .
+\std haza̍ɧrāiš $ sunī̍š $ naⁱryō_nāmanō      $
+\mrph n.pl.-d.pl.    $ n.pl.     $ n.pl.m.                 $
+\cls ra             $ ī        $ n                       $
+\lm hazaɧra_      $ sunī_    $ naryō_nāman_          $
+\PoS num.c.         $ sm._(sf.) $ adj.                    $
+\gD tausend        $ Hund      $ männlichen_Geschlechts $
+
+\ref V_13_51.h
+\tx miθβana   . strica       . nairiiasca      :
+\std miθβana̍ $ stri   _ca   $ naⁱryas _ca   $
+\mrph n.du.m.     $ n.sg.  $     $ n.sg.m.   $     $
+\cls a           $ ī     $     $ i̯a      $     $
+\lm miθβana_  $ strī_ _ca   $ narya_    _ca   $
+\PoS adj.        $ sf.    part. $ adj.      part. $
+\gD paarweise   $ Frau   und   $ männlich und   $
+\trans
+\ref V_13_51.i
+\tx udrahe   . auuaγnānō         . haēcō            . kərənaoiti      .
+\std udra̍he $ a̍va_γnānō       $ haēcō            $ kərəna̍oⁱti  $
+\mrph g.sg.    $ prc.perf.med.n.sg.m. $ a.sg.              $ 3.sg.ind.prs.act. $
+\cls a        $ a                    $ s                  $ Xa                $
+\lm udra_    $ ava_jan_             $ haēcah_           $ kar_              $
+\PoS sm.      $ vb.                  $ sn.                $ vb.               $
+\gD Otter    $ erschlagen           $ Trockenheit,Dürre $ machen            $
+
+\ref V_13_51.j
+\tx yat̰ . auuāstrəm .

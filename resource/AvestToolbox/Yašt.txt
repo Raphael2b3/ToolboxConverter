@@ -1,0 +1,793 @@
+\_sh v3.0  400  Text
+
+\id Yt01
+\ref Yt01_03
+\tx ahmākəm nąma spitama zaraθuštra yat̰ aməṣ̌anąm spəṇtanąm tat̰ asti mąθrahe spəṇtahe amauuastəməm
+\std
+\mrph
+\cls
+\lm
+\PoS
+\gD
+\trans
+\ref Yt01_10–11
+\tx yezi vaši             zaraθuštra  auuā̊         t̰baēšā̊   tauruuaiiō
+\std yezi va̍ši           Zaraθuštra  auuā̊̍       t̰ba̍ēšā̊ tauruuaiiō
+\mrph $    2.sg.ind.prs.act. v.sg.         a.pl.f.         a.pl.           prc.prs.act.n.sg.m.
+\lm yezi vas_              Zaraθuštra_ auua_           t̰baēšas_    tar_
+\PoS cnj. vb.               sm.npr.       prn.            sn.             vb.
+\gD wenn wünschen         Zarathustra   jener,dieser_da Feindschaft     überwinden
+\cls $    athem             o             $               s               terh₂
+
+\tx daēuuanąm   maṣ̌iiānąm   yāθβąm   pairikanąmca     …
+\std da̍ēuuanąm ma̍ṣ̌iiānąm yāθβą̍m pairikanąm _ca   $
+\mrph g.pl.         g.pl.            g.pl.        g.pl.       $     $
+\lm daēuua_      maṣ̌iia_       yātu_       pairikā_   _ca   $
+\PoS sm.           sm.              sm.          sf.         part. $
+\gD Dämon        Mensch           Zauberer     Zauberin    und   $
+\cls o             a                u            ā          $     $
+
+\tx aθa   imā̊   nāmə̄nīš framrauua         vīspāiš   aiiąnca     xšafnasca
+\std a̍θa imā̊̍ nāmə̄nīš fra_mrauua        vī̍spāiš aiiąn _ca   xšafnas _ca
+\mrph $      a.pl.f.  a.pl.-f.      2.sg.imp.prs.act. a.-i.pl.m.   a.pl.  $     a.pl.    $
+\lm aθa   imat̰   nāman_       fra_mru_          vīspa_      aiiar_ _ca   xšapan_ _ca
+\PoS cnj.   prn.     sn.           vb.               adj.         sn.    part. sn.      part.
+\gD dann   dieser   Name          aufzählen        all          Tag    und   Nacht    und
+\cls $      ?        n             athem             a            r/n    $     n        $
+
+
+\id Yt04
+\ref Yt04_05
+\tx θβąmca     drujəmca       baṇdāmi
+\std θβąm _ca   dru̍jəm _ca   ba̍ṇdāmi
+\mrph a.sg.   $     a.sg.     $     1.sg.prs.act.
+\cls pers.   $     athem?    $     o
+\lm tūm    _ca   drug_     _ca   baṇd_
+\PoS prn.    part. sf.       part. vb.
+\gD du      und   Lüge     und   verbinden
+
+\tx θβąmca     drujəmca       niγne
+\std θβąm _ca   dru̍jəm _ca   ni̍γne
+\mrph a.sg.   $     a.sg.     $     3.sg.ind.prs.med.
+\cls pers.   $     athem?    $     ?
+\lm tūm    _ca   drug_     _ca   ni_gan_
+\PoS prn.    part. sf.       part. vb.
+\gD du      und   Lüge     und   niederstrecken
+
+\tx θβąmca     drujəmca       nižbarāmi
+\std θβąm _ca   dru̍jəm _ca   ni̍ž_barāmi
+\mrph a.sg.   $     a.sg.     $     1.sg.ind.prs.act.
+\cls pers.   $     athem?    $     a
+\lm tūm    _ca   drug_     _ca   niž_bar_
+\PoS prn.    part. sf.       part. vb.
+\gD du      und   Lüge     und   herunter_tragen
+
+\trans
+
+\id Yt05
+\ref Yt05_98
+\tx vīštāspō                ā̊ŋ́hąm dax́iiunąm   āsu.aspō.təmō       bauuat̰
+\std Vīštā̍spō              ā̊ŋhą̍m da̍x́iiunąm āsu̍_a̍spō_təmō   ba̍uuat̰
+\mrph n.sg.                       g.pl.f.      g.pl.          n.sg.m.sup.             3.sg.inj.act.
+\cls a                           ?            u              u       a     a         a
+\lm Vīštāspa_                imat̰       dax́iiu_      āsu_   aspa_ ∅       bū_
+\PoS sm.npr.                     prn.         sf.            adj.    sm.   adj.      vb.
+\gD Der_mit_den_scheuen_Pferden dieser       Land           schnell Pferd Bahuvrihi werden
+
+\trans Vīštāspa wurde in diesen Ländern derjenige mit den schnellsten Pferden
+
+\id Yt08
+\ref Yt08_23
+\tx apa   dīm        adāt̰   vaiiaete          zaraiiaŋ́hat̰ haca   vōuru.kasāt̰
+\std a̍pa dim         adāt̰   vaēiti           zra̍iiaŋhat̰  ha̍ca vouru̍_kaṣ̌āt̰
+\mrph $     a.sg.m.     $         3.sg.ind.prs.act. ab.sg.           $      ab.sg.m.
+\cls $     $           abl.      athem             s                $      u     a        a
+\lm apa   di_         adāt̰   vi_               zraiiah_         haca   varu_ kaṣ̌a_ ∅
+\PoS adv.  prn.        adv.      vb.               sn.              adv.   adj.  s?       adj.
+\gD weg   der,die,das also,dann stoßen?          Meer             von    weit  Bucht?   Bahuvrihi
+
+\tx hāθrō.masaŋ́həm                  at̰      vainəm
+\std hāθrō_masaŋhəm                    at̰      va̍ēnəm
+\mrph a.sg.m.?                               $         1.sg.inj.impf.act.
+\cls a             s              a         $         a
+\lm hāθra_      masah_         ∅       at̰      vaēna_
+\PoS sn.           sn.            adj.      part.     vb.
+\gD Abteil,Länge Länge,Größe Bahuvrihi dann,aber sehen
+
+\tx sāδarəm uruuastarəmca         nimarauuaiti      tistariiō         raeuuā̊    xᵛarənaŋ́hā̊
+\std sādrəm   uruuištrəm     _ca   ni_mrauuaiti      tištriiō         raēuuā̊̍ xᵛa̍rənaŋᵛhā̊
+\mrph a.sg.      a.sg.            $     3.sg.ind.prs.act. n.sg.              n.sg.m.      n.sg.m.
+\cls ra         ra               $     athem             a                  nt           nt
+\lm sādra_    uruuištra_      _ca   ni_mru_           tištriia_         raēuuaṇt_ xᵛarənahuuaṇt_
+\PoS sn.        sn.              part. vb.               sm.                adj.         adj.
+\gD Leid,Qual  Unheil,Verderben und   herbeirufen       Sirius,Morgenstern reich        ruhmreich
+
+\tx sāδarəm mē   ahuramazda
+\std sādrəm   mē   a̍hura ma̍zda
+\mrph n.sg.      d.sg. v.sg.   v.sg.
+\cls ra         pers. o       Wurzel
+\lm sādra_    azəm ahura_  mazdā_
+\PoS sn.        prn.  sm.     sm.
+\gD Leid,Qual  ich   Herr    Mazdā
+
+\tx uruuastārəm    aspō   uruuarā̊sca
+\std uruuištrəm     ā̍pō uruua̍rā̊s _ca
+\mrph a.sg.            v.pl.   v.pl.         $
+\cls ra               Wurzel  ā            $
+\lm uruuištra_      ap_     uruuarā_     _ca
+\PoS sn.              sm.     sf.           part.
+\gD Unheil,Verderben Wasser  Pflanze       und
+
+\tx baxtəm   daša    mazdaiiasna
+\std baxtə̍m daēna   mazdaiiasna
+\mrph a.sg.     v.sg.    v.sg.f.
+\cls a         ā       Wurzel  o      a
+\lm baxta_    daēnā_ mazdā_ yasna_ ∅
+\PoS sn.       sf.      sm.     sm.    adj.
+\gD Schicksal Religion Mazdā  Opfer  Bahuvrihi
+
+\tx nōit̰ mą̇m nūrą̇m    mašiiāka    aoxtō.nāmana          yasna   yazaṇti
+\std nōit̰ mąm   nūra̍m maṣ̌iiāka  aoxtō_nāmana          ya̍sna ya̍zaṇti
+\mrph $       a.sg.  $        n.pl.m.-n.    i.sg.m.                 i.sg.   3.pl.ind.prs.act.
+\cls $       pers.  $        a             ***   n       a         o       o
+\lm nōit̰ azəm  nūram   maṣ̌iiāka_ aoj_  nāman_ ∅       yasna_  yaz_
+\PoS part.   prn.   adv.     sm.           vb.   sn.     adj.      sm.     vb.
+\gD neĩ    ich    jetzt    Mensch        sagen Name    Bahuvrihi Opfer   verehren
+
+\tx yaθa   aniia      yazatā̊ŋ́hō  aoxtō.nāmana          yasna   yazaṇti
+\std ya̍θa ańiia̍   yazatā̊̍ŋhō  aoxtō_nāmana          ya̍sna ya̍zaiṇti
+\mrph $       n.pl.m.-n. n.pl.             i.sg.m.                 i.sg.   3.pl.ind.prs.act.
+\cls $       a          o                 ***   n       a         o       o
+\lm yaθa   ańiia_    yazata_           aoj_  nāman_ ∅       yasna_  yaz_
+\PoS cnj.    prn.       adj.              vb.   sn.     adj.      sm.     vb.
+\gD wie     ander      verehrungswürdig sagen Name    Bahuvrihi Opfer   verehren
+
+\ref Yt08_25
+\tx azəm   yō             ahurō   mazdā̊   tistarīm          raeuuaṇtəm    xᵛarənaŋhṇtəm
+\std azə̍m yō             a̍hurō mazdā̊̍ tištrīm          raēuua̍ṇtəm xᵛa̍rənaŋᵛhaṇtəm
+\mrph n.sg.   n.sg.m.         n.sg.    n.sg.      a.sg.              a.sg.m.          a.sg.
+\lm azəm   ya_             ahura_   mazdā_    tištriia_         raēuuaṇt_     xᵛarənahuuaṇt_
+\PoS prn.    prn.            sm.      sm.        sm.                adj.             adj.
+\gD ich     Relativpronomen Herr     Mazdā     Sirius,Morgenstern reich            ruhmreich
+\cls pers.   o               o        Wurzel     a                  nt               nt
+
+\tx aoxtō.nāmana          yasna   yazaiṇti
+\std aoxtō_nāmana          ya̍sna ya̍zaiṇti
+\mrph i.sg.m.                 i.sg.   3.pl.ind.prs.act.
+\lm aoj_  nāman_ ∅       yasna_  yaz_
+\PoS vb.   sn.     adj.      sm.     vb.
+\gD sagen Name    Bahuvrihi Opfer   verehren
+\cls ***   n       a         o       o
+
+\tx auuaiδīm         auua.barāmi      dašiną̇m aspaną̇m aōjō
+\std a̍uui dim         a̍uua_barāmi    da̍sanąm  a̍spanąm a̍ojō
+\mrph $      a.sg.m.     1.sg.ind.prs.act. g.pl.m.     g.pl.      a.sg.
+\lm auui   di_         auua_bar_         dasa_       aspa_      aojas_
+\PoS prp.   prn.        vb.               num.        sm.        sn.
+\gD gegen  der,die,das bringen           zehn        Pferd      Kraft
+\cls $      $           a                 a           a          s
+
+\tx dašiną̇m uštaraną̇m aojō
+\std da̍sanąm  u̍štranąm  a̍ojō
+\mrph g.pl.m.     g.pl.         a.sg.
+\lm dasa_       uštra_       aojas_
+\PoS num.        sm.a          sn.
+\gD zehn        Kamel         Kraft
+\cls a           o             s
+
+\tx dašaną̇m gauuə̨m aojō
+\std da̍sanąm  ga̍uuąm a̍ojō
+\mrph g.pl.m.     g.pl.     a.sg.
+\lm dasa_       gauu_     aojas_
+\PoS num.        sm.       sn.
+\gD zehn        Kuh       Kraft
+\cls a           Wurzel    s
+
+\tx dašiną̇m gairiną̇m aojō
+\std da̍sanąm  gairi̍nąm a̍ojō
+\mrph g.pl.m.     g.pl.       a.sg.
+\lm dasa_       gairi_      aojas_
+\PoS num.        sm.         sn.
+\gD zehn        Berg        Kraft
+\cls a           i           s
+
+\tx dašiną̇m apą̇m nāuuaiianą̇m aojō
+\std da̍sanąm  apą̍m nāuuaiianąm   a̍ojō
+\mrph g.pl.m.     g.pl.   g.pl.m.         a.sg.
+\lm dasa_       ap_     nāuuaiia_      aojas_
+\PoS num.        sm.     adj.            sn.
+\gD zehn        Wasser  schiffbar       Kraft
+\cls a           Wurzel  a               s
+
+
+\id Yt10
+\ref Yt10_104
+\tx miθrəm   tā jaγā̊.uruuā̊ŋhəm
+\std Miθrə̍m     jaγāuruuā̊ŋhəm
+\mrph a.sg.          prc.perf.act.a.sg.m.
+\cls a              ?
+\lm Miθra_        gar_
+\PoS sm.npr.        vb.
+\gD Mitra          wach_sein
+
+\tx yeŋ́he        darəγācit̰    bāzuua    fraγar.βəm.ta     miθrō.izaŋhō
+\std ye̍ŋ́he      darəγā̍ cit̰ bāza̍uua fra̍γarəβəṇti miθrō_zyā̊ŋhō
+\mrph g.sg.m.         n.pl.m.-n.  $     n.pl.      3.pl.ind.prs.act.    a.pl.m.
+\cls o               a           $     u          ?                    wurzel
+\lm ya_             darəγa_   cit̰ bāzu_     fra_grab_            miθrō_zyā_
+\PoS prn.            adj.        part. sm.        vb.                  adj.
+\gD Relativpronomen lang        gi    Arm        ergreifen            Mitra-schädigend
+
+\tx yat̰.cit̰ ušastarə  hiṇduuō   āγə̄.uruuaiiaiti
+\std yat̰.cit̰ uša̍stare hi̍ṇduuō āγərəβiie̍ite
+\mrph $           d.sg.m.     g.-d.sg.     3.sg.ind.prs.pass.
+\cls $           ra          u            ?
+\lm yat̰.cit̰ ušastara_  hiṇdu_     ā_grab_
+\PoS cnj.        adj.        sm.          vb.
+\gD auch_wenn   östlich    Hindu,Indien greifen_nach
+
+\tx yat̰.cīt̰ aoδušarə  niγua
+\std yat̰.cit̰  daoša̍tare ni̍γne
+\mrph $            d.sg.m.      3.sg.ind.prs.med.
+\cls $            ra           ?
+\lm yat̰.cit̰  daošatara_  ni_gan_
+\PoS cnj.         adj.         vb.
+\gD auch_wenn    westlich     niederstrecken
+
+\tx yat̰.cīt̰ sanakai   raŋhuiiā̊
+\std yat̰.cit̰  sanake    Raŋha̍iiā̊
+\mrph $            l.sg.     g.sg.
+\cls $            a         ā
+\lm yat̰.cit̰  sanaka_   Raŋhā_
+\PoS cnj.         sn.       sf.
+\gD auch_wenn    Mündung? Raŋhā-Fluss
+
+\tx yat̰.cit̰ vīmaiδəm   a̍ŋhā̊   zəmō
+\std yat̰.cit̰ vī̍maiδīm aŋ́hā̊̍ zəmō̍
+\mrph $           $             g.sg.f.      g.sg.
+\cls $           $             ?            wurzel
+\lm yat̰.cit̰ vīmaiδīm   imat̰       zam_
+\PoS cnj.        adv.          prn.         sf.
+\gD auch_wenn   innen_drin    dieser       Erde
+
+\trans
+
+\id Yt13
+\ref Yt13_16
+\tx ā̊ŋ́hąm raiia    xᵛarənaŋhaca       huuarə   auua            paθa     aēiti
+\std ā̊ŋhą̍m raiia̍  xᵛa̍rənaŋha _ca   hu̍uarə auua̍          paθa̍   a̍ēiti
+\mrph g.pl.f.      i.sg.    i.sg.            $     n.sg.     i.sg.m.         i.sg.     3.sg.ind.prs.act.
+\lm imat̰       raii_    xᵛarənas_     _ca   huuar_    auua_           paṇtā_ i_
+\PoS prn.         sm.      sn.              part. sn.       prn.            sm.       vb.
+\gD dieser       Reichtum Ruhmesglanz      und   Sonne     jener,dieser_da Weg       gehen
+\cls ?            i        s                $     r/n       $               h₂      athem
+
+\tx ā̊ŋ́hąm raiia    xᵛarənaŋhaca       mā̊ auua            paθa     aēiti
+\std ā̊ŋhą̍m raiia̍  xᵛa̍rənaŋha _ca   mā̊ auua̍          paθa̍   a̍ēiti
+\mrph g.pl.f.      i.sg.    i.sg.            $     n.sg. i.sg.m.         i.sg.     3.sg.ind.prs.act.
+\lm imat̰       raii_    xᵛarənas_     _ca   māh_ auua_           paṇtā_ i_
+\PoS prn.         sm.      sn.              part. sn.   prn.            sm.       vb.
+\gD dieser       Reichtum Xᵛarenas       und   Mond  jener,dieser_da Weg       gehen
+\cls ?            i        s                $     s     $               h₂      athem
+
+\tx ā̊ŋ́hąm raiia    xᵛarənaŋhaca       stārō   auua            paθa     yeiṇti
+\std ā̊ŋhą̍m raiia̍  xᵛa̍rənaŋha _ca   stā̍rō auua̍          paθa̍   ye̍iṇti
+\mrph g.pl.f.      i.sg.    i.sg.            $     n.pl.     i.sg.m.         i.sg.     3.pl.ind.prs.act.
+\lm imat̰       raii_    xᵛarənas_     _ca   star_     auua_           paṇtā_ i_
+\PoS prn.         sm.      sn.              part. sm.       prn.            sm.       vb.
+\gD dieser       Reichtum Xᵛarenas       und   Stern     jener,dieser_da Weg       gehen
+\cls ?            i        s                $     Wurzel    $               h₂      athem
+
+\ref Yt13_38
+\tx yūžəm   taδa  tauruuaiiata      vərəθrəm   tūranąm
+\std yūžə̍m taδa  tauruuaiiata      vərəθrə̍m tūranąm
+\mrph n.pl.      $      2.pl.ind.prs.act. a.sg.          g.pl.m.
+\lm yūžəm   taδa  tar_              vərəθra_    tūra_
+\PoS prn.       adv.   vb.               sn.            sm.npr.
+\gD ihr        damals überwinden       Sieg           Tūrer,turisch
+\cls $          $      terh₂           a              a
+
+\ref Yt13_53
+\tx yōi            apąm   mazdaδātanąm      srīrą   paθō    daēsaiieiṇti
+\std yōi            apą̍m mazda_δātanąm     srīrą̍ paθō̍  daēsa̍iieiṇti
+\mrph n.pl.m.         g.pl.   prc.prt.pass.g.pl.m. a.pl.m.   a.pl.     3.pl.prs.act.
+\lm ya_             ap_     mazdā_ dā_         srīra_   paṇtā_ dis_
+\PoS prn.            sm.     sm.     vb.          adj.      sm.       vb.
+\gD Relativpronomen Wasser  Mazdā  geben        schön    Weg       zeigen
+\cls o               Wurzel  Wurzel  athem        a         h₂      a
+
+\ref Yt13_56_modifié
+\tx āat̰    uruuarā̊   nūrąm  ⁺fraoxšiieiṇti mazdaδātəm        paiti   paṇtąm   …
+\std ā̍at̰  uruua̍rā̊ nūra̍m fraoxšiie̍iṇti  mazda_δātəm       paiti̍ pa̍ṇtąm $
+\mrph $         n.pl.        $        3.pl.prs.act.       prc.prt.pass.a.sg.m. $       a.sg.       $
+\cls $         ā           $        kaus.               Wurzel  athem        $       h₂        $
+\lm āat̰    uruuarā_    nūram   fra_vaxš_          mazdā_ dā_         paiti   paṇtā_   $
+\PoS adv.      sf.          adv.     vb.                 sm.     vb.          prp.    sm.         $
+\gD dann,also Pflanze      jetzt    wachsen             Mazdā  geben        gegen   Weg         $
+
+\tx zaošāi   ahurahe   mazdā̊   zaošāi   aməṣ̌anąm        spəṇtanąm
+\std za̍ošāi a̍hurahe mazdā̊̍ za̍ošāi a_    mə̍ṣ̌anąm spəṇta̍nąm
+\mrph d.sg.      g.sg.     g.sg.      d.sg.      $     g.pl.m.        g.pl.
+\cls a          o         Wurzel     a          $     a              a
+\lm zaoša_    ahura_    mazdā_    zaoša_    a_    məṣ̌a_      spəṇta_
+\PoS sm.        sm.       sm.        sm.        part. adj.           adj.
+\gD Gefallen   Herr      Mazdā     Gefallen   un-   sterblich      heilvoll
+
+\trans Also wachsen die Pflanzen jetzt auf dem von Ahura Mazdā eingerichteten Weg 
+zum Gefallen von Ahura Mazdā und zum Gefallen von Aməṣa Spəṇta
+
+\id Yt14
+\ref Yt14_01
+\tx vərəθraγnəm            ahuraδātəm        ẏ           ;
+\std Vərəθraγnə̍m          ahura_δātəm       ya̍zamaide   $
+\mrph a.sg.                       prc.prt.pass.a.sg.m. 1.pl.prs.med. $
+\cls a                           o      athem         o             $
+\lm Vərəθraγna_             ahura_ dā_          yaz_          $
+\PoS sm.npr.                     sm.    vb.           vb.           $
+\gD Der_viele_Feinde_erschlägt Herr   geben         verehren      $
+\trans ‚[Wir] heilig[en] den von Ahura Mazdā geschaffen Vərəθraγna. 
+
+\tx pərəsat̰   zaraθuštrō ahurəm   mazdąm
+\std pərəsa̍t̰ Zaraθuštrō a̍hurəm mazdą̍m
+\mrph 3.sg.inj.act. v.sg.         a.sg.     a.sg.
+\cls o             o             o         Wurzel
+\lm fras_         Zaraθuštra_ ahura_    mazdā_
+\PoS vb.           sm.npr.       sm.       sm.
+\gD fragen        Zarathustra   Herr      Mazdā
+\trans Da fragt Zarathustra Ahura Mazdā, 
+
+\tx ahura   mazda   maińiiī   spə̄ništa dātarə   gaēθanąm   ast[+]aitinąm  aṣ̌āum    ;
+\std a̍hura ma̍zda ma̍ińiiō spəništa   dā̍tarə ga̍ēθanąm astuuaiti̍nąm aṣ̌ā̍um  $
+\mrph v.sg.   v.sg.   v.sg.       v.sg.m.sup.  v.sg.      g.pl.         g.pl.f.         v.sg.m.      $
+\cls o       Wurzel  u           cld          tar        ā            nt              n            $
+\lm ahura_  mazdā_ maińiiu_   spəṇta_   dātar_    gaēθā_     astuuant_       aṣ̌āuuan_ $
+\PoS sm.     sm.     sm.         adj.         sm.        sf.           adj.            adj.         $
+\gD Herr    Mazdā  Meinung     heilvoll     Geber      Lebewesen     irdisch         wahrhaftig   $
+
+\trans „Ahura Madza, heilvollster Geist, wahrhaftiger Erschaffer der irdischen Geschöpfe, 
+
+\tx kō     asti          maińiiauuanąm   ẏazatanąm      ziiōtəmō    ;
+\std kō     a̍sti        maińiiauua̍nąm yazata̍nąm      zaiiō̍təmō $
+\mrph n.sg.m. 3.sg.prs.act. g.pl.m.           g.pl.m.           n.sg.m.sup.    $
+\cls a       athem         u̯a              o                 cld?           $
+\lm ka_     as_           maińiiauua_      yazata_           zaiian_        $
+\PoS prn.    vb.           adj.              adj.              adj.           $
+\gD wer     sein          himmlische        verehrungswürdig bewaffnet      $
+
+\trans wer ist von allen verehrungswürdigen Himmlischen der am stärksten bewaffnete?“ 
+
+\tx āat̰    mraōt̰      ahurō   mazdā̊   vərəθraγnō             ahuraδātō         spitama   zaraθuštra  ahmāi
+\std ā̍at̰  mra̍ōt̰    a̍hurō mazdā̊̍ Vərəθraγnō̍           ahura_δātō        Spi̍tama Zaraθuštra  ahmā̍i
+\mrph $         3.sg.inj.act. n.sg.    n.sg.      n.sg.                       prc.prt.pass.n.sg.m. v.sg.     v.sg.         d.sg.m.
+\cls $         athem.        o        Wurzel     a                           o      athem         a         o             ?
+\lm āat̰    mru_          ahura_   mazdā_    Vərəθraγna_             ahura_ dā_          Spitama_  Zaraθuštra_ imat̰
+\PoS adv.      vb.           sm.      sm.        sm.npr.                     sm.    vb.           adj.npr.  sm.npr.       prn.
+\gD dann,also sagen         Herr     Mazdā     Der_viele_Feinde_erschlägt Herr   geben         Spitama   Zarathustra   dieser
+
+\trans Also sagte Ahura Mazdā: Der von mir eingerichtete Vərəθraγna, Zarathustra Spitama, ihm!‘
+
+\id Yt17
+\ref Yt17_22
+\tx srīrō   ahi           zaraθuštra  hukərətō
+\std srīrō̍ a̍hi         Zaraθuštra  hu̍kərətō
+\mrph n.sg.m.   2.sg.prs.act. v.sg.         n.sg.m.
+\cls a         athem         o             o
+\lm srīra_   as_           Zaraθuštra_ hukərəta_
+\PoS adj.      vb.           sm.npr.       adj.
+\gD schön    sein          Zarathustra   wohlgeformt
+
+\trans 
+
+\ref Yt17_59
+\tx θritiiąm gərəząm   gərəzaēti   ašiš     vaŋuhi     ẏā           barəzaiti
+\std θritiiąm gərəzą̍m gərəza̍ēta aṣ̌i̍š vaŋᵛhi̍ yā             bərəzaiti̍
+\mrph a.sg.f.    a.sg.        3.sg.opt.med.  n.sg.      n.sg.f.     n.sg.f.         n.sg.rf.
+\lm θritiia_  gərəzā_   garz_          aṣ̌i_    vohu_       ya_             bərəzant_
+\PoS num.ord.   sf.          vb.            sf.        adj.        prn.            adj.
+\gD dritter    Klage        klagen         Aši       gut         Relativpronomen groß
+\cls iya        ā           ?              i          u/i         o               nt
+
+\tx imat̰   me    stāuuištəm   š́iiaoθnəm   mašiia     vərəziṇti   sāsta
+\std ima̍t̰ mē   stā̍uuištəm š́iiaoθnə̍m ma̍ṣ̌iia vərəzi̍ṇti sāsta
+\mrph a.sg.n.  d.sg. n.sg.n.spl.     n.sg.            n.sg.m.-n.  3.pl.prs.act.   n.pl.m.-n.
+\lm imat̰   azəm stūra_         š́iiaoθna_    maṣ̌iia_  varz_           sāsta_
+\PoS prn.     prn.  adj.            sn.              sm.         vb.             adj.
+\gD dieser   ich   brutal          Handlung         Mensch      tun             grausam
+\cls ?        pers. cld             o                a           i̯a            a
+
+\tx ẏat̰         kańiiō     uzuuāδaiieinti      darəγəm   aγruuō          ńijāmaiieiṇti
+\std yat̰           kainiiā̊̍ uz_uuāδa̍iieiṇti darəγə̍m a_    γruuā̊̍ ni_jāma̍iieiṇti
+\mrph n.sg.n.         a.pl.        3.pl.prs.act.         adv.         $     a.pl.f.     3.pl.prs.act.
+\lm ya_             kainiiā_    uz_vad_               darəγa_    a_    gru_        ni_gam_
+\PoS prn.            sf.          vb.                   adj.         part. adj.        vb.
+\gD Relativpronomen Mädchen     wegnehmen             lang         un-   schwanger   schwängern
+\cls o               ā           aya                   a            $     u           ?
+
+
+\id Yt19
+\ref Yt19_36–37
+\tx ẏat̰ bitim          xᵛarənō   apa∙nəmata      xᵛarənō   ẏimat̰  haca   xšaētāt̰
+\std yat̰   bitīm         xᵛa̍rənō a̍pa_nəmata      xᵛa̍rənō Yimā̍t̰ ha̍ca xšaētāt̰
+\mrph $       $              n.sg.         3.sg.inj.impf.med. a.sg.         ab.sg.     $      ab.sg.m.
+\lm yat̰   bitīm         xᵛarənas_  apa_nam_           xᵛarənas_  Yima_      haca   xšaēta_
+\PoS cnj.    adv.           sn.           vb.                sn.           sm.npr.    adv.   adj.
+\gD als     das_zweite_Mal Ruhmesglanz   weichen            Xᵛarenas    Yima       von    hell,strahlend
+\cls $       $              s             $                  s             o          $      a
+
+\trans Als der Ruhmesglanz [der Ruhmesglanz] das zweite Mal von Yima dem strahlenden wich,
+
+\tx šusat̰                xᵛarənō   ẏimat̰  haca   viuuaŋhušāt̰
+\std š́usat̰              xᵛa̍rənō Yimā̍t̰ ha̍ca viuuaŋhušāt̰
+\mrph 3.sg.inj.impf.act.      n.sg.         ab.sg.     $      ab.sg.m.
+\lm š́iiu_                xᵛarənas_  Yima_      haca   viuuaŋhuša_
+\PoS vb.                     sn.           sm.npr.    adv.   adj.
+\gD sich_in_Bewegung_setzen Ruhmesglanz   Yima       von    Sohn_des_Vivahvant
+\cls ***                     s             o          $      i̯a
+
+\trans ging der Ruhmesglanz aus von Yima dem Sohn des Vivahvant
+
+\tx mərəγahe   kəhrpa    vārəγnahe
+\std mərəγa̍he kərəpa̍ vārəγnahe
+\mrph g.sg.         i.sg.      g.sg.
+\lm mərəγa_    kərəp_   vārəγna_
+\PoS sm.           sf.        sm.
+\gD Vogel         Körper    Falke
+\cls a             Wurzel     a
+
+\trans in Gestalt eines Vogels – eines Falken.
+
+\tx aom             xᵛarənō   haṇgə̄uruuāiata
+\std ao̍m           xᵛa̍rənō haṇgərəβa̍iiata
+\mrph a.sg.n.-m.      a.sg.         3.sg.inj.impf.med.
+\lm auua_           xᵛarənas_  haṇ_grab_
+\PoS prn.            sn.           vb.
+\gD jener,dieser_da Ruhmesglanz   ergreifen
+\cls $               s             ***
+
+\trans jenen Ruhmesglanz ergriff
+
+\tx visō  puθrō   āθβiiānōiš        visō  suraiiā̊     θraētaonō
+\std vīsō puθrō̍ āθβiiānōiš        vīsō sū̍raiiā̊  θraētaonō
+\mrph g.sg.  n.sg.     g.sg.m.                 g.sg.  g.sg.f.        n.sg.
+\lm vīs_  puθra_   āθβiiāni_           vīs_  sūra_         θraētaona_
+\PoS sf.    sm.       adj.                    sf.    adj.           sm.npr.
+\gD Hof    Sohn      Verwandter_des_Aθβiia Hof    stark,gewaltig θraētaona
+\cls wurzel a         i                       wurzel ra             a
+
+\trans Θraētaona, der Sohn vom mächtigen Hofe des Aθβya
+
+\tx ẏat̰ ās                mašiiānąm     vərəθruuanąm  vərəθruuastəmō  ainiiō   zaraθuštrāt̰
+\std yat̰   ās                ma̍ṣ̌iiānąm vərəθrauuanąm vərəθrauuastəmō ańiiō̍ Zaraθuštrāt̰
+\mrph $       3.sg.ind.impf.act. g.pl.            g.pl.m.           n.sg.m.sup.          n.sg.m.   ab.sg.
+\lm yat̰   as_                maṣ̌iia_       vərəθrauuan_   vərəθrauuant_     ańiia_   Zaraθuštra_
+\PoS cnj.    vb.                sm.              adj.              adj.                 prn.      sm.npr.
+\gD dass    sein               Mensch           siegreich         siegreich            ander     Zarathustra
+\cls $       athem              a                van               nt                   i̯a      o
+
+\trans der von den siegreichen Menschen der siegreicheste war, außer Zaraθuštra
+
+\tx ẏō           janat̰            ažim    dahākəm
+\std yō             ja̍nat̰          a̍žim  dahākəm
+\mrph n.sg.m.         3.sg.inj.impf.act. a.sg.    a.sg.
+\lm ya_             jan_               aži_    dahāka_
+\PoS prn.            vb.                sm.      sm.npr.
+\gD Relativpronomen töten             Schlange Dahāka
+\cls o               a                  i        a
+
+\ref der die Schlange Dahāka tötete,
+
+\tx θrizafanəm            θrikamərəδəm                     xšuuaš.ašīm
+\std θri_zafanəm           θri_kamərəδəm                    xšuuaš_ašīm
+\mrph a.sg.m.                 a.sg.m.                               xšuuaš_ašīm
+\lm θray_ zafar_ ∅       θray_ kamərəδa_         ∅       xšuuaš_ aš_   ∅
+\PoS num.   sn.    adj.      num.   sm.                  adj.      num.      sn.    adj.
+\gD drei   Maul   Bahuvrihi drei   Kopf (rekonstruiert) Bahuvrihi sechs     Auge   Bahuvrihi
+\cls $      r/n    a         $      ???                  a         $         wurzel a
+
+\trans die dreimäulige, die dreiköpfige, die sechsäugige
+
+\tx hazaŋrā.yaōxštīm           aš.aōjaŋhəm       daēuuīm   drujim
+\std haza̍ŋra_yaoxštīm           aš_aojaŋhəm        daēuuī̍m drujim
+\mrph a.sg.m.                         a.sg.m.               a.sg.m.     a.sg.
+\lm hazaŋhra_ yaoxšti_  ∅       aš_ aojas_ ∅       daēuuiia_  drug_
+\PoS sn.        sf.        adj.      $    sn.    adj.      adj.        sf.
+\gD tausend    Fertigkeit Bahuvrihi sehr Kraft  Bahuvrihi dämonisch  Lüge
+\cls ra         i          a         $    s      a         i̯a        athem?
+
+\trans die mit tausend Fertigkeiten, mit großer Kraft, die dämonische DRUG
+
+\tx aγəm   gaēθāuuiiō druuaṇtəm  yąm            aš.aōjastəmąm     drujim
+\std aγə̍m gaēθābiiō  druuaṇtəm  yąm            aš_aojastəmąm      drujim
+\mrph a.sg.m.  d.pl.          a.sg.m.       a.sg.f.         a.sg.f.sup.           a.sg.
+\lm aga_     gaēθā_      drəguuaṇt_ ya_             aš_ aojas_ ∅       drug_
+\PoS adj.     sf.            adj.          prn.            $    sn.    adj.      sf.
+\gD schlecht Lebewesen      trügerisch   Relativpronomen sehr Kraft  Bahuvrihi Lüge
+\cls a        ā             nt            o               $    s      a         athem?
+
+\trans die schlechte für alle Lebewesen, die trügerische, die die die gewaltigste DRUG ist
+
+\tx fraca       kərəṇtat̰     aŋhrō   maińiiuš   aōi   yąm            astuuaitīm   gaēθąm
+\std fraca̍     kərəṇta̍t     aŋhrō   maińiiu̍š a̍uui yąm            astuua̍itīm ga̍ēθąm
+\mrph i.sg.       3.sg.inj.impf.act. n.sg.m.   n.sg.        $      a.sg.f.         a.sg.f.       a.sg.
+\lm frā̊ṇk_ kart_              aŋhra_   maińiiu_    auui   ya_             astuuaṇt_   gaēθā_
+\PoS adj.        vb.                adj.      sm.          prp.   prn.            adj.          sf.
+\gD zer-        schneiden          feindlich Meinung      gegen  Relativpronomen irdisch       Lebewesen
+\cls ?           n                  ra        u            $      o               nt            ā
+
+\trans welche Aŋhra Manyu zerschnitten hat [ist erschaffen gemeint? kart-, kṛṇt- vs. kar-, kṛṇó-], gegen die irdischen Lebewesen
+
+\tx mahrkāi   ašahe      gaēθanąm
+\std ma̍hrkāi aṣ̌a̍he  ga̍ēθanąm
+\mrph d.sg.      g.sg.       g.pl.
+\lm marka_     aṣ̌a_     gaēθā_
+\PoS sm.        sm.         sf.
+\gD Tod        Richtigkeit Lebewesen
+\cls a          o           ā
+
+\trans zum Tod der Lebewesen der Richtigkeit
+
+\ref Yt19_43–44
+\tx gatō                arəzahe
+\std gatō̍              arəzahe
+\mrph prc.prt.pass.n.sg.m. g.sg.
+\lm gam_                 arza_
+\PoS vb.                  sm.
+\gD gehen                Schlacht
+\cls ***                  a
+
+\tx ẏō           janat̰            snāuuiδkəm
+\std yō             ja̍nat̰          Snāuuiδkəm
+\mrph n.sg.m.         3.sg.inj.impf.act. a.sg.
+\lm ya_             jan_               Snāuuiδka_
+\PoS prn.            vb.                sm.npr.
+\gD Relativpronomen töten             Snāviδka
+\cls o               a                  a
+
+\tx ẏim           sruuō.azəm                    asəngō.gāum
+\std yim             sruuō_zanəm                   asəṇgō_gāum
+\mrph a.sg.m.         a.sg.m.                         a.sg.m.
+\lm ya_             srū_      zana_      ∅       asəṇga_ gauu_  ∅
+\PoS prn.            sf.        sm.        adj.      sm.        sm.    adj.
+\gD Relativpronomen Horn,Nagel Geschlecht Bahuvrihi Stein      Hand   Bahuvrihi
+\cls o               uh₂      a          a         a          Wurzel a
+
+\tx hō         auuaθa            viiāxmaniiata
+\std hō         auuaθa            viiāxmańiiata
+\mrph n.sg.m.     $                  3.sg.inj.impf.med.
+\lm ta_         auuaθa            viiāxmańiia_
+\PoS prn.        adv.               vb.
+\gD der,die,das so,folgendermaßen öffentlich_reden
+\cls a           ***                i̯a
+
+\tx apərənāiiu             am̨i             nōit̰ pərənāiiu
+\std a_    pərənāiiu        a̍hmi            nōit̰ pərənāiiu
+\mrph $     n.sg.m.-n.          1.sg.ind.prs.act. $       n.sg.m.-n.
+\lm a_    pərənāiiu_       as_               nōit̰ pərənāiiu_
+\PoS part. adj.                vb.               part.   adj.
+\gD un-   volljährig,mündig sein              neĩ    volljährig,mündig
+\cls $     u                   athem             $       u
+
+\tx ẏezi bauuāne          pərənāiiu        ząm   caxrəm   kərənauuāne    asmanəm   raθəm   kərənauuāne
+\std yezi   bauuāni          pərənāiiu        ząm   caxrə̍m kərəna̍uuāni  a̍smanəm ra̍θəm kərəna̍uuāni
+\mrph $      1.sg.cnj.prs.act. n.sg.m.-n.          a.sg.  a.sg.     1.sg.cnj.prs.act. a.sg.      a.sg.     1.sg.cnj.prs.act.
+\lm yezi   bū_              pərənāiiu_       zam_   caxra_    kar_              asman_     raθa_    kar_
+\PoS cnj.   vb.               adj.                sf.    sm.       vb.               sn.        sm.       vb.
+\gD wenn   werden            volljährig,mündig Erde   Rad       machen            Himmel     Wagen     machen
+\cls $      a                 u                   wurzel a         nu                n          a         nu
+
+\tx auuanaiieni             spəntəm     mainiium    haca   raoxšna   garōnmānā
+\std auua_ naiiāni          spəṇtə̍m ma̍ińiium ha̍ca raoxšna   garō  nmānā
+\mrph $     1.sg.cnj.prs.act. a.sg.m.       a.sg.       $      i.sg.m.    g.sg.  i.sg.
+\lm auua  nay_              spəṇta_    maińiiu_   haca   raoxšna_  gar_   nmāna_
+\PoS prp.  vb.               adj.          sm.         adv.   adj.       sf.    sn.
+\gD hinab führen           heilvoll      Meinung     von    hell,licht Lob    Haus
+\cls ***   a                 cld           u           $      a          Wurzel o
+
+\tx uspataiieni            aŋrəm   mainiium  ərəγata    haca   dužaŋha
+\std us_  pata̍iiāni      aŋhrəm  maińiium ərəγata    ha̍ca duž_aŋᵛha
+\mrph $    1.sg.cnj.prs.act. a.sg.m.   a.sg.     i.sg.m.       $      i.sg.
+\lm us_  pat_              aŋhra_   maińiiu_ ərəγaṇt_ haca   duž_aŋhu_
+\PoS adv. vb.               adj.      sm.       adj.          adv.   sm.
+\gD aus  fliegen           feindlich Meinung   abscheulich   von    Schlecht_Sein,Hölle
+\cls $    a                 ra        u         nt            $      u
+
+\tx te          me    vāšəm     θanjaiiā̊nte     spəntasca         mainiiuš  aŋrasca
+\std tē         mē   vā̍ṣ̌əm θaṇjaiiā̊ṇte spəṇta̍s _ca   maińiiuš aŋhras   _ca
+\mrph n.pl.m.     d.sg. a.sg.        3.pl.cnj.prs.med.   n.sg.m.      $     n.sg.      n.sg.m.   $
+\lm ta_         azəm vāṣ̌a_    θaṇg_            spəṇta_   _ca   maińiiu_  aŋhra_   _ca
+\PoS prn.        prn.  sm.          vb.                 adj.         part. sm.        adj.      part.
+\gD der,die,das ich   Wagen        ziehen              heilvoll     und   Meinung    feindlich und
+\cls a           pers. a            ai̯a               cld          $     u          ra        $
+
+\tx ẏezi mą̇m nōit̰ janāt̰          nairi.manā̊           kərəšāspō
+\std yezi   mąm   nōit̰ janāt̰          nairi_ma̍nā̊         Kərəsāspō
+\mrph $      a.sg.  $       3.sg.cnj.prs.act. n.sg.m.                 n.sg.
+\lm yezi   azəm  nōit̰ jan_              nar_   manah_ ∅       Kərəsāspa_
+\PoS cnj.   prn.   part.   vb.               sm.    sn.    adj.      sm.npr.
+\gD wenn   ich    neĩ    töten            Mann   Geist  Bahuvrihi Kṛsāspa
+\cls $      pers.  $       a                 Wurzel s      a         a
+
+\tx təm        janāt̰          nairi.manā̊           kərəšāspō
+\std təm        janāt̰          nairi_ma̍nā̊         Kərəsāspō
+\mrph a.sg.       3.sg.cnj.prs.act. n.sg.m.                 n.sg.
+\lm ta_         jan_              nar_   manah_ ∅       Kərəsāspa_
+\PoS prn.        vb.               sm.    sn.    adj.      sm.npr.
+\gD der,die,das töten            Mann   Geist  Bahuvrihi Kṛsāspa
+\cls a           a                 Wurzel s      a         a
+
+\trans fehlerhafter Konj.
+
+\ref Yt19_78–79_modifié
+\tx uγrəm   kauuaēm   … aniiāiš   dāmąn
+\std uγrə̍m kauua̍ēm $   aniiā̍iš dā̍mąn
+\mrph a.sg.m.   a.sg.m.    $   i-a.pl.n.   a.pl.
+\lm uγra_    kauuaiia_  $   aniia_      dāman_
+\PoS adj.      adj.       $   prn.        sn.
+\gD stark     seherisch  $   ander       Geschöpf
+\cls a         i̯a       $   i̯a        n
+
+\tx yīt̰ ūpaŋhacat̰       ašauuanəm       zaraθuštrəm
+\std yat̰  u̍paŋhacat̰      aṣ̌ā̍uuanəm  Zaraθu̍štrəm
+\mrph $      3.sg.inj.impf.act.  a.s.m.            a.sg.
+\lm yat̰  upa_hac_            aṣ̌āuuan_      Zaraθuštra_
+\PoS cnj.   vb.                 adj.              sm.npr.
+\gD dass   begleiten           wahrhaftig        Zarathustra
+\cls $      a                   n                 o
+
+\tx anumatə̄e    daenaiiāi   anuxtə̄e     daenaiiāi   anuuarštə̄e   daenaiiāi
+\std anumatə̄̍e  daēnaiiāi  anuxtə̄̍e   daēnaiiāi  anuuarštə̄̍e daēnaiiāi
+\mrph d.sg.          d.sg.        d.sg.          d.sg.        d.sg.            d.sg.
+\lm anu_mati_      daēnā_     anu_uxti_      daēnā_     anu_varšti_     daēnā_
+\PoS sf.            sf.          sf.            sf.          sf.              sf.
+\gD Denken gemäß Religion     Reden gemäß  Religion     Handeln gemäß  Religion
+\cls i              ā           i              ā           i                ā
+
+\tx ẏat̰  as              vīspahe    aŋhə̄uš  astauuatō
+\std yat̰    ās             vī̍spahe  a̍ŋhaoš   astuua̍tō
+\mrph $        3.sg.impf.act.  g.sg.m.     g.sg.        g.sg.
+\lm yat̰    as_             vīspa_     ahu_         astuuant_
+\PoS cnj.     vb.             adj.        sm.          adj.
+\gD dass     sein            all         Sein         irdisch
+\cls $        athem           a           u            nt
+
+\tx ašəm       ašauuastəmō    xšaθrəm    huxšaθrōtəmō
+\std aṣ̌ə̍m   aṣ̌auuastəmō  xšaθrə̍m  huxšaθrō̍təmō
+\mrph a.sg.        n.sg.m.sup.       a.sg.         n.sg.m.sup.
+\lm aṣ̌a_      aṣ̌auuant_      xšaθra_     hu_xšaθra_
+\PoS sm.          adj.              sn.           adj.
+\gD Richtigkeit  rechtschaffen     Herrschaft    gut_herrschend
+\cls o            nt                o             ra
+
+\tx raēm     raēuuastəmō    xᵛarənō    xᵛarənaŋuhastəmō      vərəθra    vərəθrauuastəmō
+\std raē̍m   raēuua̍stəmō  xᵛa̍rənō  xᵛa̍rənaŋᵛhastəmō  vərəθra̍  vərəθrauuastəmō
+\mrph a.sg.     n.sg.m.sup.       a.sg.          n.sg.m.sup.                 a.pl.         n.sg.m.sup.
+\lm raii_     raēuuant_        xᵛarənas_   xᵛarənahuuant_           vərəθra_   vərəθrauuant_
+\PoS sm.       adj.              sn.            adj.                        sn.           adj.
+\gD Reichtum  reich             Xᵛarenas     ruhmreich                   Sieg          siegreich
+\cls i         nt                s              nt                          a             nt
+
+\ref Yt19_81_modifié
+\tx aēuuō   ahunō   vairiiō
+\std a̍ēuuō a̍hunō va̍iriiō
+\mrph n.sg.m.   n.sg.m.  n.sg.m.
+\cls o         o        o
+\lm aēuua_   ahuna_   vairiia_
+\PoS adj.      adj.     adj.
+\gD ein       Seins-   zu_wählend
+
+\tx yim             aṣ̌auua    zaraθuštrō frasrāuuaiiat̰
+\std yim             aṣ̌ā̍uua Zaraθuštrō frasrāuua̍iiat̰
+\mrph a.sg.m.         n.sg.        v.sg.         3.sg.inj.act.
+\cls o               n            o             athem
+\lm ya_             aṣ̌āuuan_ Zaraθuštra_ fra_srū_
+\PoS prn.            adj.         sm.npr.       vb.
+\gD Relativpronomen wahrhaftig   Zarathustra   rezitieren
+
+\tx auuazat̰     daēuua   aiiesńiia          auuahmiia
+\std a̍uuazat̰   da̍ēuua aiiasńiia̍        a_    vahmiia̍
+\mrph 3.sg.inj.act. a.pl.-n.  a.pl.m.             $     a.pl.m.-n.
+\cls o             o         i̯a                $     i̯a
+\lm auua_az_      daēuua_  aiiasńiia_         a_    vahmiia_
+\PoS vb.           sm.       adj.                part. adj.
+\gD hinabführen  Dämon    verehrungsunwürdig un-   besingungswürdig
+
+\trans
+\ref Yt19_81
+\tx āat̰    te          aeuuō    ahunō   vairiiō
+\std ā̍at̰  tē         a̍ēuuō a̍hunō va̍iriiō
+\mrph $         n.pl.m.     n.sg.m.   n.sg.m.  n.sg.m.
+\cls $         a           o         o        o
+\lm āat̰    ta_         aēuua_   ahuna_   vairiia_
+\PoS adv.      prn.        adj.      adj.     adj.
+\gD dann,also der,die,das ein       Seins-   zu_wählend
+
+\tx ẏim           ašauuanə̄m    zaraθuštrəm   frasrāuuaiiat̰
+\std yim             aṣ̌ā̍uuanəm Zaraθu̍štrəm frasrāuua̍iiat̰
+\mrph a.sg.m.         a.s.m.           a.sg.            3.sg.inj.act.
+\cls o               n                o                athem
+\lm ya_             aṣ̌āuuan_     Zaraθuštra_    fra_srū_
+\PoS prn.            adj.             sm.npr.          vb.
+\gD Relativpronomen wahrhaftig       Zarathustra      rezitieren
+
+\tx vi.bərəθβəṇtəm            āxtuirim    aparəm   xraoždiiehiia   frasrūiti
+\std vi          bə̍rəθuuəṇtəm āxtuirī̍m a̍parəm xra̍oždiiehiia frasrū̍iti
+\mrph $           a.sg.m.               $            a.sg.n.   a.pl.f.cmp.      a.pl.
+\cls $           nt                    $            a         cld              ????
+\lm vi          bərəθuuant_        āxtuirīm   apara_    xrūždra_       frasrūtay_
+\PoS part.       adj.                  adv.         adv.      adj.             sf.
+\gD hin_und_her tragend               viermal      hinter    laut             Rezitation
+
+\tx zamarəguza                 auuazat̰     vispe     daēuua   aiiesniia              auuahmiia
+\std zama̍r     gu̍za          a̍uuazat̰   vī̍spe  da̍ēuua a_    yasńiia̍       a_    vahmiia̍
+\mrph $           a.pl.m.-n.      3.sg.inj.act. n-a.pl.m. a.pl.-n.  $     a.pl.m.-n.       $     a.pl.m.-n.
+\lm zamar       guza_           auua_az_      vīspa_   daēuua_  a_    yasńiia_        a_    vahmiia_
+\PoS adv.        adj.            vb.           adj.      sm.       part. adj.             part. adj.
+\gD in_die_Erde sich_verbergend hinabführen  all       Dämon    un-   opferungswürdig un-   besingungswürdig
+\cls ar          a               o             a         o         $     a                $     i̯a
+
+\trans Also [sie?] ein einziges Ahuna Vairiia, das de[r] wahrhaftig[e] Zaraθuštra rezitierte,
+de[r] viermal hintereinander(?) laut die Rezitation hin und her tragend[e],
+trieb alle sich in der Erde verbergenden, verehrungs- und lobesunwürdigen Dämonen hinab.
+
+\ref Yt19_82
+\tx yaθa   kaθaca       ās            zaošō   ahurahe   mazdā̊   daēnaiiā̊sca     māzdaiiasnōiš
+\std ya̍θa ka̍θa _ca   ās            za̍ošō a̍hurahe mazdā̊̍ daēnaiiā̊s _ca   māzda_yasnōiš
+\mrph $       $       $     3.sg.impf.act. n.sg.     g.sg.     g.sg.      g.sg.         $     g.sg.f.
+\cls $       $       $     athem          a         o         Wurzel     ā            $     Wurzel  i
+\lm yaθa   kaθa   _ca   as_            zaoša_   ahura_    mazdā_    daēnā_      _ca   mazdā_ yasni_
+\PoS cnj.    adv.    part. vb.            sm.       sm.       sm.        sf.           part. sm.     adj.
+\gD wie     wie     und   sein           Gefallen  Herr      Mazdā     Religion      und   Mazdā  opfernd
+
+\trans Und wie auch immer das Belieben von Ahura Mazdā und der Religion seiner Anbeter war
+
+\id Yt20
+\ref Yt20_01
+\tx haōməm   zāirīm  bərəzaṇtəm   yazamaide
+\std ha̍ōməm za̍irīm bərəza̍ṇtəm ya̍zamaide
+\mrph a.sg.      a.sg.m.   a.sg.m.           1.pl.prs.med.
+\cls a          i         nt                o
+\lm haōma_    zari_     bərəzaṇt_     yaz_
+\PoS sm.        adj.      adj.              vb.
+\gD Soma       gelb,gold hoch              verehren
+
+\tx haōməm   frādat̰.gaēθəm                       yazamaide
+\std ha̍ōməm frādat̰.gaēθəm                       ya̍zamaide
+\mrph a.sg.      a.sg.m.                                   1.pl.prs.med.
+\cls a          ai̯a               ā        a           o
+\lm haōma_    frād_              gaēθā_ ∅         yaz_
+\PoS sm.        vb.                 sf.       adj.        vb.
+\gD Soma       fördern,frā-dā-? Lebewesen Tatpuruṣa verehren
+
+\tx haōməm   dūraōšəm               yazamaide
+\std ha̍ōməm dūra̍ošəm              ya̍zamaide
+\mrph a.sg.      a.sg.m.                    1.pl.prs.med.
+\cls a          ra     a         a         o
+\lm haōma_    dūra_ aoša_    ∅       yaz_
+\PoS sm.        adj.   sm.       adj.      vb.
+\gD Soma       fern   Verderben Bahuvrihi verehren
+
+\tx nī      tē         zāire    maδəm     mruiiē
+\std ni       tē         za̍ire   ma̍δəm   mruiiē̍
+\mrph $        n.pl.m.     v.sg.     a.sg.       1.sg.ind.prs.med.
+\cls $        a           i         a           athem.
+\lm ni       ta_         zari_     mada_       mru_
+\PoS adv.     prn.        adj.      sm.         vb.
+\gD hinunter der,die,das gelb,gold Genuss,High sagen
+
+\tx nī      aməm    vərəθraγnəm
+\std ni       a̍məm  Vərəθraγnə̍m
+\mrph $        a.sg.m.  a.sg.
+\cls $        a        a
+\lm ni       ama_     Vərəθraγna_
+\PoS adv.     adj.     sm.npr.
+\gD hinunter kräftig Der_viele_Feinde_erschlägt
+
+\tx nī      baēšazəm   nī      aōjō
+\std ni       baēšazə̍m ni       a̍ojō
+\mrph $        a.sg.m.       $        a.sg.
+\cls $        a             $        s
+\lm ni       baēšaza_    ni       aojas_
+\PoS adv.     adj.          adv.     sn.
+\gD hinunter heiligend     hinunter Kraft
+
+\trans

@@ -1,0 +1,488 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.6.4 May 2019
+\ProjectPath D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Settings\Toolbox.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstCorpus bibel
+\WordLstMaxCount 10
+\ConcordanceCorpus bibel
+\ConcordanceSearch а́ще
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput Concordance.db
+\+Corpus Free translation
+\FilesList D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Texts.txt
+\lng English
+\WordMarkers \ft
+\BookMarker \ref
+\WordIndex D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Freetran.wi
+\WordListOutput wordlistft.db
+\-Corpus
+\+Corpus Text
+\FilesList D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Texts.txt
+\lng mancelius
+\WordMarkers \tx
+\BookMarker \ref
+\WordIndex D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Text.wi
+\WordListOutput wordlist.db
+\-Corpus
+\+Corpus bibel
+\FilesList D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Bibelstellen
+\lng Avestisch
+\WordMarkers \tx \std \lm
+\BookMarker \id
+\ChapMarker \ref
+\WordListOutput wordlist.db
+\-Corpus
+\-CorpusSet
+\LangCtrlHeight 24
+\DontValidateOnEdit
+\DontAskChangeMarker
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain max -1 -1 -1 -1 -6 -6 1279 680
+\+dblst 
+
+\+db D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\+wndlst 
+\+wnd 
+\placement normal 0 685 -8 -31 1122 153 1526 509
+\z 4
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr std
+\width 378
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey std
+\srtPriKey Avestisch
+\-ind
+\+rec 
+\fldPriKey $
+\-rec
+\+keySearch 
+\fldPri ∅
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri a̍ɧaⁱti
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 920 86 1121 513
+\z 3
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr std
+\width 158
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey std
+\srtPriKey Avestisch
+\-ind
+\+rec 
+\fldPriKey $
+\-rec
+\+keySearch 
+\fldPri ∅
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri се
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\+db D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\PoS-gD.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -8 -31 990 190 1460 767
+\z 8
+\ViewMarkers
+\widthMarkerArea 56
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lm
+\width 444
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lm
+\srtPriKey Avestisch
+\-ind
+\+rec 
+\fldPriKey ciθā_
+\-rec
+\+keySearch 
+\fldPri $
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri pari_aēš_
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 7
+\CaretLineScroll 7
+\CaretChar 129
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 972 174 1127 751
+\z 2
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lm
+\width 112
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lm
+\srtPriKey Avestisch
+\-ind
+\+rec 
+\fldPriKey $
+\-rec
+\+keySearch 
+\fldPri $
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri mat̰
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\+db D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Standard.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -8 -31 1149 0 1532 357
+\z 5
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 326
+\-brf
+\+brf 
+\mkr anm
+\width 0
+\-brf
+\+brf 
+\mkr ge
+\width 17
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey tx
+\srtPriKey Avestisch
+\-ind
+\+rec 
+\fldPriKey .
+\-rec
+\+keySearch 
+\fldPri ∅
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri auua
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal -1 -1 -1 -1 999 0 1153 436
+\z 6
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr tx
+\width 111
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey tx
+\srtPriKey Avestisch
+\-ind
+\+rec 
+\fldPriKey .
+\-rec
+\+keySearch 
+\fldPri ∅
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\+db D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\videvdad_14.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 44 5 937 599
+\z 7
+\ViewMarkers
+\widthMarkerArea 59
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 867
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey V_14_01.a
+\-rec
+\+keySearch 
+\fldPri Aog_26
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 92
+\CaretLineScroll 21
+\CaretChar 42
+\-wnd
+\-wndlst
+\-db
+
+\+db D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Yasna.txt
+\+wndlst 
+\+wnd 
+\placement min 398 685 -1 -1 182 182 1480 667
+\z 0
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 1272
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey Y07_26
+\-rec
+\+keySearch 
+\fldPri V_14_01.i
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 6
+\CaretLineScroll 6
+\CaretChar 46
+\-wnd
+\-wndlst
+\-db
+
+\+db D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Yašt.txt
+\+wndlst 
+\+wnd 
+\placement min 199 685 -1 -1 208 208 1506 693
+\z 1
+\ViewMarkers
+\widthMarkerArea 50
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 1272
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey der die Schlange Dahāka tötete,
+
+\-rec
+\+keySearch 
+\fldPri V_14_01.i
+\match_char p
+\-keySearch
+\+keyInsert 
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 143
+\CaretLineScroll 18
+\CaretChar 70
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\SingleField
+\Field tx
+\match_char p
+\+ftxlst 
+\+ftx 
+\text γnəm
+\lng Avestisch
+\-ftx
+\+ftx 
+\text vīspe
+\lng Avestisch
+\-ftx
+\+ftx 
+\text az-
+\lng Default
+\-ftx
+\+ftx 
+\text az
+\lng Default
+\-ftx
+\+ftx 
+\text urruis
+\lng Default
+\-ftx
+\+ftx 
+\text uruuis
+\lng Default
+\-ftx
+\+ftx 
+\text rvaēs
+\lng Avestisch
+\-ftx
+\+ftx 
+\text kan-
+\lng Default
+\-ftx
+\+ftx 
+\text kan
+\lng Default
+\-ftx
+\+ftx 
+\text dərəz
+\lng Default
+\-ftx
+\+ftx 
+\text darəz
+\lng Default
+\-ftx
+\+ftx 
+\text par
+\lng Default
+\-ftx
+\+ftx 
+\text bū
+\lng Default
+\-ftx
+\+ftx 
+\text yam
+\lng Default
+\-ftx
+\+ftx 
+\text vad
+\lng Default
+\-ftx
+\+ftx 
+\text rik
+\lng Default
+\-ftx
+\+ftx 
+\text vāδa
+\lng Avestisch
+\-ftx
+\+ftx 
+\text yaož
+\lng Avestisch
+\-ftx
+\+ftx 
+\text biīɐ
+\lng Avestisch
+\-ftx
+\+ftx 
+\text biiā
+\lng Avestisch
+\-ftx
+\-ftxlst
+\Replace ꙇ
+\-Find
+\AmbigBoxLeft 247
+\AmbigBoxTop 274
+\-ShProjectSettings

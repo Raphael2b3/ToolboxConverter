@@ -1,0 +1,82 @@
+\_sh v3.0  400  Text
+
+\id Y07
+\ref Y07_26
+\tx aṣ̌aiia  daδąmi      vīspaēibiiō   yazataēibiiō    gaēθiiaēibiiō
+\std aṣ̌aiia̍ da̍δąmi    vī̍spaēibiiō yazata̍ēibiiō  gaēθiia̍ēibiiō
+\mrph l.sg.f.?    1.sg.prs.act. d.pl.m.          d.pl.m.           d.pl.m.
+\cls $           athem         a                o                 o
+\lm aṣ̌aiia   dā_          vīspa_          yazata_           gaēθiia_
+\PoS adv.        vb.           adj.             adj.              adj.
+\gD rechtens    geben         all              verehrungswürdig irdisch
+
+\tx yōi            həṇti      yesńiiāca            vahmiiāca             aṣ̌āt̰  haca   vahištāt̰
+\std yōi            hə̍ṇti    yasńiiā̍      _ca   vahmiiā̍       _ca   aṣ̌ā̍t̰ ha̍ca va̍hištāt̰
+\mrph n.pl.m.         3.pl.prs.act. n.pl.m.          $     n.pl.m.          $     abl.sg.      $      abl.sg.m.
+\cls o               athem         a                $     o                $     o            $      o
+\lm ya_             as_           yasńiia_        _ca   vahmiia_         _ca   aṣ̌a_      haca   vahišta_
+\PoS prn.            vb.           adj.             part. adj.             part. sm.          adv.   adj.
+\gD Relativpronomen sein          opferungswürdig und   preisungswürdig und   Richtigkeit  mit    beste(r/s)
+
+\trans ‚In der Richtigkeit [i.e. ihr entsprechend] gebe ich [diese Opfer] allen zu opfernden Irdischen, die mit der besten Richtigkeit zu opfern und zu besingen würdig sind.‘
+
+\id Y09
+\ref Y09_05
+\tx yimahe  xšaθre   nōit̰ aotəm   ā̊ŋha       nōit̰ garəməm
+\std Yimahe  xšaθre̍ nōit̰ a̍otəm ā̊̍ŋha     nōit̰ garəmə̍m
+\mrph g.sg.   l.sg.      $       n.sg.n.  3.sg.perf.act. $       n.sg.n.
+\cls o       o          $       o        athem          $       o
+\lm Yima_   xšaθra_  nōit̰ aota_    as_            nōit̰ garəma_
+\PoS sm.npr. sn.        part.   adj.     vb.            part.   adj.
+\gD Yima    Herrschaft neĩ    kalt     sein           neĩ    Hitze
+
+\trans
+\ref Y09_14
+\tx tūm  paoiriiō   zaraθuštra  ahunəm   vairīm     frasrāuuaiiō
+\std tūm  paoiriiō̍ Zaraθuštra  a̍hunəm va̍irīm   fra_srāuua̍iiō
+\mrph n.sg. n.sg.m.     v.sg.         a.sg.     a.sg.m.     2.sg.inj.act.
+\lm tūm  paoiriia_   Zaraθuštra_ ahuna_    vairiia_    fra_srū_
+\PoS prn.  adj.        sm.npr.       adj.      adj.        vb.
+\gD du    erster      Zarathustra   Seins-    zu_wählend rezitieren
+\cls pers. ia          o             o         o           athem
+\trans Du Zarathustra hast als erster das Ahuna Vairiia zu Gehör gebracht
+
+\id Y15
+\ref Y15_01
+\tx aməṣ̌ə̄  spəṇtə̄   srīrāiš   nāmąn   āzbaiia
+\std amə̍ṣ̌ə̄ spəṇtə̄̍ srīrā̍iš nā̍mąn āzba̍iia
+\mrph a.pl.m.        a.pl.m.        i.pl.n.      a.pl.     2.sg.imp.act.
+\cls o              a              a            n         i̯a
+\lm aməṣ̌a_     spəṇta_     srīra_      nāman_   ā_zū_
+\PoS adj.           adj.           adj.         sn.       vb.
+\gD unsterblich    heilvoll       schön       Name      beschwören,herbeirufen
+
+\trans Beschwöre die Aməša Spənta mit [ihren] schönen Namen
+
+\id Y67
+\ref Y67_04
+\tx aṣ̌aiia   daδāmi      vīspaēibiiō   vaŋhuδābiiō
+\std aṣ̌aiia̍ da̍δāmi    vī̍spaēibiiō vaŋhu_δābiiō
+\mrph l.sg.n.     1.sg.prs.act. d.pl.m.          d.pl.m.
+\cls $           athem         a                u/i   athem
+\lm aṣ̌aiia   dā_          vīspa_          vohu_ dā_
+\PoS adv.        vb.           adj.             adj.  vb.
+\gD rechtens    setzen        all              gut   geben
+
+\tx yōi            həṇti      yesńiiāca
+\std yōi            hə̍ṇti    yasńiiā̍      _ca
+\mrph n.pl.m.         3.pl.prs.act. n.pl.m.          $
+\cls o               athem         a                $
+\lm ya_             as_           yasńiia_        _ca
+\PoS prn.            vb.           adj.             part.
+\gD Relativpronomen sein          opferungswürdig und
+
+\tx vahmiiāca              aṣ̌at̰   haca   vahištāt̰
+\std vahmiiā̍        _ca   aṣ̌ā̍t̰ ha̍ca va̍hištāt̰
+\mrph n.pl.m.           $     abl.sg.      $      abl.sg.m.
+\cls i̯a              $     o            $      o
+\lm vahmiia_          _ca   aṣ̌a_      haca   vahišta_
+\PoS adj.              part. sm.          adv.   adj.
+\gD besingungswürdig und   Richtigkeit  mit    beste(r/s)
+
+\trans Entsprechend der Richtigkeit gebe ich [diese Opfer] allen Wohltätern, die mit der besten Richtigkeit zu opfern und zu besingen würdig sind.
