@@ -1,1 +1,0 @@
-yes_answers = ["y", "yes", "j", "ja"]

@@ -12,21 +12,55 @@ from globals import *
 from fileParser import getFilterFrom
 from utils import *
 
-init_globals_from_args(sys.argv[1:])
-
-# load Toolbox-Data
-
-# wird verwendet, um die gelesenen Marker zu filtern.
-# do_filter wird als Liste von allen Markern definiert, nach denen gefilert wird.
-
-if Is.do_filter:
-    filters = getFilterFrom(Paths.filter)
+yes_answers = ["y", "yes", "j", "ja"]
+filters = None
 
 # wird verwendet, um alle Datenbanken, ob Text- oder Wörterbuch, einzulesen
 marker_stack = []
+# hiermit werden nur die Text-Datenbanken gelesen
+words = []
+log = []
+
+# gibt bei do_check und geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet. Für den Fall, dass Annotationen vollkommen fehlen, können diese automatisch aufgefüllt werden, deswegen gibt die Funktion immer eine Liste von Werten zurück, die mit extend() angefügt wird.
+spannenindex = {}
+
+# ...
+raw_xml = {}
+
+markers = {}
+db_words = {}
 
 
 def decode_toolbox_map(string, marker):
+    def get_line(string, marker):
+        string = re.sub("\n(?!\\\\)", " ", string)
+        search_reg = "\\\\({}) ?(.+?\n)?"
+        this_line = re.search(search_reg.format(marker), string)
+        return {marker: this_line.group(2) if this_line else ""}
+
+    def next_line(string, marker):
+        marker_stack.append(marker)
+
+        if "mkrFollowingThis" in markers[marker]:
+            new_marker = markers[marker]["mkrFollowingThis"]
+
+            # in manchen Dateien ist als following auf den Übersetzungsmarker wieder ref eingegeben, um die Datei leicht zu erweitern. Das führt zu einem unendlichen Loop, der hier unterbrochen wird.
+            if new_marker in marker_stack:
+                marker_stack.pop()
+                return get_line(string, marker)
+
+        else:  # der letzte Marker ist die Übersetzung
+            marker_stack.pop()
+            return get_line(string, marker)
+
+        nnn = next_line(string, new_marker)
+        ttt = get_line(string, marker)
+
+        ttt.update(nnn)
+
+        marker_stack.pop()
+        return ttt
+
     def next_block(string, marker):
         marker_stack.append(marker)
 
@@ -77,47 +111,7 @@ def decode_toolbox_map(string, marker):
             marker_stack.pop()
             return aaa
 
-    def next_line(string, marker):
-        marker_stack.append(marker)
-
-        def get_line(string, marker):
-            string = re.sub("\n(?!\\\\)", " ", string)
-
-            search_reg = "\\\\({}) ?(.+?\n)?"
-            if re.search(search_reg.format(marker), string):
-                this_line = re.search(search_reg.format(marker), string)
-                this_annotation = this_line.group(2)
-
-                return {marker: this_annotation}
-            else:
-                return {marker: ""}
-
-        if "mkrFollowingThis" in markers[marker]:
-            new_marker = markers[marker]["mkrFollowingThis"]
-
-            # in manchen Dateien ist als following auf den Übersetzungsmarker wieder ref eingegeben, um die Datei leicht zu erweitern. Das führt zu einem unendlichen Loop, der hier unterbrochen wird.
-            if new_marker in marker_stack:
-                marker_stack.pop()
-                return get_line(string, marker)
-
-        else:  # der letzte Marker ist die Übersetzung
-            marker_stack.pop()
-            return get_line(string, marker)
-
-        nnn = next_line(string, new_marker)
-        ttt = get_line(string, marker)
-
-        ttt.update(nnn)
-
-        marker_stack.pop()
-        return ttt
-
     return next_block(string, marker)
-
-
-# hiermit werden nur die Text-Datenbanken gelesen
-words = []
-log = []
 
 
 def decode_toolbox_json(map, marker, prefix):  # prefix = { marker : marker_value }	 (fName, id, rec)
@@ -295,185 +289,181 @@ def decode_toolbox_json(map, marker, prefix):  # prefix = { marker : marker_valu
             if element is None: continue
             prefix.update({marker: element})
             decode_toolbox_json(map[marker][element], new_marker, prefix)
+        return
 
-    else:
-        ref_marker = ""
-        for element in map:  # listen für ref-Gruppen
-            if Is.do_filter and "ref" in prefix.keys():
-                # print(prefix["ref"] + " " + str(is_in_subpart(prefix["ref"])))
-                sub_part = is_in_subpart(prefix["ref"], Is.do_filter)
-                if not sub_part:
-                    continue
-
-            table = decode_alignment(element, marker)
-            if table is None:
+    ref_marker = ""
+    for element in map:  # listen für ref-Gruppen
+        if Is.do_filter and "ref" in prefix.keys():
+            # print(prefix["ref"] + " " + str(is_in_subpart(prefix["ref"])))
+            sub_part = is_in_subpart(prefix["ref"], Is.do_filter)
+            if not sub_part:
                 continue
 
-            decoded_table = [ddict for llist in decode_words(marker, table, prefix) for ddict in llist]
+        table = decode_alignment(element, marker)
+        if table is None:
+            continue
 
-            if Is.do_reload:
-                if len(set([ddict["ref"] for ddict in decoded_table])) > 1:
-                    input(decoded_table)
+        decoded_table = [ddict for llist in decode_words(marker, table, prefix) for ddict in llist]
 
-                ii = 0
-                if ref_marker and ref_marker != decoded_table[0]["ref"] or ref_marker == "":
-                    uu = 0
+        if Is.do_reload:
+            if len(set([ddict["ref"] for ddict in decoded_table])) > 1:
+                input(decoded_table)
 
-                ref_marker = decoded_table[0]["ref"]
-                if ref_marker in raw_xml:
-                    xml_tx = raw_xml[ref_marker]
-                    xml_lst = xml_tx.split(" ")
-                else:
-                    break
+            ii = 0
+            if ref_marker and ref_marker != decoded_table[0]["ref"] or ref_marker == "":
+                uu = 0
 
-                # print(ref_marker)
-                # print(" ".join([ddict["tx"] for ddict in decoded_table]).strip())
-                # print(xml_tx)
+            ref_marker = decoded_table[0]["ref"]
+            if ref_marker in raw_xml:
+                xml_tx = raw_xml[ref_marker]
+                xml_lst = xml_tx.split(" ")
+            else:
+                break
 
-                while ii < len(decoded_table):
-                    toolbox_tx = decoded_table[ii]["tx"]
-                    toolbox_tx = re.sub(" +", " ", toolbox_tx)
+            # print(ref_marker)
+            # print(" ".join([ddict["tx"] for ddict in decoded_table]).strip())
+            # print(xml_tx)
 
+            while ii < len(decoded_table):
+                toolbox_tx = decoded_table[ii]["tx"]
+                toolbox_tx = re.sub(" +", " ", toolbox_tx)
+
+                tx2 = xml_lst[uu]
+                while tx2 in ["„", "‚", "“", "‘"]:
+                    uu += 1
                     tx2 = xml_lst[uu]
-                    while tx2 in ["„", "‚", "“", "‘"]:
-                        uu += 1
+
+                tx1 = re.sub(' ', ' ', toolbox_tx)
+                if tx1[-1] == "\n":
+                    tx2 += "\n"
+
+                tx2_joints = tx2.count("⸗") + tx2.count("-") + tx2.count("=")
+                tx1_breaks = tx1.count(" ")
+
+                # print(ii, tx1, tx1 == tx2, tx2)
+                if not tx1 == tx2:
+                    if ii + 1 == len(decoded_table):  #
+                        tx2 = " ".join(xml_lst[uu:])
+                        if tx1[-1] == "\n":
+                            tx2 += "\n"
+
+                        if decoded_table[ii]["tx"] == tx2:
+                            # es fehlen lediglich Annotationen, der Rest ist identisch
+                            uu += tx2.count(" ")
+                            break
+                        elif uu + tx1_breaks + 1 < len(xml_lst) and decoded_table[ii]["tx"] == xml_lst[
+                            uu + tx1_breaks + 1] + "\n":
+                            # und nicht auf der nächsten Zeile noch ein anderes Wort dazwischen gerutscht ist (passiert bei Zeilen mit Zwei wörtern, wenn darüber ein Zeilenumbruch eingefügt wird),
+                            print(ref_marker, "initial surplus word. Possible line break?")
+                            uu += 1
+                            continue
+
+                    # das Wort oder die Phrase ist äquivalent zu allem, was folgt. Dadurch ist ein index-overflow im Folgenden ausgeschlossen
+
+                    elif tx1[0] == "@":  # Spannenannotationen werden übersprüngen und ggf. rückwirkend korrigiert
+                        ii += 1
+                        continue
+
+                    elif tx1 == " ".join(xml_lst[
+                                         uu:uu + tx1_breaks + 1]):  # in diesem Fall stimmen beide Teile überein, sobald man die Leerzeichen berücksichtigt. Das ist der Fall, wenn Nobreak-Spaces oder Leerzeichen im Text vorhanden sind. Letzeteres kann bei unvollständigen Annotationen auftreten
+                        tx2 = " ".join(xml_lst[uu:uu + tx1_breaks + 1])
+                        if tx1[-1] == "\n":
+                            tx2 += "\n"
+
+                        uu += tx1_breaks + 1
+                        ii += 1
+                        continue
+
+                    elif decoded_table[ii + 1]["tx"] == xml_lst[
+                        uu + 1]:  # wenn das nächste Wort übereinstimmt, liegt hier Äquivalenz vor und es kann ausgetauscht werden
                         tx2 = xml_lst[uu]
 
-                    tx1 = re.sub(' ', ' ', toolbox_tx)
-                    if tx1[-1] == "\n":
-                        tx2 += "\n"
+                    elif decoded_table[ii + 2]["tx"] == xml_lst[
+                        uu + tx1_breaks + 1]:  # das übernächste Wort stimmt überein
+                        if not tx1_breaks:  # wenn keine Leerzeichen oder Nbksp vorhanden sind, die auf eine Zusammenrückung in der Korrektur hinweisen, wurde wahrscheinlich ein Wort gelöscht
+                            print("deleted '" + decoded_table[ii]["tx"] + "' at index", ii, "in", ref_marker)
+                            decoded_table = decoded_table[:ii] + decoded_table[ii + 1:]
 
-                    tx2_joints = tx2.count("⸗") + tx2.count("-") + tx2.count("=")
-                    tx1_breaks = tx1.count(" ")
-
-                    # print(ii, tx1, tx1 == tx2, tx2)
-                    if not tx1 == tx2:
-                        if ii + 1 == len(decoded_table):  #
-                            tx2 = " ".join(xml_lst[uu:])
-                            if tx1[-1] == "\n":
-                                tx2 += "\n"
-
-                            if decoded_table[ii]["tx"] == tx2:
-                                # es fehlen lediglich Annotationen, der Rest ist identisch
-                                uu += tx2.count(" ")
-                                break
-                            elif uu + tx1_breaks + 1 < len(xml_lst) and decoded_table[ii]["tx"] == xml_lst[
-                                uu + tx1_breaks + 1] + "\n":
-                                # und nicht auf der nächsten Zeile noch ein anderes Wort dazwischen gerutscht ist (passiert bei Zeilen mit Zwei wörtern, wenn darüber ein Zeilenumbruch eingefügt wird),
-                                print(ref_marker, "initial surplus word. Possible line break?")
-                                uu += 1
-                                continue
-
-                        # das Wort oder die Phrase ist äquivalent zu allem, was folgt. Dadurch ist ein index-overflow im Folgenden ausgeschlossen
-
-                        elif tx1[0] == "@":  # Spannenannotationen werden übersprüngen und ggf. rückwirkend korrigiert
-                            ii += 1
                             continue
-
-                        elif tx1 == " ".join(xml_lst[
-                                             uu:uu + tx1_breaks + 1]):  # in diesem Fall stimmen beide Teile überein, sobald man die Leerzeichen berücksichtigt. Das ist der Fall, wenn Nobreak-Spaces oder Leerzeichen im Text vorhanden sind. Letzeteres kann bei unvollständigen Annotationen auftreten
-                            tx2 = " ".join(xml_lst[uu:uu + tx1_breaks + 1])
-                            if tx1[-1] == "\n":
-                                tx2 += "\n"
-
-                            uu += tx1_breaks + 1
-                            ii += 1
-                            continue
-
-                        elif decoded_table[ii + 1]["tx"] == xml_lst[
-                            uu + 1]:  # wenn das nächste Wort übereinstimmt, liegt hier Äquivalenz vor und es kann ausgetauscht werden
-                            tx2 = xml_lst[uu]
-
-                        elif decoded_table[ii + 2]["tx"] == xml_lst[
-                            uu + tx1_breaks + 1]:  # das übernächste Wort stimmt überein
-                            if not tx1_breaks:  # wenn keine Leerzeichen oder Nbksp vorhanden sind, die auf eine Zusammenrückung in der Korrektur hinweisen, wurde wahrscheinlich ein Wort gelöscht
-                                print("deleted '" + decoded_table[ii]["tx"] + "' at index", ii, "in", ref_marker)
-                                decoded_table = decoded_table[:ii] + decoded_table[ii + 1:]
-
-                                continue
-
-                            else:
-                                print(ref_marker)
-                                print(" ".join([ddict["tx"] for ddict in decoded_table]))
-                                print(xml_tx)
-                                print(ii, uu, tx1_breaks)
-                                print("breaks")
-                                input()
-
-                        elif decoded_table[ii]["tx"] == xml_lst[
-                            uu + tx1_breaks + 1]:  # Das Wort wurde in der XML-Datei gelöscht
-                            if not tx1_breaks:  # wenn keine Leerzeichen oder Nbksp vorhanden sind, die auf eine Zusammenrückung in der Korrektur hinweisen, wurde wahrscheinlich ein Wort gelöscht
-                                if ii == 0:  # am Anfang der Zeile deuten Löschungen auf Zeilenumbrüche hin
-                                    print(ref_marker, "initial surplus word. Possible line break?")
-
-                                else:
-                                    print(ref_marker)
-                                    print(" ".join([ddict["tx"] for ddict in decoded_table]))
-                                    print(xml_tx)
-                                    print(ii, uu, tx1_breaks)
-                                    print("deleted in-place")
-
-                                input()
-
-                                uu += 1
-                                continue
-
-                            else:
-                                print(ref_marker)
-                                print(" ".join([ddict["tx"] for ddict in decoded_table]))
-                                print(xml_tx)
-                                print(ii, uu, tx1_breaks)
-                                print("breaks in-place")
-                                input()
-
 
                         else:
                             print(ref_marker)
-                            print(" ".join([ddict["tx"] for ddict in decoded_table]).strip())
+                            print(" ".join([ddict["tx"] for ddict in decoded_table]))
                             print(xml_tx)
+                            print(ii, uu, tx1_breaks)
+                            print("breaks")
+                            input()
 
-                            print("Please check the source file and try again")
+                    elif decoded_table[ii]["tx"] == xml_lst[
+                        uu + tx1_breaks + 1]:  # Das Wort wurde in der XML-Datei gelöscht
+                        if not tx1_breaks:  # wenn keine Leerzeichen oder Nbksp vorhanden sind, die auf eine Zusammenrückung in der Korrektur hinweisen, wurde wahrscheinlich ein Wort gelöscht
+                            if ii == 0:  # am Anfang der Zeile deuten Löschungen auf Zeilenumbrüche hin
+                                print(ref_marker, "initial surplus word. Possible line break?")
+
+                            else:
+                                print(ref_marker)
+                                print(" ".join([ddict["tx"] for ddict in decoded_table]))
+                                print(xml_tx)
+                                print(ii, uu, tx1_breaks)
+                                print("deleted in-place")
 
                             input()
-                            break
 
-                        if ("|" not in tx2) and ("|" in tx1):
-                            print(ref_marker, "please add a linebreak to the xml")
-                            return
+                            uu += 1
+                            continue
 
-                        existing_annotations = [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if
-                                                entry[marker].strip("\n").replace(' ', ' ') == toolbox_tx.strip("\n")]
-                        if existing_annotations:
-                            if not [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if
-                                    entry[marker].strip("\n").replace(' ', ' ') == tx1.strip("\n")]:
-                                for ann in existing_annotations:
-                                    new_ann = dict(copy(ann), **{marker: tx1.replace(' ', ' ').strip("\n") + "\n"})
-                                    db_words[markers[marker]["jumps"][0]["dbtyp"]].append(new_ann)
-                                    print("new", new_ann)
-
-                        yy = 1  # Behandlung von Spannen
-                        while yy < ii and "@" + decoded_table[ii]["tx"] == decoded_table[ii - yy]["tx"]:
-                            decoded_table[ii - yy]["tx"] = "@" + tx2
-
-                            print("@@@")
-                            input(" ".join([ddict["tx"] for ddict in decoded_table]))
-
-                        if not ("|" in tx2 or len(decoded_table) == 1):
-                            print(ref_marker, decoded_table[ii]["tx"], "→", tx2)
-                        decoded_table[ii]["tx"] = tx2
-
-                    uu += 1
-                    ii += 1
-
-            # input()
-
-            for dictt in decoded_table:
-                # wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
-                words.extend(check_word_for_consistency(dictt, marker))
+                        else:
+                            print(ref_marker)
+                            print(" ".join([ddict["tx"] for ddict in decoded_table]))
+                            print(xml_tx)
+                            print(ii, uu, tx1_breaks)
+                            print("breaks in-place")
+                            input()
 
 
-# gibt bei do_check und geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet. Für den Fall, dass Annotationen vollkommen fehlen, können diese automatisch aufgefüllt werden, deswegen gibt die Funktion immer eine Liste von Werten zurück, die mit extend() angefügt wird.
-spannenindex = {}
+                    else:
+                        print(ref_marker)
+                        print(" ".join([ddict["tx"] for ddict in decoded_table]).strip())
+                        print(xml_tx)
+
+                        print("Please check the source file and try again")
+
+                        input()
+                        break
+
+                    if ("|" not in tx2) and ("|" in tx1):
+                        print(ref_marker, "please add a linebreak to the xml")
+                        return
+
+                    existing_annotations = [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if
+                                            entry[marker].strip("\n").replace(' ', ' ') == toolbox_tx.strip("\n")]
+                    if existing_annotations:
+                        if not [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if
+                                entry[marker].strip("\n").replace(' ', ' ') == tx1.strip("\n")]:
+                            for ann in existing_annotations:
+                                new_ann = dict(copy(ann), **{marker: tx1.replace(' ', ' ').strip("\n") + "\n"})
+                                db_words[markers[marker]["jumps"][0]["dbtyp"]].append(new_ann)
+                                print("new", new_ann)
+
+                    yy = 1  # Behandlung von Spannen
+                    while yy < ii and "@" + decoded_table[ii]["tx"] == decoded_table[ii - yy]["tx"]:
+                        decoded_table[ii - yy]["tx"] = "@" + tx2
+
+                        print("@@@")
+                        input(" ".join([ddict["tx"] for ddict in decoded_table]))
+
+                    if not ("|" in tx2 or len(decoded_table) == 1):
+                        print(ref_marker, decoded_table[ii]["tx"], "→", tx2)
+                    decoded_table[ii]["tx"] = tx2
+
+                uu += 1
+                ii += 1
+
+        # input()
+
+        for dictt in decoded_table:
+            # wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
+            words.extend(check_word_for_consistency(dictt, marker))
 
 
 def check_word_for_consistency(word, marker):
@@ -750,9 +740,6 @@ def list_to_toolbox(words, root_marker):
     print(current_file_name + " written")
 
 
-raw_xml = {}
-
-
 def read_original(read_path):
     def open_xml(path):
         with open(path, "r", encoding="utf-8") as f:
@@ -805,209 +792,211 @@ def read_original(read_path):
             reference = "{title}_{page}.{line}".format(title=doc_title, page=return_page_nr(page["nr"]),
                                                        line=return_line_nr(line["nr"]))
 
+if __name__ == '__main__':
+    init_globals_from_args(sys.argv[1:])
 
-# Generation der Listen mit den Dateien
-print("Lade Datenbanken...")
+    # load Toolbox-Data
 
-toolbox_folder = list(os.walk(Paths.toolbox_folder))
+    # wird verwendet, um die gelesenen Marker zu filtern.
+    # do_filter wird als Liste von allen Markern definiert, nach denen gefilert wird.
 
-other_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if
-               file[-3:] == "txt" and file != "ReadmeAfter.txt" and not file[
-                                                                        -8:] == "konk.txt" or "." not in file]  # Datenbanken können im Prinzip als jede Datei gespeichert werden, naheliegend sind .txt und engungslose Dateien. Das Readme und die generierten Konkordanzen (die sollten vlt. gelöscht werden) müssen ausgenommen werden
+    if Is.do_filter:
+        filters = getFilterFrom(Paths.filter)
 
-# hier wird eine Liste mit den Datenbanktypen generiert
-typ_files = {file[:-4]: os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if
-             file[-3:] == "typ"}
+    # Generation der Listen mit den Dateien
+    print("Lade Datenbanken...")
 
-types = {}
-for typ in typ_files:
-    file_text = open(typ_files[typ], "r", encoding="UTF-8").read().replace("\\", "\\\\")
-    type_name = re.search("\\\\\+DatabaseType (\S+)", file_text).group(1)
+    toolbox_folder = list(os.walk(Paths.toolbox_folder))
 
-    mkr_record = re.search("\\\\mkrRecord (\S+)", file_text).group(1)
-    gloss_seperator = re.search("\\\\GlossSeparator (\S)", file_text).group(1) if re.search("GlossSeparator",
-                                                                                            file_text) else None
+    other_files = []
+    typ_files = {}
+    for path, _, files in toolbox_folder:
+        for file in files:
+            if is_valid_file(file):
+                other_files.append(os.path.join(path, file))
 
-    markers = {}
-    mkr_texts = re.findall("\\\\\+mkr [\s\S]+?\\\\-mkr", file_text)
-    for mkr_text in mkr_texts:
+            if file[-3:] == "typ":
+                typ_files[file[:-4]] = os.path.join(path, file)
 
-        keys = {}
-        for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", mkr_text):
-            keys[match[0]] = match[1]
-            if match[0] == "mkr":
-                key = match[1]
+    types = {}
+    for typ in typ_files:
+        file_text = open(typ_files[typ], "r", encoding="UTF-8").read().replace("\\", "\\\\")
+        type_name = re.search("\\\\\+DatabaseType (\S+)", file_text).group(1)
 
-        markers[key] = keys
+        mkr_record = re.search("\\\\mkrRecord (\S+)", file_text).group(1)
+        gloss_seperator = re.search("\\\\GlossSeparator (\S)", file_text).group(1) if re.search("GlossSeparator",
+                                                                                                file_text) else None
 
-    jmp_texts = re.findall("\\\\\+intprc [\s\S]+?\\\\-intprc", file_text)
+        markers = {}
+        mkr_texts = re.findall("\\\\\+mkr [\s\S]+?\\\\-mkr", file_text)
+        for mkr_text in mkr_texts:
+            keys = {}
+            for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", mkr_text):
+                keys[match[0]] = match[1]
+                if match[0] == "mkr":
+                    key = match[1]
 
-    if not jmp_texts:
-        print("No jumps in marker {}. You might add lookup function?".format(key))
+            markers[key] = keys
 
-    for jmp_text in jmp_texts:
+        jmp_texts = re.findall("\\\\\+intprc [\s\S]+?\\\\-intprc", file_text)
 
-        keys = {}
-        for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", jmp_text):
-            keys[match[0]] = match[1]
-            if match[0] == "mkr":
-                key = match[1]
+        if not jmp_texts:
+            print("No jumps in marker {}. You might add lookup function?".format(key))
 
-        if "jumps" in markers[key]:
-            markers[key]["jumps"].append(keys)
-        else:
-            markers[key]["jumps"] = [keys]
+        for jmp_text in jmp_texts:
 
-    types[type_name] = [{"mkrRecord": mkr_record, "GlossSeparator": gloss_seperator, "markers": [markers]}]
+            keys = {}
+            for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", jmp_text):
+                keys[match[0]] = match[1]
+                if match[0] == "mkr":
+                    key = match[1]
 
-# mit der Liste der Sprachtypen soll das Verhalten von Toolbox nachgeahmt werden, nur vordefinierte Zeichen zu zählen
-# lng_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "lng"]
-# languages = {}
-# for lng in lng_files:
-# file_text = open(lng, "r", encoding="UTF-8").read().replace("\\", "\\\\")
-# input(file_text)
+            if "jumps" in markers[key]:
+                markers[key]["jumps"].append(keys)
+            else:
+                markers[key]["jumps"] = [keys]
 
+        types[type_name] = [{"mkrRecord": mkr_record, "GlossSeparator": gloss_seperator, "markers": [markers]}]
 
-# brauch ich eigentlich nicht, steht nichts drinne
-prj_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "prj"]
-project_file = prj_files[0]
+    # mit der Liste der Sprachtypen soll das Verhalten von Toolbox nachgeahmt werden, nur vordefinierte Zeichen zu zählen
+    # lng_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "lng"]
+    # languages = {}
+    # for lng in lng_files:
+    # file_text = open(lng, "r", encoding="UTF-8").read().replace("\\", "\\\\")
+    # input(file_text)
 
-# for file in other_files:
-#	print(file)
-#	open(file, "r", encoding="UTF-8").read()
+    # das sind dann die Dateien, aus denen tatsächlich Informationen extrahiert werden
+    databases = [[file, open(file, "r", encoding="UTF-8").readlines()[0].split(" ", 4)[4].strip()] for file in
+                 other_files]
+    # Bsp.: "\_sh v3.0  621  Text". Wichtig: doppelte Leerzeichen
+    db_files = [tuple for tuple in databases if tuple[1] != "Text"]
+    text_files = [tuple for tuple in databases if tuple[1] == "Text"]
 
-# das sind dann die Dateien, aus denen tatsächlich Informationen extrahiert werden
-databases = [[file, open(file, "r", encoding="UTF-8").readlines()[0].split(" ", 4)[4].strip()] for file in
-             other_files]  # Bsp.: "\_sh v3.0  621  Text". Wichtig: doppelte Leerzeichen
-db_files = [tuple for tuple in databases if tuple[1] != "Text"]
-text_files = [tuple for tuple in databases if tuple[1] == "Text"]
+    # hier werden die Wörterbücher geladen, damit in Realtime verglichen werden kann, was konsistent ist und was nicht
 
-# hier werden die Wörterbücher geladen, damit in Realtime verglichen werden kann, was konsistent ist und was nicht
-db_words = {}
-for db_file in db_files:
-    file_path, typ = db_file[0], db_file[1]
+    for db_file in db_files:
+        file_path, typ = db_file[0], db_file[1]
 
-    with open(file_path, "r", encoding="UTF-8") as file:
-        file_text = file.read()
+        with open(file_path, "r", encoding="UTF-8") as file:
+            file_text = file.read()
 
-    if not file_text[-1] == "\n":
-        file_text += "\n"
+        if not file_text[-1] == "\n":
+            file_text += "\n"
 
-    if not typ in types:
-        continue
+        if typ not in types:
+            continue
 
-    root_marker = types[typ][0]["mkrRecord"]
-    markers = types[typ][0]["markers"][0]
+        root_marker = types[typ][0]["mkrRecord"]
+        markers = types[typ][0]["markers"][0]  # TODO Delete maby
 
-    map = decode_toolbox_map(file_text, root_marker)
-    if map:
+        map = decode_toolbox_map(file_text, root_marker)
         df = pandas.DataFrame.from_records(map)
         dpl = df[df.duplicated(keep='first')]
         if not dpl.empty:
             print(typ, "has duplicates:")
             print(dpl.to_string())
-
             input("press enter to continue")
 
-    db_words[typ] = map
+        db_words[typ] = map
 
-# bring the action
-print("\nLese Dateien:")
-for text_file in text_files:
-    file_path, typ = text_file[0], text_file[1]
+    # bring the action
+    print("\nLese Dateien:")
+    for text_file in text_files:
+        file_path, typ = text_file[0], text_file[1]
 
-    with open(file_path, "r", encoding="UTF-8") as file:
-        print(file_path)
-        file_text = file.read()
+        with open(file_path, "r", encoding="UTF-8") as file:
+            print(file_path)
+            file_text = file.read()
 
-    if not file_text[-1] == "\n":
-        file_text += "\n"
+        if not file_text[-1] == "\n":
+            file_text += "\n"
 
-    root_marker = types[typ][0]["mkrRecord"]
-    markers = types[typ][0]["markers"][0]
+        root_marker = types[typ][0]["mkrRecord"]
+        markers = types[typ][0]["markers"][0]
 
-    map = decode_toolbox_map(file_text, root_marker)
+        map = decode_toolbox_map(file_text, root_marker)
 
-    filename = os.path.basename(file_path)
-    filename = filename[:-4] if ".txt" in filename else filename
-    decode_toolbox_json(map, root_marker, {"fName": filename})
+        filename = os.path.basename(file_path)
+        filename = filename[:-4] if ".txt" in filename else filename
+        decode_toolbox_json(map, root_marker, {"fName": filename})
 
-if Is.reexport:
-    list_to_toolbox(words, root_marker)
+    if Is.reexport:
+        list_to_toolbox(words, root_marker)
 
-df = pandas.DataFrame.from_records(words)
-df = df.replace(r'\n', '', regex=True)
-df.to_csv(Paths.output_folder, sep=';', encoding="UTF-8-SIG", index=False, header=True)
+    df = pandas.DataFrame.from_records(words)
+    df = df.replace(r'\n', '', regex=True)
+    df.to_csv(Paths.output_folder, sep=';', encoding="UTF-8-SIG", index=False, header=True)
 
-if Paths.excel_export:
-    wb = openpyxl.Workbook()
-    ws = wb.active
-    ws.title = "AnnotationData"
+    if Paths.excel_export:
+        wb = openpyxl.Workbook()
+        ws = wb.active
+        ws.title = "AnnotationData"
 
-    for row in dataframe_to_rows(df, index=False, header=True):
-        ws.append(row)
+        for row in dataframe_to_rows(df, index=False, header=True):
+            ws.append(row)
 
-    for col in ws.iter_cols():
-        merge_first = False
-        for cell in col:
-            cc = cell.column
+        for col in ws.iter_cols():
+            merge_first = False
+            for cell in col:
+                cc = cell.column
 
-            if col[0].value in ["fName", "id", "ref"]:
-                if cell.row > 1 and cell.value and str(ws.cell(column=cc, row=cell.row - 1).value) != cell.value:
-                    if not merge_first:
+                if col[0].value in ["fName", "id", "ref"]:
+                    if cell.row > 1 and cell.value and str(ws.cell(column=cc, row=cell.row - 1).value) != cell.value:
+                        if not merge_first:
+                            merge_first = cell.row
+                            merge_last = False
+                        else:
+                            merge_last = cell.row - 1
+
+                            ws.merge_cells(start_column=cc, end_column=cc, start_row=merge_first, end_row=merge_last)
+
+                            merge_first = cell.row
+
+                else:
+                    if not merge_first and cell.value and str(cell.value)[0] == "@":
                         merge_first = cell.row
-                        merge_last = False
-                    else:
-                        merge_last = cell.row - 1
+                    # cell.value = None
+                    elif merge_first and cell.value[0] != "@":
+                        merge_last = cell.row
+                        ws.cell(row=merge_first, column=cc).value = cell.value
 
                         ws.merge_cells(start_column=cc, end_column=cc, start_row=merge_first, end_row=merge_last)
 
-                        merge_first = cell.row
+                        merge_first = False
+                        merge_last = False
 
-            else:
-                if not merge_first and cell.value and str(cell.value)[0] == "@":
-                    merge_first = cell.row
-                # cell.value = None
-                elif merge_first and cell.value[0] != "@":
-                    merge_last = cell.row
-                    ws.cell(row=merge_first, column=cc).value = cell.value
+            if merge_first:
+                merge_last = col[-1].row
+                ws.merge_cells(start_column=cc, end_column=cc, start_row=merge_first, end_row=merge_last)
 
-                    ws.merge_cells(start_column=cc, end_column=cc, start_row=merge_first, end_row=merge_last)
+        meta_file_path = os.path.join(Paths.toolbox_folder,
+                                      os.path.splitext(os.path.basename(Paths.excel_export))[0] + ".json")
+        if os.path.isfile(meta_file_path):
+            ms = wb.create_sheet("MetaData")
 
-                    merge_first = False
-                    merge_last = False
+            meta_text = open(meta_file_path, 'r').read()
+            meta_info = json.loads(meta_text, ensure_ascii=False)
 
-        if merge_first:
-            merge_last = col[-1].row
-            ws.merge_cells(start_column=cc, end_column=cc, start_row=merge_first, end_row=merge_last)
+            for key, value in meta_info.items():
+                ms.append([key, value])
 
-    meta_file_path = os.path.join(Paths.toolbox_folder, os.path.splitext(os.path.basename(Paths.excel_export))[0] + ".json")
-    if os.path.isfile(meta_file_path):
-        ms = wb.create_sheet("MetaData")
+        while True:
+            try:
+                wb.save(Paths.excel_export)
+                break
+            except PermissionError:
+                input("please close " + Paths.excel_export)
 
-        meta_text = open(meta_file_path, 'r').read()
-        meta_info = json.loads(meta_text, ensure_ascii=False)
+        print("\n" + Paths.excel_export, "written")
 
-        for key, value in meta_info.items():
-            ms.append([key, value])
+    if log:
+        df = pandas.DataFrame.from_records(log)
+        df = df.replace(r'\n', '', regex=True)
 
-    while True:
-        try:
-            wb.save(Paths.excel_export)
-            break
-        except PermissionError:
-            input("please close " + Paths.excel_export)
+        print("\nlength of log:")
+        print(df["fName"].value_counts())
+        df.to_csv(Paths.log_file, sep=';', encoding="UTF-8-SIG", index=False, header=True)
+    else:
+        print("no log")
 
-    print("\n" + Paths.excel_export, "written")
-
-if log:
-    df = pandas.DataFrame.from_records(log)
-    df = df.replace(r'\n', '', regex=True)
-
-    print("\nlength of log:")
-    print(df["fName"].value_counts())
-    df.to_csv(Paths.log_file, sep=';', encoding="UTF-8-SIG", index=False, header=True)
-else:
-    print("no log")
-
-print(len(words), "words")
+    print(len(words), "words")

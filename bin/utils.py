@@ -1,5 +1,7 @@
 import re
 
+import pandas
+
 """
 A file with only functions to make the main function more readable
 """
@@ -30,4 +32,12 @@ def is_in_subpart(pfx_str, do_filter, filters):
             return filter[2]
 
     return False
+
+
+# Datenbanken können im Prinzip als jede Datei gespeichert werden, naheliegend sind .txt und endungslose Dateien.
+# Das Readme und die generierten Konkordanzen (die sollten vlt. gelöscht werden) müssen ausgenommen werden
+def is_valid_file(filename):
+    is_bad_file = filename == "ReadmeAfter.txt" or filename[-8:] == "konk.txt"
+    is_valid_type = "." not in filename or filename[-4:] == ".txt"
+    return is_valid_type and not is_bad_file
 
