@@ -1,3 +1,4 @@
+# By (github) @suetzjoh
 import sys, getopt, os
 import regex as re
 import csv, json
