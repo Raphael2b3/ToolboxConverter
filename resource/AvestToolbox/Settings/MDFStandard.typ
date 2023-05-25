@@ -69,7 +69,7 @@
 \dbtyp MDF-Standard
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Standard.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Standard.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -95,7 +95,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Lm-Mrph.txt
 \mkr std
 \-drf
 \-drflst

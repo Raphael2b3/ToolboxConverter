@@ -8,14 +8,15 @@ args:
 
 
 class Paths:
+    root = r"../../"
     # path to get the resources from
-    toolbox_folder = r"../resource/AvestToolbox"
-    output_folder = r"../output/"
+    toolbox_folder = fr"{root}/resource/AvestToolbox"
+    output_folder = fr"{root}/output/"
     # the path to the generated log.csv outputfile
-    log_file = "../output/_log.csv"  # ../output/_log.csv
-    annotation_file = "../output/_annotation.csv"  # _annotation.csv
+    log_file = rf"{root}/output/_log.csv"  # ../output/_log.csv
+    annotation_file = fr"{root}/output/_annotation.csv"  # _annotation.csv
     excel_export = False
-    filter = r"../resource/AvestToolbox/filter.csv"
+    filter = rf"{root}/resource/AvestToolbox/filter.csv"
 
 
 class Is:

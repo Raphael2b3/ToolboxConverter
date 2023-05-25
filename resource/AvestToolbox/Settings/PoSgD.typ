@@ -102,7 +102,7 @@
 \dbtyp PoS-gD
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\PoS-gD.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\PoS-gD.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -124,7 +124,7 @@
 \dbtyp Lm-Mrph
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Lm-Mrph.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -150,7 +150,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\PoS-gD.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\PoS-gD.txt
 \mkr lm
 \-drf
 \-drflst

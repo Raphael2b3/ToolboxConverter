@@ -127,7 +127,6 @@
 \nam Tranlation
 \lng English
 \mkrOverThis ref
-\mkrFollowingThis ref
 \CharStyle
 \-mkr
 
@@ -164,7 +163,7 @@
 \dbtyp MDF-Standard
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Standard.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Standard.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -186,7 +185,7 @@
 \dbtyp Lm-Mrph
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Lm-Mrph.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -207,7 +206,7 @@
 \dbtyp Lm-Mrph
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Lm-Mrph.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -229,7 +228,7 @@
 \dbtyp Lm-Mrph
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Lm-Mrph.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -251,7 +250,7 @@
 \dbtyp PoS-gD
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\PoS-gD.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\PoS-gD.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -272,7 +271,7 @@
 \dbtyp PoS-gD
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\PoS-gD.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\PoS-gD.txt
 \-drf
 \-drflst
 \+mrflst 
@@ -298,7 +297,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Syntax.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Syntax.txt
 \mkr PoS
 \-drf
 \-drflst
@@ -309,7 +308,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\PoS-gD.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\PoS-gD.txt
 \mkr lm
 \-drf
 \-drflst
@@ -320,7 +319,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Lm-Mrph.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Lm-Mrph.txt
 \mkr std
 \-drf
 \-drflst
@@ -332,7 +331,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Standard.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Standard.txt
 \mkr tx
 \-drf
 \-drflst
@@ -381,7 +380,7 @@
 \-expRTF
 
 \+expSF Standard Format
-\exportedFile D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\export
+\exportedFile C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\export
 \-expSF
 
 \expDefault Standard Format

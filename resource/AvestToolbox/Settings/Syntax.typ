@@ -41,7 +41,7 @@
 \-mkrsubsetIncluded
 \+drflst 
 \+drf 
-\File D:\Hannes\Dateien\Uni\Indoiranisch\Iranisch\AvestToolbox\Syntax.txt
+\File C:\source\repos\Python Projects\Toolbox\resource\AvestToolbox\Syntax.txt
 \mkr PoS
 \-drf
 \-drflst

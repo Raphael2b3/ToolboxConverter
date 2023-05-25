@@ -1,3 +1,5 @@
+# Convertiert  ein Toolbox Projekt zu einer CSV/ Excel Fähigen Datei format um
+
 import sys, getopt, os
 import regex as re
 import csv, json
@@ -6,19 +8,12 @@ import itertools
 from bs4 import BeautifulSoup
 from copy import copy, deepcopy
 from openpyxl.utils.dataframe import dataframe_to_rows
-
-from bin.globals import Is
 from globals import *
 from fileParser import getFilterFrom
 from utils import *
 
-yes_answers = ["y", "yes", "j", "ja"]
 filters = None
 
-# wird verwendet, um alle Datenbanken, ob Text- oder Wörterbuch, einzulesen
-marker_stack = []
-# hiermit werden nur die Text-Datenbanken gelesen
-words = []
 log = []
 
 # gibt bei do_check und geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet. Für den Fall, dass Annotationen vollkommen fehlen, können diese automatisch aufgefüllt werden, deswegen gibt die Funktion immer eine Liste von Werten zurück, die mit extend() angefügt wird.
@@ -34,7 +29,7 @@ db_words = {}
 def decode_toolbox_map(string, marker):
     def get_line(string, marker):
         string = re.sub("\n(?!\\\\)", " ", string)
-        search_reg = "\\\\({}) ?(.+?\n)?"
+        search_reg = "\\\\({}) ?(.+?(\n|$))?"
         this_line = re.search(search_reg.format(marker), string)
         return {marker: this_line.group(2) if this_line else ""}
 
@@ -887,7 +882,7 @@ if __name__ == '__main__':
             continue
 
         root_marker = types[typ][0]["mkrRecord"]
-        markers = types[typ][0]["markers"][0]  # TODO Delete maby
+        markers = types[typ][0]["markers"][0]
 
         map = decode_toolbox_map(file_text, root_marker)
         df = pandas.DataFrame.from_records(map)
