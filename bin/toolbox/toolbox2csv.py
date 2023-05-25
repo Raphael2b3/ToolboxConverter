@@ -1,16 +1,16 @@
 # Convertiert  ein Toolbox Projekt zu einer CSV/ Excel Fähigen Datei format um
 
-import sys, getopt, os
+import sys
 import regex as re
-import csv, json
-import pandas, openpyxl
+import json
+import openpyxl
 import itertools
 from bs4 import BeautifulSoup
 from copy import copy, deepcopy
 from openpyxl.utils.dataframe import dataframe_to_rows
-from globals import *
+from bin.globals import *
 from fileParser import getFilterFrom
-from utils import *
+from bin.lib.utils import *
 
 filters = None
 
